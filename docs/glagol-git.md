@@ -31,4 +31,4 @@ ssh-add -K ~/.ssh/id_rsa   # где `id_rsa` замените на имя фай
 
 <br>
 
-![img](https://1.bp.blogspot.com/-wFaMiAHx-Y8/YG3EaVrCDFI/AAAAAAAAGZY/IYjO6zFHW5wjj4I_HrssCIShQpMxWMHlgCLcBGAsYHQ/s800/IMG_2094.PNG)
+![img](https://1.bp.blogspot.com/-hOxN5KX2KfY/YPplNP_w6xI/AAAAAAAAGz0/nNxSLwD5lnQhvFnce_DzmIoSRWyY9A3QACLcBGAsYHQ/s694/theend-beats.png)

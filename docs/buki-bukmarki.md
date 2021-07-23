@@ -22,14 +22,14 @@
 
 ><span style="color: #8F7161;">`grave` – символ апостроф (гравис), находится около левой клавиши `Shift` </span>
 
-Simbol |  content   | type
--------|------------|-----
-mA      | Апракос    | url 
-mP      | Problem    | url 
-mN      | Note       | url
-mm      | самая быстрая локальная метка | url# 
-mI      | Важное     | url
-mi      | важное     | url#
+| Simbol | content                       | type |
+| ------ | ----------------------------- | ---- |
+| mA     | Апракос                       | url  |
+| mP     | Problem                       | url  |
+| mN     | Note                          | url  |
+| mm     | самая быстрая локальная метка | url# |
+| mI     | Важное                        | url  |
+| mi     | важное                        | url# |
 
 
 Если читаемая страница связана с нужной учебной документацией и тп., то нужно внимательно использовать зарезервированные символы. Со временем у меня должен установиться четкий отработанный навык **мгновенной** навигации.
@@ -40,4 +40,4 @@ mi      | важное     | url#
 
 <br>
 
-![img](https://1.bp.blogspot.com/-wFaMiAHx-Y8/YG3EaVrCDFI/AAAAAAAAGZY/IYjO6zFHW5wjj4I_HrssCIShQpMxWMHlgCLcBGAsYHQ/s800/IMG_2094.PNG)
+![img](https://1.bp.blogspot.com/-hOxN5KX2KfY/YPplNP_w6xI/AAAAAAAAGz0/nNxSLwD5lnQhvFnce_DzmIoSRWyY9A3QACLcBGAsYHQ/s694/theend-beats.png)
