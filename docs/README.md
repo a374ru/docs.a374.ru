@@ -1,5 +1,5 @@
 # РЕДИРЕКТ
 
 <script>
-	window.location.href='point_of_entry'
+	window.location.href='_README'
 	</script>
