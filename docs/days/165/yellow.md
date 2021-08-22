@@ -4,3 +4,6 @@
 Что такое роутер-линк?
 Что такое сервис?
 
+[Знакомство здесь…](https://angular.io/guide/architecture]
+
+![alt](https://angular.io/generated/images/guide/architecture/overview2.png
