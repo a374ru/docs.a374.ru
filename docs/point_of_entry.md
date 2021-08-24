@@ -1,12 +1,12 @@
-# Точка Входа
-
 <script>
-if(window.location.hostname == "a374ru.readthedocs.io"){
-window.location('../_README')
+if(window.location.hostname === "a374ru.readthedocs.io"){
+window.location.href='../_README'
 } else {
 console.log('-=-=-= Вас приветствует СВЕТОФОР-РАЗРАБОТКИ =-=-=-')
 }
 </script>
+
+# Точка Входа
 
 ![img](https://2.bp.blogspot.com/-mXGXVDW8FKA/YSJis0-2AzI/AAAAAAAAG5Y/wue1zyd-yJQDFshtPclrNOgClBzC8SMdgCK4BGAYYCw/s200/Az-742896.png)
 
