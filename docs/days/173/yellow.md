@@ -17,4 +17,4 @@
 ### Выбран SASS `SCSS`
 ### Выбран `Bootstrap`
 
-[здесь…](https://material.angular.io/guide/getting-started)
+[здесь…](https://ng-bootstrap.github.io/#/home)
