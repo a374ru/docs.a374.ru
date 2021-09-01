@@ -6,13 +6,14 @@
 	|	|__html
 	|	|__css
 	|	|__ts
-	|	|__md
+	|	|__md (for the generation editor)
 	|
 	|__apr001/
 	|	|__(files of component)
 	|
-	|__aprotime.service
-	|__aprodate.service
-	|__aproeaster.source
-	|__other resource
-
+	|__service/
+	|	|__aprodate.service
+	|	|__aprotime.service
+	|	|__aproeaster.source
+	|
+	|__other resources

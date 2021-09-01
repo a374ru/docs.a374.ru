@@ -1,8 +1,20 @@
 # Решение проблемы 
 
 Чтение мануалов Энгулар.
+
 Тестирование.
+
 Скорость настройки?
+
 Реактивность и отзывчивость?
-Простота?
-CSS or SASS or other?
+
+Простота чтения доков?
+
+~~CSS~~ or SCSS or other?
+
+---
+
+### Выбран SASS `SCSS`
+### Выбран `Bootstrap`
+
+[здесь…](https://material.angular.io/guide/getting-started)

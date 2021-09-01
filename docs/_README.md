@@ -11,7 +11,7 @@
 1. [Азъ](az.md)
 1. [Переменная](az-peremennaya.md)
 1. [Объект](az-object.md)
-2. [My English](azbuka/abc/readme.md)
+2. [My English](abc/readme.md)
 
 ## БУКИ
 
