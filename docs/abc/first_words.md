@@ -1,3 +1,4 @@
+
 # Первые нужные слова
 
 ![img](https://2.bp.blogspot.com/-0IVjlIw5BlQ/YHb2qobTLpI/AAAAAAAAGew/ITPUNXanRho4j1gvNt1ZypKJCm4V1uqwQCK4BGAYYCw/s800/listia-730502.png)
@@ -83,7 +84,7 @@
 - She<span style="color: #e34234;">'s</span> my love. — <span style="color: #8F7161;">Она моя любовь.
 - It<span style="color: #e34234;">'s</span> beautiful. — <span style="color: #8F7161;">Это прекрасно.
 
-С глаголом:
+С глаголами, например:
 - She love<span style="color: #e34234;">s</span> me. — <span style="color: #8F7161;">Она любит меня.
 - it see<span style="color: #e34234;">s</span> me! — <span style="color: #8F7161;">Оно (это) видит меня!
 
