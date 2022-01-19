@@ -1,4 +1,10 @@
- ![Кого подключать](https://2.bp.blogspot.com/-IjXLST2MW2c/Yef7PMLUbGI/AAAAAAAAHCc/nLGn_t_QT5Y1RvkrYpB0Mwd3Z21QDtCHQCK4BGAYYCw/s1600/IMG_0629-784112.PNG)
+ <script>
+function imgAlert(){
+  alert("ЭТО ПЛАТЕЖНАЯ КАРТА")
+}
+ </script>
+ 
+ <a onclick="imgAlert()">![Кого подключать](https://2.bp.blogspot.com/-IjXLST2MW2c/Yef7PMLUbGI/AAAAAAAAHCc/nLGn_t_QT5Y1RvkrYpB0Mwd3Z21QDtCHQCK4BGAYYCw/s400/IMG_0629-784112.PNG)</a>
 
 
 # Оплата ресурсов проектА
