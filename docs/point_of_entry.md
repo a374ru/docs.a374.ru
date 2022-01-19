@@ -20,6 +20,6 @@ console.log('-=-=-= Вас приветствует СВЕТОФОР-РАЗРА�
 
 ## Документация
 
-[Aprakos-TS](https://aprakos-ts.readthedocs.io)
+[Aprakos.online](https://aprakosonline.readthedocs.io)
 
-[Памятник разработки](https://a374ru.readthedocs.io)
+<!-- [Памятник разработки](https://a374ru.readthedocs.io) -->
