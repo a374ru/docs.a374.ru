@@ -8,12 +8,11 @@ console.log('-=-=-= Вас приветствует СВЕТОФОР-РАЗРА�
 
 # Точка Входа
 
-![img](https://2.bp.blogspot.com/-9Af6EFvd1Cs/YefjTfH3NcI/AAAAAAAAHCQ/95f37Qf2IJMKDyRHgwLxk6uj3YEn1pSZgCK4BGAYYCw/s320/buki-0-756788.png)
+![img](https://4.bp.blogspot.com/-9Af6EFvd1Cs/YefjTfH3NcI/AAAAAAAAHCQ/95f37Qf2IJMKDyRHgwLxk6uj3YEn1pSZgCK4BGAYYCw/s320/buki-0-756788.png)
 <br>
 <br>
 
 ## [Текущая разработка здесь…](https://github.com/a374ru/aprakos.online)
-
 
 <br>
 <br>
