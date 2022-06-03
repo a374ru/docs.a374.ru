@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="222"
+   height="222"
+   viewBox="0 0 58.737499 58.7375"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient9883">
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1;"
+         offset="0"
+         id="stop9879" />
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:0;"
+         offset="1"
+         id="stop9881" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9494">
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1;"
+         offset="0"
+         id="stop9492" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6000-1">
+      <stop
+         style="stop-color:#ff5394;stop-opacity:1;"
+         offset="0"
+         id="stop5996" />
+      <stop
+         style="stop-color:#80b400;stop-opacity:1;"
+         offset="1"
+         id="stop5998" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient6000-1"
+       id="linearGradient5631"
+       x1="29.826115"
+       y1="54.923698"
+       x2="28.371185"
+       y2="3.6373327"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.3994994,0.18186653)"
+       spreadMethod="reflect" />
+    <linearGradient
+       xlink:href="#linearGradient9883"
+       id="linearGradient9885"
+       x1="29.276529"
+       y1="40.610462"
+       x2="28.971384"
+       y2="12.422212"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98794821,0,0,0.98794821,-0.19816979,1.1951326)" />
+  </defs>
+  <g
+     id="layer1">
+    <circle
+       style="fill:url(#linearGradient5631);fill-opacity:1;stroke:#810067;stroke-width:0;stroke-opacity:1"
+       id="path3544"
+       cx="29.522579"
+       cy="29.078041"
+       r="26.331427" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:0.772575;stroke:#810067;stroke-width:0;stroke-opacity:1"
+       id="path9939"
+       cx="29.522579"
+       cy="29.078041"
+       rx="20.550922"
+       ry="21.278389" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.0942px;font-family:Clunya;-inkscape-font-specification:'Clunya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient9885);fill-opacity:1;stroke:#008104;stroke-width:0"
+       x="21.368425"
+       y="43.295734"
+       id="text3282"
+       transform="rotate(0.25056943)"><tspan
+         id="tspan3280"
+         x="21.368425"
+         y="43.295734"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.0942px;font-family:Clunya;-inkscape-font-specification:'Clunya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient9885);fill-opacity:1;stroke-width:0">б7</tspan></text>
+  </g>
+</svg>
