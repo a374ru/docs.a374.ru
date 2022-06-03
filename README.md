@@ -1,9 +1,10 @@
 ### Материалы и документация **А374**
 
 ![img](https://2.bp.blogspot.com/-A1cKli6OGno/YJb2wrG-6-I/AAAAAAAAGjQ/GH0plASBHjIdgXEDmAYQx-id8GMxyOgoACK4BGAYYCw/s320/a374ru-706089.png)
+
 <svg
-   width="411.53415"
-   height="315.68317"
+   width="44.53415"
+   height="44.68317"
    viewBox="0 0 411.53415 315.68317"
    version="1.1"
    id="svg5"
