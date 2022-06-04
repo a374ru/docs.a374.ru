@@ -108,7 +108,9 @@
        ry="43.317356" />
     <text
        xml:space="preserve"
-       style="@import url(https://a374ru.github.io/aprakos.ru/css/indexday.css);
+       style="
+       
+       @import url(https://a374ru.github.io/aprakos.ru/css/indexday.css);
 
 @font-face {
   font-family: 'Evangeliecs';
@@ -121,13 +123,13 @@
       format('svg');
   font-weight: normal;
   font-style: normal;
-}font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:174.202px;font-family:Evangeliecs;-inkscape-font-specification:'Clunya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c3271b;fill-opacity:1;stroke:url(#radialGradient18247);stroke-width:1.42019;stroke-dasharray:none;stroke-opacity:1"
+}font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:174.202px;font-family:Irmologion;-inkscape-font-specification:'Irmologion, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c3271b;fill-opacity:1;stroke:url(#radialGradient18247);stroke-width:1.42019;stroke-dasharray:none;stroke-opacity:1"
        x="26.524662"
        y="136.03712"
        id="text7435"
        transform="scale(1.0771813,0.92834883)"><tspan
          id="tspan7433"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:174.202px;font-family:Evangeliecs;-inkscape-font-specification:'Clunya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c3271b;fill-opacity:1;stroke:url(#radialGradient18247);stroke-width:1.42019;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:174.202px;font-family:Irmologion;-inkscape-font-specification:'Irmologion, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c3271b;fill-opacity:1;stroke:url(#radialGradient18247);stroke-width:1.42019;stroke-dasharray:none;stroke-opacity:1"
          x="26.524662"
          y="136.03712">б7</tspan></text>
   </g>

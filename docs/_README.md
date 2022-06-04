@@ -1,4 +1,4 @@
-![img](https://1.bp.blogspot.com/-qlD3QfKgeqQ/YPmIhJrE3zI/AAAAAAAAGzk/31X0DSNroiIWiWorMc_PRhCwwEKwLE0-QCLcBGAsYHQ/s400/MemPro.png)
+![img](../svg/../docs/svg/banner-readthedocs.svg)
 
 # Памятник проектов и настроек
 
