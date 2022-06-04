@@ -108,22 +108,7 @@
        ry="43.317356" />
     <text
        xml:space="preserve"
-       style="
-       
-       @import url(https://a374ru.github.io/aprakos.ru/css/indexday.css);
-
-@font-face {
-  font-family: 'Evangeliecs';
-  font-display: auto;
-  src: url('https://a374ru.github.io/aprakos.ru/font/Evangeliecs-Regular.woff')
-      format('woff'),
-    url('https://a374ru.github.io/aprakos.ru/font/Evangeliecs-Regular.ttf')
-      format('truetype'),
-    url('https://a374ru.github.io/aprakos.ru/font/Evangeliecs-Regular.svg')
-      format('svg');
-  font-weight: normal;
-  font-style: normal;
-}font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:174.202px;font-family:Irmologion;-inkscape-font-specification:'Irmologion, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c3271b;fill-opacity:1;stroke:url(#radialGradient18247);stroke-width:1.42019;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:174.202px;font-family:Irmologion;-inkscape-font-specification:'Irmologion, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c3271b;fill-opacity:1;stroke:url(#radialGradient18247);stroke-width:1.42019;stroke-dasharray:none;stroke-opacity:1"
        x="26.524662"
        y="136.03712"
        id="text7435"
