@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="514.62128"
-   height="505.7215"
-   viewBox="0 0 136.16021 133.80548"
+   width="222.75919"
+   height="230.89743"
+   viewBox="0 0 115.29462 124.59161"
    version="1.1"
    id="svg69"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -18,60 +18,105 @@
   <defs
      id="defs66">
     <linearGradient
-       id="linearGradient6906">
+       id="linearGradient21909">
       <stop
-         style="stop-color:#ff5f2d;stop-opacity:1;"
+         style="stop-color:black;stop-opacity:1;"
          offset="0"
-         id="stop6902" />
+         id="stop21905" />
       <stop
-         style="stop-color:#39ff2d;stop-opacity:0;"
+         style="stop-color:black;stop-opacity:0;"
          offset="1"
-         id="stop6904" />
+         id="stop21907" />
     </linearGradient>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter5627"
-       x="-0.0591661"
-       y="-0.059535891"
-       width="1.1183321"
-       height="1.1190718">
-      <feGaussianBlur
-         stdDeviation="1.7017668"
-         id="feGaussianBlur5629" />
-    </filter>
+    <linearGradient
+       id="linearGradient18245">
+      <stop
+         style="stop-color:#f7ff4e;stop-opacity:1;"
+         offset="0.54918033"
+         id="stop18241" />
+      <stop
+         style="stop-color:white;stop-opacity:0.19178082;"
+         offset="1"
+         id="stop18243" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient16785">
+      <stop
+         style="stop-color:yellow;stop-opacity:1;"
+         offset="0.77049178"
+         id="stop16781" />
+      <stop
+         style="stop-color:#bfbf00;stop-opacity:0;"
+         offset="1"
+         id="stop16783" />
+    </linearGradient>
     <radialGradient
-       xlink:href="#linearGradient6906"
-       id="radialGradient6908"
-       cx="63.688862"
-       cy="65.149612"
-       fx="63.688862"
-       fy="65.149612"
-       r="48.918594"
-       gradientTransform="matrix(1,0,0,0.99402777,0,0.38908855)"
+       xlink:href="#linearGradient16785"
+       id="radialGradient16787"
+       cx="72.296989"
+       cy="66.145836"
+       fx="72.296989"
+       fy="66.145836"
+       r="41.248741"
+       gradientTransform="matrix(1.099548,0,0,1.0579306,-9.6065802,-3.2715715)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#linearGradient18245"
+       id="radialGradient18247"
+       cx="62.289989"
+       cy="71.40818"
+       fx="62.289989"
+       fy="71.40818"
+       r="35.322048"
+       gradientTransform="matrix(1,0,0,1.8498088,0,-60.6833)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+    <radialGradient
+       xlink:href="#linearGradient21909"
+       id="radialGradient21913"
+       cx="67.46875"
+       cy="126.92841"
+       fx="67.46875"
+       fy="126.92841"
+       r="35.71875"
+       gradientTransform="matrix(1.3333334,0,0,0.09089373,-21.166669,115.39142)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      id="layer1"
-     transform="translate(-0.71025683,-1.4349727)">
-    <rect
-       style="display:inline;mix-blend-mode:normal;fill:#edede7;fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient6908);stroke-width:2.96333;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5627)"
-       id="rect1102"
-       width="94.07254"
-       height="93.488235"
-       x="16.652592"
-       y="18.405493"
-       transform="matrix(0.61906591,-0.6590287,0.67895002,0.6162566,-14.870571,70.16162)" />
+     transform="translate(-12.240133,-5.583408)">
+    <ellipse
+       style="display:inline;opacity:0.541667;mix-blend-mode:lighten;fill:url(#radialGradient21913);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.180718;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse18624"
+       cx="68.791672"
+       cy="126.92841"
+       rx="47.625"
+       ry="3.2466104" />
+    <ellipse
+       style="fill:#cd2a1c;fill-opacity:1;fill-rule:nonzero;stroke:#ff6d2d;stroke-width:0.815872;stroke-dasharray:none;stroke-opacity:1"
+       id="path16406"
+       cx="69.887436"
+       cy="66.706139"
+       rx="57.239368"
+       ry="55.057449" />
+    <ellipse
+       style="fill:url(#radialGradient16787);fill-opacity:1;fill-rule:nonzero;stroke:#ff6d2d;stroke-width:0.641901;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse16408"
+       cx="69.887436"
+       cy="66.706139"
+       rx="45.034019"
+       ry="43.317356" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:158.431px;font-family:Clunya;-inkscape-font-specification:'Clunya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e34234;fill-opacity:1;stroke:#ff6d2d;stroke-width:1.29162;stroke-dasharray:none;stroke-opacity:1"
-       x="32.234081"
-       y="129.62279"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:174.202px;font-family:Clunya;-inkscape-font-specification:'Clunya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c3271b;fill-opacity:1;stroke:url(#radialGradient18247);stroke-width:1.42019;stroke-dasharray:none;stroke-opacity:1"
+       x="26.524662"
+       y="136.03712"
        id="text7435"
-       transform="scale(1.0771813,0.92834882)"><tspan
+       transform="scale(1.0771813,0.92834883)"><tspan
          id="tspan7433"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:158.431px;font-family:Clunya;-inkscape-font-specification:'Clunya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e34234;fill-opacity:1;stroke:#ff6d2d;stroke-width:1.29162;stroke-dasharray:none;stroke-opacity:1"
-         x="32.234081"
-         y="129.62279">б7</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:174.202px;font-family:Clunya;-inkscape-font-specification:'Clunya, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#c3271b;fill-opacity:1;stroke:url(#radialGradient18247);stroke-width:1.42019;stroke-dasharray:none;stroke-opacity:1"
+         x="26.524662"
+         y="136.03712">б7</tspan></text>
   </g>
   <metadata
      id="metadata64">
