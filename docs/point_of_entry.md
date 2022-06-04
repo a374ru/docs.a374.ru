@@ -1,3 +1,9 @@
+---
+layout: default
+title: ГЛАВНАЯ СТРАНИЦА
+---
+
+
 <script>
 if(window.location.hostname === "a374ru.readthedocs.io"){
 window.location.href='../_README'
