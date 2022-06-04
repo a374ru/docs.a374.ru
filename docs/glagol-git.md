@@ -1,6 +1,6 @@
 # GIT управление снаружи и внутри
 
-![image](https://2.bp.blogspot.com/-0IVjlIw5BlQ/YHb2qobTLpI/AAAAAAAAGew/ITPUNXanRho4j1gvNt1ZypKJCm4V1uqwQCK4BGAYYCw/s800/listia-730502.png)
+<!-- ![image](https://2.bp.blogspot.com/-0IVjlIw5BlQ/YHb2qobTLpI/AAAAAAAAGew/ITPUNXanRho4j1gvNt1ZypKJCm4V1uqwQCK4BGAYYCw/s800/listia-730502.png) -->
 
 ### ЛОКАЛЬНАЯ СИНХРОНИЗАЦИЯ
 
