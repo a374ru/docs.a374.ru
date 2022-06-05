@@ -79,11 +79,9 @@ a:link, a:visited{
 
 
 
-@media (max-widht: 525px) {
-
-
+@media (max-width: 525px) {
 body{
-	font-size: 24px;
+	font-size: 1.5em;
 }
 	
 }
