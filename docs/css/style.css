@@ -1,9 +1,119 @@
----
----
-
-@import "{{ site.theme }}"; 
 
 
+
+
+/*  Во имя Отца и Сына и Святаго Духа. Аминь. */
+
+
+
+:root {
+    --kino-var: #e34234;
+    --sizeDate-var: 1.1em;
+    --alink-var: #6b6b6b;
+    --blink-var: #860000;
+    --fontIrmUCS-var: Irmologion;
+    --font-var: Fontics;
+    --fontEvng-var: Evangeliecs;
+    --fontSize-H1: 2em;
+}
+
+
+/* =================== */
+
+
+/* For external */
+
+
+/* =================== */
+
+.evangeliecs {
+    font-family: var(--fontEvng-var);
+}
+
+.irmologion {
+    font-family: var(--fontIrmUCS-var);
+}
+
+
+/* ==================== */
+
+
+@font-face {
+    font-family: 'Irmologion';
+    font-display: auto;
+    /* src: url('../font/IrmUcs.ttf'); */
+    src: local('Clunya-IrmIEUcs'), url('https://a374ru.github.io/aprakos.ru/font/Clunya-IrmIEUcs.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* @font-face {
+    font-family: 'Evangeliecs';
+    font-display: auto;
+    src: local('../font/Evangeliecs-Regular.eot');
+    src: url('https://a374ru.github.io/aprakos.ru/font/Evangeliecs-Regular.woff') format('woff'), url('https://a374ru.github.io/aprakos.ru/font/Evangeliecs-Regular.ttf') format('truetype'), url('https://a374ru.github.io/aprakos.ru/font/Evangeliecs-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+} */
+
+@font-face {
+    font-family: 'Fontics';
+    font-display: auto;
+    src: local('Fontics-Regular.otf'), url('https://a374ru.github.io/aprakos.ru/font/Fontics-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template: auto /1fr clamp(320px, 93vw, 960px) 1fr;
+    grid-template-areas:
+        ". b .";
+
+    padding-bottom: 133px; */
+    background: rgb(255, 250, 245);
+    color: #4f2b00;
+    font-size: 18px;
+
+}
+
+h1{
+    font-size:var(--fontSize-H1)
+}
+
+p{
+    font-size:1.5em;
+    padding-bottom: 7%;
+}
+
+
+section{
+    grid-area: b;
+}
+
+
+p::first-letter{
+    color:#f94200;
+    indent: 12px;
+}
+
+h1::first-letter{
+    color:#ff4b4b;
+    font-size: var(--fontSize-H1)
+}
+
+h2::first-letter{
+    font-size: 1.7em;
+    color:#FF9800;
+    /* line-height: 2px; */
+    padding-top: 33px;
+}
+
+a:link, a:visited{
+    color:#977300;
+    text-decoration-line: none;
+}
 
 
 
