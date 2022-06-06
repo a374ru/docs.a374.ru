@@ -2,7 +2,7 @@
 
 >Последовательность шагов проекта
 
-![img](https://1.bp.blogspot.com/-4k900EY4PeQ/X1T-DzBrIOI/AAAAAAAAF-Q/wBx7T9_Fgt4ZzvDAtKKtLSHIl8SVWrkGQCK4BGAYYCw/s111/IMG_0077-782670.png)
+<!-- ![img](https://1.bp.blogspot.com/-4k900EY4PeQ/X1T-DzBrIOI/AAAAAAAAF-Q/wBx7T9_Fgt4ZzvDAtKKtLSHIl8SVWrkGQCK4BGAYYCw/s111/IMG_0077-782670.png) -->
 
 ### Точка входа в ПП
 

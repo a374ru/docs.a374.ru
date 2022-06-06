@@ -69,7 +69,11 @@ h2::first-letter{
     font-size: 1.7em;
     color:#FF9800;
     /* line-height: 2px; */
-    padding-top: 33px;
+}
+h3::first-letter{
+    font-size: 1.3em;
+    color:#58b7eb;
+    /* line-height: 2px; */
 }
 
 a:link, a:visited{
