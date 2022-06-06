@@ -32,7 +32,7 @@ body {
     grid-template: auto / 365px 55% auto;
     grid-template-areas:
         ". b .";
-
+margin: 2em;
     padding-bottom: 133px;
     background: rgb(255, 250, 245);
     color: #4f2b00;
@@ -109,6 +109,7 @@ body{
     grid-template-areas:
          ". b ."
         " . m .";
+        margin: 0;
 }
 
 .menu{
