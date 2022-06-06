@@ -1,4 +1,9 @@
+
+
+
+
 /*  Во имя Отца и Сына и Святаго Духа. Аминь. */
+
 
 
 :root {
@@ -24,9 +29,9 @@
 body {
     display: grid;
     grid-template-columns: auto;
-    grid-template: auto /auto clamp(320px, 93vw, 960px) 1fr;
+    grid-template: auto /1fr clamp(320px, 93vw, 960px) 1fr;
     grid-template-areas:
-        "m b .";
+        ". b .";
 
     padding-bottom: 133px;
     background: rgb(255, 250, 245);
@@ -49,39 +54,38 @@ section{
     grid-area: b;
 }
 
-code{
-     color:#00BCD4;
-}
 
 p::first-letter{
     color:#f94200;
+    indent: 12px;
 }
 
 h1::first-letter{
     color:#ff4b4b;
-    font-size: var(--fontSize-H1)
+    font-size: var(--fontSize-H1);
 }
 
 h2::first-letter{
     font-size: 1.7em;
     color:#FF9800;
     /* line-height: 2px; */
-}
-h3::first-letter{
-    font-size: 1.3em;
-    color:#58b7eb;
-    /* line-height: 2px; */
+    padding-top: 33px;
 }
 
 a:link, a:visited{
     color:#977300;
     text-decoration-line: none;
+    /* list-style-type: circle; */
 }
 
 .menu{
-grid-area: m;
-text-decoration: none;
-list-style: none;
+    grid-area: m;
+    position:fixed;
+}
+
+.menu li{
+    padding-bottom: .3em;
+    list-style-type:none;
 }
 
 @media (max-width: 525px) {

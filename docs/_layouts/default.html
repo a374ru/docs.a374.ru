@@ -10,10 +10,6 @@
   
   </head>
   <body>
-  {% include navigation.html %}
-    <section>
-<!-- fffff-->
-
 <div class="menu" id="menu">
     <ul>
   {% for post in site.posts %}
@@ -23,6 +19,10 @@
   {% endfor %}
 </ul>
 </div>
+    <section>
+      <!-- fffff-->
+    
+      {% include navigation.html %}
     {{ content }}
   </section>
   </body>
