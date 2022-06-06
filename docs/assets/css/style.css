@@ -54,6 +54,9 @@ section{
     grid-area: b;
 }
 
+code{
+    color:darkgray;
+}
 
 p::first-letter{
     color:#f94200;
