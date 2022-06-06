@@ -1,6 +1,7 @@
 <nav>
-  {% for item in site.data.munu %}
+  {% for item in site.data.menu %}
   <ul>
-    <li><a href="{item.link}">{item.title}</a></li>
+    <li><a href="{{item.link}}">{{item.title}}</a></li>
   </ul>
+  {%endfor%}
 </nav>

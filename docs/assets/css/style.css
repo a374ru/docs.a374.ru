@@ -57,7 +57,6 @@ section{
 
 p::first-letter{
     color:#f94200;
-    indent: 12px;
 }
 
 h1::first-letter{
@@ -85,7 +84,7 @@ a:link, a:visited{
 
 @media (max-width: 525px) {
 body{
-	font-size: 1.5em;
+	font-size: 1.3em;
 }
 	
 }

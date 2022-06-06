@@ -13,8 +13,7 @@
     <title>{{ page.title }}</title>
 
   </head>
-  
-  {% for item in site.data.menu %}
+  {% include navigation.html %}
     {{ content }}
   </section>
   </body>
