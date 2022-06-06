@@ -84,6 +84,7 @@ a:hover{
 .menu{
     grid-area: m;
     position:fixed;
+    font-size: 1.3em;
 }
 
 .menu li{
