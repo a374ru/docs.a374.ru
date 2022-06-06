@@ -71,8 +71,13 @@ h2::first-letter{
     padding-top: 22px;
 }
 
-a:link, a:visited{
-    color:#977300;
+a:link{
+    color:#5c808e;
+    text-decoration-line: none;
+    /* list-style-type: circle; */
+}
+a:visited{
+    color:#785c00;
     text-decoration-line: none;
     /* list-style-type: circle; */
 }
