@@ -92,10 +92,10 @@ a:hover{
     list-style-type:none;
 }
 
-@media (max-width: 525px) {
+@media (max-width: 769px) {
 body{
 	font-size: 1em;
-    grid-template: auto / 2% 1fr  2%;
+    grid-template: auto / 12px 1fr  12px;
     grid-template-areas:
          ". b ."
         " . m .";
