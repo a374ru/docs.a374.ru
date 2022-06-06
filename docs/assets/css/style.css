@@ -29,7 +29,7 @@
 body {
     display: grid;
     grid-template-columns: auto;
-    grid-template: auto /1fr clamp(320px, 93vw, 960px) 1fr;
+    grid-template: auto /320px 55% 1fr;
     grid-template-areas:
         ". b .";
 
@@ -56,12 +56,11 @@ section{
 
 
 p::first-letter{
-    color:#f94200;
-    indent: 12px;
+    color:#f65920;
 }
 
 h1::first-letter{
-    color:#ff4b4b;
+    color:#d62b2b;
     font-size: var(--fontSize-H1);
 }
 
@@ -78,6 +77,10 @@ a:link, a:visited{
     /* list-style-type: circle; */
 }
 
+a:hover{
+    color: #cccccc;
+}
+
 .menu{
     grid-area: m;
     position:fixed;
@@ -90,7 +93,16 @@ a:link, a:visited{
 
 @media (max-width: 525px) {
 body{
-	font-size: 1.3em;
+	font-size: 1em;
+    grid-template: auto /1fr 55% 1fr;
+    grid-template-areas:
+         ". b ."
+        " . m .";
+}
+
+.menu{
+     position:relative;
+     font-size: 1em;
 }
 	
 }
