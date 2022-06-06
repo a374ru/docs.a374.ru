@@ -6,13 +6,15 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="/assets/css/style.css">
+    <title>{{ page.title }}</title>
   
+  </head>
   <body>
     <section>
 <!-- fffff-->
-    <title>{{ page.title }}</title>
+  {% include navigation.html %}
 
-  </head>
+<div class="menu" id="menu">
     <ul>
   {% for post in site.posts %}
     <li>
@@ -20,8 +22,8 @@
     </li>
   {% endfor %}
 </ul>
+</div>
     {{ content }}
-  {% include navigation.html %}
   </section>
   </body>
 </html>

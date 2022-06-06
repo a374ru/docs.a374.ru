@@ -24,9 +24,9 @@
 body {
     display: grid;
     grid-template-columns: auto;
-    grid-template: auto /1fr clamp(320px, 93vw, 960px) 1fr;
+    grid-template: auto /auto clamp(320px, 93vw, 960px) 1fr;
     grid-template-areas:
-        ". b .";
+        "m b .";
 
     padding-bottom: 133px;
     background: rgb(255, 250, 245);
@@ -78,7 +78,11 @@ a:link, a:visited{
     text-decoration-line: none;
 }
 
-
+.menu{
+grid-area: m;
+text-decoration: none;
+list-style: none;
+}
 
 @media (max-width: 525px) {
 body{
