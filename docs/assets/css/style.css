@@ -94,7 +94,7 @@ a:hover{
 @media (max-width: 525px) {
 body{
 	font-size: 1em;
-    grid-template: auto /1fr 55% 1fr;
+    grid-template: auto / 2% 1fr  2%;
     grid-template-areas:
          ". b ."
         " . m .";
