@@ -1,4 +1,4 @@
-![img](../svg/../docs/svg/banner-readthedocs.svg)
+![img](assets/svg/banner-readthedocs.svg)
 
 # Памятник проектов и настроек
 
