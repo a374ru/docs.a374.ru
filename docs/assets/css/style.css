@@ -41,7 +41,8 @@ margin: 2em;
 }
 
 h1{
-    font-size:var(--fontSize-H1)
+    font-size:var(--fontSize-H1);
+    text-transform: uppercase;
 }
 
 p{
