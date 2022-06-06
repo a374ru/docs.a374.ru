@@ -1,12 +1,12 @@
 
 - title: Home
-link: /point_of_entry/
+  link: /point_of_entry/
 
 - title: Буки
-link: /buki/
+  link: /buki/
 
 - title: Настройки
-link: /buki-set/
+  link: /buki-set/
 
 # - title: Home
 # link: /point_of_entry/
