@@ -68,7 +68,7 @@ h2::first-letter{
     font-size: 1.7em;
     color:#FF9800;
     /* line-height: 2px; */
-    padding-top: 33px;
+    padding-top: 22px;
 }
 
 a:link, a:visited{
@@ -93,7 +93,7 @@ a:hover{
 }
 .menu ul{
     overflow: hidden;
-    margin: -23px;
+    margin-left: -23px;
     padding:0px;
 }
 
