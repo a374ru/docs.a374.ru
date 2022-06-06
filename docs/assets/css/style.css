@@ -93,8 +93,8 @@ a:hover{
 }
 .menu ul{
     overflow: hidden;
-    margin-left: -23px;
-    padding:0px;
+    margin-left: 11px;
+    padding:1px;
 }
 
 @media (max-width: 769px) {
@@ -108,7 +108,7 @@ body{
 
 .menu{
      position:relative;
-     font-size: 1em;
+     font-size: 1.3em;
 }
 	
 }
