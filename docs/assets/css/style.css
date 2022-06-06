@@ -1,9 +1,4 @@
-
-
-
-
 /*  Во имя Отца и Сына и Святаго Духа. Аминь. */
-
 
 
 :root {
@@ -55,7 +50,7 @@ section{
 }
 
 code{
-    color:darkgray;
+     color:#00BCD4;
 }
 
 p::first-letter{
