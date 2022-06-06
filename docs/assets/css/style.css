@@ -14,7 +14,7 @@
     --fontIrmUCS-var: Irmologion;
     --font-var: Fontics;
     --fontEvng-var: Evangeliecs;
-    --fontSize-H1: 1.7em;
+    --fontSize-H1: 1.5em;
 }
 
 
@@ -29,14 +29,14 @@
 body {
     display: grid;
     grid-template-columns: auto;
-    grid-template: auto /320px 55% 1fr;
+    grid-template: auto / 365px 55% auto;
     grid-template-areas:
         ". b .";
 
     padding-bottom: 133px;
     background: rgb(255, 250, 245);
     color: #4f2b00;
-    font-size: 18px;
+    font-size: 17px;
 
 }
 
@@ -90,6 +90,11 @@ a:hover{
 .menu li{
     padding-bottom: .3em;
     list-style-type:none;
+}
+.menu ul{
+    overflow: hidden;
+    margin: -23px;
+    padding:0px;
 }
 
 @media (max-width: 769px) {
