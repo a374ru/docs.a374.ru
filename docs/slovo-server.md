@@ -2,7 +2,7 @@
 
 >Для Mac, Linux
 
-![image](https://2.bp.blogspot.com/-0IVjlIw5BlQ/YHb2qobTLpI/AAAAAAAAGew/ITPUNXanRho4j1gvNt1ZypKJCm4V1uqwQCK4BGAYYCw/s800/listia-730502.png)
+<!-- ![image](https://2.bp.blogspot.com/-0IVjlIw5BlQ/YHb2qobTLpI/AAAAAAAAGew/ITPUNXanRho4j1gvNt1ZypKJCm4V1uqwQCK4BGAYYCw/s800/listia-730502.png) -->
 
 
 🛎 Потребуется платежная карта.
@@ -105,7 +105,7 @@ git clone ссылка_на_репозиторий  # подробнее в до
 <br>
 <br>
 
-![image](https://1.bp.blogspot.com/-PbTjOF3NxmA/YHb0nLD4rxI/AAAAAAAAGek/xrZ-Zoas1CYG_Lt-bg0bYEdicpnR2wqIQCK4BGAYYCw/s800/Untitled-704050.png)
+<!-- ![image](https://1.bp.blogspot.com/-PbTjOF3NxmA/YHb0nLD4rxI/AAAAAAAAGek/xrZ-Zoas1CYG_Lt-bg0bYEdicpnR2wqIQCK4BGAYYCw/s800/Untitled-704050.png) -->
 
 
 
@@ -214,4 +214,4 @@ CTRL + C
 
 <br>
 
-![img](https://1.bp.blogspot.com/-hOxN5KX2KfY/YPplNP_w6xI/AAAAAAAAGz0/nNxSLwD5lnQhvFnce_DzmIoSRWyY9A3QACLcBGAsYHQ/s694/theend-beats.png)
+<!-- ![img](https://1.bp.blogspot.com/-hOxN5KX2KfY/YPplNP_w6xI/AAAAAAAAGz0/nNxSLwD5lnQhvFnce_DzmIoSRWyY9A3QACLcBGAsYHQ/s694/theend-beats.png) -->

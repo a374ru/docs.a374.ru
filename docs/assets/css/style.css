@@ -1,0 +1,121 @@
+
+
+
+
+/*  Во имя Отца и Сына и Святаго Духа. Аминь. */
+
+
+
+:root {
+    --kino-var: #e34234;
+    --sizeDate-var: 1.1em;
+    --alink-var: #6b6b6b;
+    --blink-var: #860000;
+    --fontIrmUCS-var: Irmologion;
+    --font-var: Fontics;
+    --fontEvng-var: Evangeliecs;
+    --fontSize-H1: 1.5em;
+}
+
+
+@font-face {
+    font-family: 'Fontics';
+    font-display: auto;
+    src: local('Fontics-Regular.otf'), url('https://a374ru.github.io/aprakos.ru/font/Fontics-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template: auto / 365px 55% auto;
+    grid-template-areas:
+        ". b .";
+margin: 2em;
+    padding-bottom: 133px;
+    background: rgb(255, 250, 245);
+    color: #4f2b00;
+    font-size: 17px;
+
+}
+
+h1{
+    font-size:var(--fontSize-H1);
+    text-transform: uppercase;
+}
+
+p{
+    font-size:1.5em;
+    padding-bottom: 2%;
+}
+
+
+section{
+    grid-area: b;
+}
+
+
+p::first-letter{
+    color:#f65920;
+}
+
+h1::first-letter{
+    color:#d62b2b;
+    font-size: var(--fontSize-H1);
+}
+
+h2::first-letter{
+    font-size: 1.7em;
+    color:#FF9800;
+    /* line-height: 2px; */
+    padding-top: 22px;
+}
+
+a:link{
+    color:#5c808e;
+    text-decoration-line: none;
+    /* list-style-type: circle; */
+}
+a:visited{
+    color:#785c00;
+    text-decoration-line: none;
+    /* list-style-type: circle; */
+}
+
+a:hover{
+    color: #cccccc;
+}
+
+.menu{
+    grid-area: m;
+    position:fixed;
+    font-size: 1.3em;
+}
+
+.menu li{
+    padding-bottom: .3em;
+    list-style-type:none;
+}
+.menu ul{
+    overflow: hidden;
+    margin-left: 11px;
+    padding:1px;
+}
+
+@media (max-width: 769px) {
+body{
+	font-size: 1em;
+    grid-template: auto / 12px 1fr  12px;
+    grid-template-areas:
+         ". b ."
+        " . m .";
+        margin: 0;
+}
+
+.menu{
+     position:relative;
+     font-size: 1.3em;
+}
+	
+}
