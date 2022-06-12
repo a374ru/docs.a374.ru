@@ -31,4 +31,3 @@ ssh-add -K ~/.ssh/id_rsa   # где `id_rsa` замените на имя фай
 
 <br>
 
-![img](../assets/img/comp.svg)
