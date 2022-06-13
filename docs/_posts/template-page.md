@@ -1,7 +1,7 @@
 ---
 default: false
 layout: default
-title: Шаблон страницы JEKKIL
+title: Шаблон страницы JEKILL
 ---
 
 # Title page
