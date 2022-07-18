@@ -27,17 +27,24 @@
 }
 
 body {
-    display: flex;
-    /*     width:77%; */
-    margin: 2em;
-    padding-bottom: 133px;
-    background: rgb(255, 250, 245);
-    color: #4f2b00;
-    font-size: 19px;
-    justify-content: center;
-    align-items: center;
-    /* flex-wrap: wrap; */
+   margin: 3em;
+   padding-bottom: 133px;
+   background: rgb(255, 250, 245);
+   color: #4f2b00;
+   font-size: 19px;
+
+
 }
+
+.markdown-body{
+   margin:
+   auto;
+   display: flex;
+   flex-direction: column;
+   width:77%;
+   }
+
+
 
 code{
     font-size:
@@ -50,6 +57,7 @@ h1{
     font-size:
     var(--fontSize-H1);
     text-transform: uppercase;
+    width: 900px;
 }
 
 p{
