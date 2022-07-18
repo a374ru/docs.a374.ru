@@ -93,6 +93,10 @@ a:hover{
     font-size: 1.3em;
 }
 
+.footer{
+    grid-area: footer;
+}
+
 .menu li{
     padding-bottom: .3em;
     list-style-type:none;
@@ -109,7 +113,8 @@ body{
     grid-template: auto / 12px 1fr  12px;
     grid-template-areas:
          ". b ."
-        " . m .";
+        " . m ."
+        ". footer .";
         margin: 0;
 }
 
