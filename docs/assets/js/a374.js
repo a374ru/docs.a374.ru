@@ -1,1 +1,1 @@
-window.location.href = './point_of_entry.md';
+// window.location.href = './point_of_entry.md';
