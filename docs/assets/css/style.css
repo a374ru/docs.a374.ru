@@ -31,7 +31,8 @@ body {
     grid-template-columns: auto;
     grid-template: auto / 365px 55% auto;
     grid-template-areas:
-        ". b .";
+        ". b ."
+        ". footer .";
 margin: 2em;
     padding-bottom: 133px;
     background: rgb(255, 250, 245);
@@ -114,7 +115,7 @@ body{
     grid-template-areas:
          ". b ."
         " . m ."
-        ". footer .";
+        "footer footer footer";
         margin: 0;
 }
 
