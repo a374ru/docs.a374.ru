@@ -1,141 +1,116 @@
-
-
-
-
 /*  Во имя Отца и Сына и Святаго Духа. Аминь. */
 
-
-
 :root {
-    --kino-var: #e34234;
-    --sizeDate-var: 1.1em;
-    --alink-var: #6b6b6b;
-    --blink-var: #860000;
-    --fontIrmUCS-var: Irmologion;
-    --font-var: Fontics;
-    --fontEvng-var: Evangeliecs;
-    --fontSize-H1: 1.9em;
+	--kino-var: #e34234;
+	--sizeDate-var: 1.1em;
+	--alink-var: #6b6b6b;
+	--blink-var: #860000;
+	--fontIrmUCS-var: Irmologion;
+	--font-var: Fontics;
+	--fontEvng-var: Evangeliecs;
+	--fontSize-H1: 1.9em;
 }
 
-
 @font-face {
-    font-family: 'Fontics';
-    font-display: auto;
-    src: local('Fontics-Regular.otf'), url('https://a374ru.github.io/aprakos.ru/font/Fontics-Regular.otf');
-    font-weight: normal;
-    font-style: normal;
+	font-family: "Fontics";
+	font-display: auto;
+	src: local("Fontics-Regular.otf"),
+		url("https://a374ru.github.io/aprakos.ru/font/Fontics-Regular.otf");
+	font-weight: normal;
+	font-style: normal;
+}
+
+blockquote{
+   border-left: 3.2em solid #e9e2da;
+   border-right: 3.2em solid #e9e2da;
+  padding:0em 1em 0em 3em;
+   border-radius: 20%;
 }
 
 body {
-   margin: 3em;
-   padding-bottom: 133px;
-   background: rgb(255, 250, 245);
-   color: #4f2b00;
-   font-size: 19px;
-
-
+	margin: 3em;
+	padding-bottom: 133px;
+	background: rgb(255, 250, 245);
+	color: #4f2b00;
+	font-size: 19px;
 }
 
-.markdown-body{
-   margin:
-   auto;
-   display: flex;
-   flex-direction: column;
-   width:77%;
-   }
-
-
-
-code{
-    font-size:
-    xx-large;
-    padding-left: 1em;
-    color: #96719c;
+.markdown-body {
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	width: 77%;
 }
 
-h1{
-    font-size:
-    var(--fontSize-H1);
-    text-transform: uppercase;
-    width: 900px;
+code {
+	font-size: xx-large;
+	padding-left: 1em;
+	color: #96719c;
 }
 
-p{
-    font-size:1.5em;
-    padding-bottom: 2%;
+h1 {
+	font-size: var(--fontSize-H1);
+	text-transform: uppercase;
+	width: 900px;
 }
 
-
-section{
-/*     grid-area: b; */
+p {
+	font-size: 1.5em;
 }
 
-
-p::first-letter{
-    color:#f65920;
+p::first-letter {
+	color: #f65920;
 }
 
-h1::first-letter{
-    color:#d62b2b;
-    font-size: var(--fontSize-H1);
+h1::first-letter {
+	color: #d62b2b;
+	font-size: var(--fontSize-H1);
 }
 
-h2::first-letter{
-    font-size: 1.7em;
-    color:#FF9800;
-    /* line-height: 2px; */
-    padding-top: 22px;
+h2::first-letter {
+	font-size: 1.7em;
+	color: #ff9800;
+	/* line-height: 2px; */
+	padding-top: 22px;
 }
 
-a:link{
-    color:#5c808e;
-    text-decoration-line: none;
-    /* list-style-type: circle; */
+a:link {
+	color: #5c808e;
+	text-decoration-line: none;
+	/* list-style-type: circle; */
 }
-a:visited{
-    color:#785c00;
-    text-decoration-line: none;
-    /* list-style-type: circle; */
-}
-
-a:hover{
-    color: #cccccc;
+a:visited {
+	color: #785c00;
+	text-decoration-line: none;
+	/* list-style-type: circle; */
 }
 
-.menu{
-    grid-area: m;
-    position:fixed;
-    font-size: 1.3em;
+a:hover {
+	color: #cccccc;
 }
 
-.footer{
-/*     grid-area: footer; */
+.menu {
+	grid-area: m;
+	position: fixed;
+	font-size: 1.3em;
 }
 
-ul{
-    overflow: hidden;
-    margin-left: 11px;
-    
+ul {
+	overflow: hidden;
+	margin-left: 11px;
 }
 
-
-li{
-
-    list-style-type:none;
-    font-size: 1.3em;
-    padding:1px 22px .7em 0px;
-    
+li {
+	list-style-type: none;
+	font-size: 1.3em;
+	padding: 1px 22px 0.7em 0px;
 }
-
 
 @media (max-width: 769px) {
-body{
-	font-size: 1em;
-padding: 0px 7px 0px 17px;
-    
-        margin: 0;
-}
+	body {
+		font-size: 1em;
+		padding: 0px 7px 0px 17px;
 
-
-	
+		margin: 0;
+	}
 }
