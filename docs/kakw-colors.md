@@ -1,3 +1,5 @@
+<div id="navi"><a href="./navi#азъ">⌖</a></div>
+
 # Цвéточная схема для web a374
 
 ![](/docs/assets/img/colors-a374ru.jpeg)

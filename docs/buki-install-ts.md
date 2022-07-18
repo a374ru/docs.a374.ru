@@ -1,3 +1,5 @@
+<div id="navi"><a href="./navi#азъ">⌖</a></div>
+
 # Развертывание Typescript
 
 >Развертывание проекта на TS (mac os)
