@@ -1,6 +1,6 @@
 
-
-# УСТАНОВКА И НАСТРОЙКА GOOGLE CLOUD <span id="navi" style="float:right"><a href="./navi">⌖</a></span>
+<span id="navi" style="float:right"><a href="./navi">⌖</a></span>
+# УСТАНОВКА И НАСТРОЙКА GOOGLE CLOUD 
 
       Для Mac, Linux
 

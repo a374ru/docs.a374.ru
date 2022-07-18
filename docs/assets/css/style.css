@@ -20,11 +20,11 @@
 	font-style: normal;
 }
 
-blockquote{
-   border-left: 3.2em solid #e9e2da;
-   border-right: 3.2em solid #e9e2da;
-  padding:0em 1em 0em 3em;
-   border-radius: 20%;
+blockquote {
+	border-left: 3.2em solid #e9e2da;
+	border-right: 3.2em solid #e9e2da;
+	padding: 0em 1em 0em 3em;
+	border-radius: 20%;
 }
 
 body {
@@ -40,6 +40,15 @@ body {
 	display: flex;
 	flex-direction: column;
 	width: 77%;
+}
+
+#navi {
+	display: flex;
+	flex-direction: row-reverse;
+	position: sticky;
+	text-align: right;
+	top: 0;
+	font-size: 2em;
 }
 
 code {
