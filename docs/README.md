@@ -8,7 +8,7 @@ console.log('-=-=-= Вас приветствует СВЕТОФОР-РАЗРА�
 
 # Точка Входа
 
-<a href="/docs/navi">
+<a href="navi">
 <img src='assets/svg/comp-start.svg'>
 </a>
 
