@@ -44,7 +44,7 @@ body {
 
 code {
 	font-size: xx-large;
-	padding-left: 1em;
+	padding: 0rem 1rem 0rem 1rem;
 	color: #96719c;
 }
 
