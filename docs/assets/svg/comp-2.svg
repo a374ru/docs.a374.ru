@@ -97,16 +97,16 @@
 <svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 800 250" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
 <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="102.195" id="Filter" width="503.978" x="230.449" y="96.7591">
-<feDropShadow dx="-3.61999e-06" dy="1" flood-color="#000000" flood-opacity="0.630858" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+<feDropShadow dx="-3.61999e-06" dy="1" flood-color="red" flood-opacity="0.630858" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
 </filter>
 <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="138.511" id="Filter_2" width="227.811" x="23.623" y="10.2384">
 <feDropShadow dx="-3.61999e-06" dy="1" flood-color="#000000" flood-opacity="0.630858" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
 </filter>
 <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="10.3982" id="Filter_3" width="28.1114" x="763.439" y="128.772">
-<feDropShadow dx="-3.61999e-06" dy="1" flood-color="#000000" flood-opacity="0.630858" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+<feDropShadow dx="-3.61999e-06" dy="1" flood-color="red" flood-opacity="0.630858" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
 </filter>
 <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="10.4419" id="Filter_4" width="29.459" x="762.42" y="155.236">
-<feDropShadow dx="-3.61999e-06" dy="1" flood-color="#000000" flood-opacity="0.630858" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+<feDropShadow dx="-3.61999e-06" dy="1" flood-color="red" flood-opacity="0.630858" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
 </filter>
 <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="80.1285" id="Filter_5" width="269.481" x="8.51029" y="137.916">
 <feDropShadow dx="-2.53399e-05" dy="7" flood-color="#000000" flood-opacity="0.630858" in="SourceGraphic" result="Shadow" stdDeviation="3.5"/>
@@ -121,7 +121,7 @@
 <feDropShadow dx="-3.61999e-06" dy="1" flood-color="#000000" flood-opacity="0.630858" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
 </filter>
 <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="65.5781" id="Filter_8" width="14.7268" x="755.552" y="113.845">
-<feDropShadow dx="-3.61999e-06" dy="1" flood-color="#000000" flood-opacity="0.630858" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
+<feDropShadow dx="-3.61999e-06" dy="1" flood-color="red" flood-opacity="0.630858" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
 </filter>
 <clipPath id="TextBounds">
 <rect height="59.792" width="327.81" x="-23.6188" y="82.6091"/>

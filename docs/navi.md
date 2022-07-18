@@ -1,4 +1,4 @@
-![img](/docs/assets/svg/0B-0.svg)
+![img](./assets/svg/comp-2.svg)
 
 # Памятник проектов и настроек
 
