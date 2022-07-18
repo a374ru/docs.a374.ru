@@ -14,7 +14,7 @@
     --fontIrmUCS-var: Irmologion;
     --font-var: Fontics;
     --fontEvng-var: Evangeliecs;
-    --fontSize-H1: 1.5em;
+    --fontSize-H1: 1.9em;
 }
 
 
@@ -27,22 +27,29 @@
 }
 
 body {
-    display: grid;
-    grid-template-columns: auto;
-    grid-template: auto / 365px 55% auto;
-    grid-template-areas:
-        ". b ."
-        ". footer .";
-margin: 2em;
+    display: flex;
+    /*     width:77%; */
+    justify-items: center;
+    margin: 2em;
     padding-bottom: 133px;
     background: rgb(255, 250, 245);
     color: #4f2b00;
-    font-size: 17px;
+    font-size: 19px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
 
+code{
+    font-size:
+    xx-large;
+    padding-left: 1em;
+    color: #96719c;
 }
 
 h1{
-    font-size:var(--fontSize-H1);
+    font-size:
+    var(--fontSize-H1);
     text-transform: uppercase;
 }
 
@@ -53,7 +60,7 @@ p{
 
 
 section{
-    grid-area: b;
+/*     grid-area: b; */
 }
 
 
@@ -95,33 +102,33 @@ a:hover{
 }
 
 .footer{
-    grid-area: footer;
+/*     grid-area: footer; */
 }
 
-.menu li{
-    padding-bottom: .3em;
-    list-style-type:none;
-}
-.menu ul{
+ul{
     overflow: hidden;
     margin-left: 11px;
-    padding:1px;
+    
 }
+
+
+li{
+
+    list-style-type:none;
+    font-size: 1.3em;
+    padding:1px 22px .7em 0px;
+    
+}
+
 
 @media (max-width: 769px) {
 body{
 	font-size: 1em;
-    grid-template: auto / 12px 1fr  12px;
-    grid-template-areas:
-         ". b ."
-        " . m ."
-        "footer footer footer";
+padding: 0px 7px 0px 17px;
+    
         margin: 0;
 }
 
-.menu{
-     position:relative;
-     font-size: 1.3em;
-}
+
 	
 }
