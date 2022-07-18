@@ -1,5 +1,5 @@
 
-<div id="navi"><a href="./navi">⌖</a></div>
+<div id="navi"><a href="./navi#азъ">⌖</a></div>
 
 # УСТАНОВКА И НАСТРОЙКА GOOGLE CLOUD 
 
