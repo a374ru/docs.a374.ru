@@ -1,5 +1,6 @@
 
-<span id="navi" style="float:right"><a href="./navi">⌖</a></span>
+<div id="navi"><a href="./navi">⌖</a></div>
+
 # УСТАНОВКА И НАСТРОЙКА GOOGLE CLOUD 
 
       Для Mac, Linux
