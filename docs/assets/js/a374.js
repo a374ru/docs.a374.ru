@@ -1,1 +1,6 @@
-// window.location.href = './point_of_entry.md';
+
+if (window.location.hostname === "a374ru.readthedocs.io") {
+	window.location.href = '../_README'
+} else {
+	console.log('-=-=-= Вас приветствует СВЕТОФОР-РАЗРАБОТКИ =-=-=-')
+}

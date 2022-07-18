@@ -1,4 +1,4 @@
-![img](assets/svg/banner-readthedocs.svg)
+![img](/docs/assets/svg/0B-0.svg)
 
 # Памятник проектов и настроек
 
@@ -11,7 +11,7 @@
 1. [Азъ](az.md)
 1. [Переменная](az-peremennaya.md)
 1. [Объект](az-object.md)
-2. [My English](abc/readme.md)
+<!-- 2. [My English](abc/readme.md) -->
 
 ## БУКИ
 
