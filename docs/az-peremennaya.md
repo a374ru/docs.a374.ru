@@ -1,8 +1,5 @@
 # Aзъ переменная
 
-![img](https://2.bp.blogspot.com/-0IVjlIw5BlQ/YHb2qobTLpI/AAAAAAAAGew/ITPUNXanRho4j1gvNt1ZypKJCm4V1uqwQCK4BGAYYCw/s800/listia-730502.png "Листья древа")
-
-
 **Что требуется:**
 
 1. пользоваться терминалом (консолью), 
@@ -123,6 +120,3 @@ az = "new man"           // error!
 […на главную](/)
 
 <br>
-
-<br><br>
-<!-- ![img](https://1.bp.blogspot.com/-hOxN5KX2KfY/YPplNP_w6xI/AAAAAAAAGz0/nNxSLwD5lnQhvFnce_DzmIoSRWyY9A3QACLcBGAsYHQ/s694/theend-beats.png) -->

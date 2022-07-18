@@ -1,13 +1,6 @@
----
-layout: default
-title: Настройка проекта
----
-
 # Настройки проектов
 
 >Последовательность шагов проекта
-
-<!-- ![img](https://1.bp.blogspot.com/-4k900EY4PeQ/X1T-DzBrIOI/AAAAAAAAF-Q/wBx7T9_Fgt4ZzvDAtKKtLSHIl8SVWrkGQCK4BGAYYCw/s111/IMG_0077-782670.png) -->
 
 ### Точка входа в ПП
 
@@ -54,4 +47,3 @@ title: Настройка проекта
 
 <br>
 
-<!-- ![img](https://1.bp.blogspot.com/-hOxN5KX2KfY/YPplNP_w6xI/AAAAAAAAGz0/nNxSLwD5lnQhvFnce_DzmIoSRWyY9A3QACLcBGAsYHQ/s694/theend-beats.png) -->

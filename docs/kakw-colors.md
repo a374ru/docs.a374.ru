@@ -1,6 +1,6 @@
 # Цвéточная схема для web a374
 
-![](https://1.bp.blogspot.com/-Ve9Qgi6hUcs/YH0B9T1ktkI/AAAAAAAAGgI/TgAU1sO93voDcIrolUnpQkEKL2Hl7yUqACK4BGAYYCw/s1600/az-colors-736417.jpg)
+![](/docs/assets/img/colors-a374ru.jpeg)
 Основные цвета используемые в проекте и палитре
 ---
 
