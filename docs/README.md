@@ -1,11 +1,24 @@
 <!-- <script>
-	let domain = document.location.hostname
-	if(domain === "a374.ru"){
-	window.location.href='point_of_entry'
-	} else {
-	window.location.href='https://a374ru.readthedocs.io/ru/latest/_README/'
-	}
+if(window.location.hostname === "a374ru.readthedocs.io"){
+window.location.href='../_README'
+} else {
+console.log('-=-=-= Вас приветствует СВЕТОФОР-РАЗРАБОТКИ =-=-=-')
+}
 </script> -->
 
+# Точка Входа
 
-<!-- Смотри страницу point_of_entry.md -->
+<a href="/docs/navi">
+<img src='assets/svg/comp-start.svg'>
+</a>
+
+
+## [Текущая разработка здесь…](https://github.com/a374ru/aprakos.online)
+
+<br>
+
+## Документация
+
+[Aprakos.online](https://aprakosonline.readthedocs.io)
+
+<!-- [Памятник разработки](https://a374ru.readthedocs.io) -->
