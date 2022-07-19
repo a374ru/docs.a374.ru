@@ -8,7 +8,7 @@
 	--fontIrmUCS-var: Irmologion;
 	--font-var: Fontics;
 	--fontEvng-var: Evangeliecs;
-	--fontSize-H1: 1.9em;
+	--fontSize-H1: 1.8em;
 }
 
 @font-face {
@@ -141,6 +141,7 @@ li {
 
 @media (max-width: 769px) {
 
+
 h2{
 	font-size: 1.6em;
 }
@@ -150,7 +151,7 @@ h3{
 }
 	
 	body {
-		font-size: 16px;
+		font-size: 17px;
 		padding: 0px 7px 0px 17px;
 		margin: 0;
 	}
