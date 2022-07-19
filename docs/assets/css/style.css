@@ -39,7 +39,7 @@ body {
 	margin: auto;
 	display: flex;
 	flex-direction: column;
-	/* width: 77%; */
+	width: 77%;
 }
 
 #navi {
