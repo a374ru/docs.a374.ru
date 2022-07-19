@@ -27,6 +27,7 @@ console.log('-=-=-= Вас приветствует СВЕТОФОР-РАЗРА�
 <s>[Aprakos.online](https://aprakosonline.readthedocs.io)
 
 <!-- [Памятник разработки](https://a374ru.readthedocs.io) -->
+<br>
 
 ![img](assets/img/contacts-ystm.png)
 
