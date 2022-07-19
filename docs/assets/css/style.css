@@ -45,12 +45,13 @@ body {
 #navi {
 	display: flex;
 	flex-direction: row-reverse;
+	position: -webkit-sticky;
 	position: sticky;
 	text-align: right;
 	top: 0;
-	font-size: 3em;
+	font-size: 2em;
 
-	background: linear-gradient(92deg, #3f5efb00 89%, #fffaf5 94%);
+	/* background: linear-gradient(92deg, #3f5efb00 89%, #fffaf5 94%); */
 }
 
 pre{

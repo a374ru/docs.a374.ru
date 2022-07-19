@@ -1,4 +1,4 @@
-<div id="navi"><a href="./navi#азъ">⌖</a></div>
+<div id="navi"><a href="./navi#азъ">🔍</a></div>
 
 # Развертывание Typescript
 

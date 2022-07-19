@@ -2,7 +2,7 @@
  
  <a id="aCard" style="cursor:pointer" onclick="imgAlert()">![Кого подключать](/docs/assets/img/card.png)</a>
 
-<div id="navi"><a href="./navi#азъ">⌖</a></div>
+<div id="navi"><a href="./navi#азъ">🔍</a></div>
 
 # Оплата ресурсов проектА
 

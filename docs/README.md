@@ -5,7 +5,7 @@ window.location.href='../_README'
 console.log('-=-=-= Вас приветствует СВЕТОФОР-РАЗРАБОТКИ =-=-=-')
 }
 </script> -->
-<div id="navi"><a href="./navi#азъ">⌖</a></div>
+<div id="navi"><a href="./navi#азъ">🔍</a></div>
 
 # Точка Входа
 
