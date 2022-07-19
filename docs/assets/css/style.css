@@ -8,7 +8,7 @@
 	--fontIrmUCS-var: Irmologion;
 	--font-var: Fontics;
 	--fontEvng-var: Evangeliecs;
-	--fontSize-H1: 1.8em;
+	--fontSize-H1: 1.7em;
 }
 
 @font-face {
@@ -39,7 +39,7 @@ body {
 	margin: auto;
 	display: flex;
 	flex-direction: column;
-	width: 77%;
+	width: 98%;
 }
 
 #navi {
@@ -135,7 +135,7 @@ ul {
 
 li {
 	list-style-type: none;
-	font-size: 1.3em;
+	font-size: 1.1em;
 	padding: 1px 22px 0.7em 0px;
 }
 
@@ -151,7 +151,6 @@ h3{
 }
 	
 	body {
-		font-size: 17px;
 		padding: 0px 7px 0px 17px;
 		margin: 0;
 	}
