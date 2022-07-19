@@ -26,8 +26,8 @@
 
  Simbol  content  type 
 
- | Simbol | content                       | type |
-| ------ | ----------------------------- | ---- |
+| Simbol | content                       | type |
+| :------ | :----------------------------- | ----: |
 | mA     | Апракос                       | url  |
 | mP     | Problem                       | url  |
 | mN     | Note                          | url  |
