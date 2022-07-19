@@ -53,11 +53,17 @@ body {
 	background: linear-gradient(92deg, #3f5efb00 89%, #fffaf5 94%);
 }
 
+pre{
+	overflow:auto;
+		padding: 0rem 0rem 1rem 1rem;
+}
+
 code {
 	font-size: xx-large;
-	padding: 0rem 1rem 0rem 1rem;
 	color: #96719c;
-	overflow: hidden;
+}
+table{
+	overflow: auto;
 }
 
 h1 {
@@ -119,7 +125,7 @@ li {
 
 @media (max-width: 769px) {
 	body {
-		font-size: 1em;
+		font-size: 17px;
 		padding: 0px 7px 0px 17px;
 
 		margin: 0;
