@@ -22,9 +22,9 @@ console.log('-=-=-= Вас приветствует СВЕТОФОР-РАЗРА�
 
 <br>
 
-## <s>Документация
+## Документация
 
-<s>[Aprakos.online](https://aprakosonline.readthedocs.io)
+<!-- [Aprakos.online](https://aprakosonline.readthedocs.io) -->
 
 <!-- [Памятник разработки](https://a374ru.readthedocs.io) -->
 <br>
