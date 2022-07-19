@@ -28,5 +28,5 @@ console.log('-=-=-= Вас приветствует СВЕТОФОР-РАЗРА�
 
 <!-- [Памятник разработки](https://a374ru.readthedocs.io) -->
 
-![img](assets/svg/../img/contacts-ystm.png)
+![img](assets/img/contacts-ystm.png)
 
