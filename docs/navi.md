@@ -37,7 +37,7 @@
   4.  САЙТ [aprakos.ru](a374ru.github.io/aprakos.ru)
   5. [Шаблон сетки GRID](https://a374ru.github.io/gridmonth/)
   6. [Еще быстрый адаптивный шаблон](https://a374ru.github.io/template-grid/)
-  7. [ШРИФТ](https://github.com/a374ru/fontstest)
+  7. [ШРИФТ](https://a374ru.github.io/fontstest/)
   8. И другое нужное [здесь…](https://github.com/a374ru?tab=repositories)
 
 
