@@ -22,7 +22,7 @@
 
 blockquote {
 	border-left: 3.2em solid #e9e2da;
-	/* border-right: 3.2em solid #e9e2da; */
+	border-right: 0.1999999999999993em solid #e9e2da;
 	padding: 0em 1em 0em 3em;
 	border-radius: 20%;
 }
@@ -55,11 +55,14 @@ body {
 
 pre{
 	overflow:auto;
-		padding: 0rem 0rem 1rem 1rem;
+	padding: 0rem 0rem 1rem 1rem;
+	background-color: #fffbfb;
+	font-size: 1.3em;
+	
 }
 
 code {
-	font-size: xx-large;
+/* 	font-size: 1em; */
 	color: #96719c;
 }
 table{
@@ -125,10 +128,22 @@ li {
 
 @media (max-width: 769px) {
 	body {
-		font-size: 17px;
+		font-size: 12px;
 		padding: 0px 7px 0px 17px;
-
 		margin: 0;
 	}
+
+	.markdown-body{
+		width: 97%;
+		
+	}
+	blockquote {
+	margin-left: 7px;
+	border-left: .2em solid #e9e2da;
+	border-right: 0.1999999999999993em solid #e9e2da;
+	padding: 0em 1em 0em 1em;
+	border-radius: 18%;
+		background-color:#fffdfa;
+}
 
 }
