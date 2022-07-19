@@ -9,17 +9,21 @@ console.log('-=-=-= Вас приветствует СВЕТОФОР-РАЗРА�
 
 # Точка Входа
 
+После перерывов в работе всегда требуется восстановить былое…
+
 <a href="navi">
 <img src='assets/svg/comp-start.svg'>
 </a>
 
 
-## [Текущая разработка здесь…](https://github.com/a374ru/aprakos.online)
+### [Текущая разработка здесь…](https://github.com/a374ru/aprakos.online)
+
+### Приостановленный проект [здесь…](https://a374ru.github.io/aprakos.ru/aa/)
 
 <br>
 
-## Документация
+## <s>Документация
 
-[Aprakos.online](https://aprakosonline.readthedocs.io)
+[Aprakos.online](https://aprakosonline.readthedocs.io)</s>
 
 <!-- [Памятник разработки](https://a374ru.readthedocs.io) -->
