@@ -57,6 +57,7 @@ code {
 	font-size: xx-large;
 	padding: 0rem 1rem 0rem 1rem;
 	color: #96719c;
+	overflow: hidden;
 }
 
 h1 {
@@ -123,4 +124,5 @@ li {
 
 		margin: 0;
 	}
+
 }
