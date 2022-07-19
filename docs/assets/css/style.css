@@ -39,7 +39,7 @@ body {
 	margin: auto;
 	display: flex;
 	flex-direction: column;
-	width: 77%;
+	/* width: 77%; */
 }
 
 #navi {
@@ -62,7 +62,6 @@ code {
 h1 {
 	font-size: var(--fontSize-H1);
 	text-transform: uppercase;
-	width: 900px;
 }
 
 p {
