@@ -59,14 +59,19 @@ body {
 	padding: 0.7em;
 	margin: 0em 0em -0.5em 0.3em;
 	border-radius: 0.2em;
-	transition: background 1s, transform 1s;
+	transition: background .7s, transform .7s;
+}
+
+.navi-item:nth-child(odd){
+	transform: rotate(-5deg);
+	color:red;
 }
 
 .navi-item:hover {
 	/* 	padding: .5em 1em; */
 	/* 		margin: 0em 0em -.5em .3em; */
 	background: #ecdbbe;
-	color: #000;
+	color: #fff;
 	/* border-radius: 0.3em; */
 	transform: rotate(9deg);
 }
@@ -215,7 +220,7 @@ li {
 		margin-right: 2px;
 		margin-left: 2px;
 		border-left: 0.2em solid #e9e2da;
-		border-right: 0.1999999999999993em solid #e9e2da;
+		border-right: 0.2em solid #e9e2da;
 		padding: 0em 1.5em 0em 1.5em;
 		border-radius: 15%;
 		background-color: #fffdfa;
@@ -224,21 +229,21 @@ li {
 	.navi {
 		position: relative;
 		background: linear-gradient(180deg, #8563 1%, #fffaf5 3%);
+		
 	}
 
-	.navi-item > a:hover {
-		padding: 0.5em 0.2em;
-		background: rgb(255, 250, 245);
-		color: #000;
+	.navi-item:hover {
+/* 		padding: 0.5em 0.2em; */
+		background: #fdc77;
 		border-radius: 0em;
-		transition: 0.1s;
 	}
 
 	.navi-item {
-		font-size: 1rem;
+		font-size: 1.2rem;
 		float: left;
 		padding: 0.6em;
 		margin: 0.3em;
+		transition:  transform 0.5s;
 	}
 
 	nav {
