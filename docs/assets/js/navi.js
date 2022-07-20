@@ -11,8 +11,6 @@ mass = {
 	"Доки": "vedi-documents",
 }
 
-
-
 // Возвращает HTML строку 
 function toNavi() {
 
@@ -21,7 +19,7 @@ function toNavi() {
 	for (const key in mass) {
 		if (Object.hasOwnProperty.call(mass, key)) {
 			const element = mass[key];
-			htmlString += `<li><a href="${element}">${key}</li>`
+			htmlString += `<a href="${element}">${key}</a> | `
 		}
 	}
 
