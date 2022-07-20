@@ -170,8 +170,24 @@ li {
 		width: 97%;
 	}
 }
+@media (max-width: 420px) {
+	.markdown-body {
+		width: 97%;
+	}
+
+	.navi-item {
+		font-size: 4.5vw;
+		float: left;
+		padding: 0.6em;
+		margin: 0.3em;
+	}
+}
 
 @media (max-width: 769px) {
+	.markdown-body {
+		width: 95%;
+	}
+
 	h2 {
 		font-size: 1.6em;
 	}
@@ -209,7 +225,7 @@ li {
 	}
 
 	.navi-item {
-		font-size: 4.5vw;
+		font-size: 3.5vw;
 		float: left;
 		padding: 0.6em;
 		margin: 0.3em;
