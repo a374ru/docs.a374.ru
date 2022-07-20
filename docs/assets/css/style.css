@@ -63,11 +63,11 @@ body {
 }
 
 .navi-item > a:hover {
-	padding: 1em 1em;
+	padding: 0em .5em;
 	/* 		margin: 0em 0em -.5em .3em; */
-	background: rgb(255, 250, 245);
+	/* background: rgb(255, 250, 245); */
 	color: #000;
-	border-radius: 0.3em;
+	/* border-radius: 0.3em; */
 	transition: 0.3s;
 }
 
@@ -121,18 +121,18 @@ h3 {
 }
 
 a:link {
-	color: #5c808e;
+	color: #604c11;
 	text-decoration-line: none;
 	/* list-style-type: circle; */
 }
 a:visited {
-	color: #785c00;
+	color: #635425;
 	text-decoration-line: none;
 	/* list-style-type: circle; */
 }
 
 a:hover {
-	color: #7777;
+	color: rgba(115, 0, 0, 0.467);
 }
 
 .menu {
