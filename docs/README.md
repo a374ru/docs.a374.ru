@@ -33,4 +33,4 @@ console.log('-=-=-= Вас приветствует СВЕТОФОР-РАЗРА�
 
 <br>
 
-<script src="assets/js/js.js">console.log("test ys YSTM", navi())</script>
+<script src="assets/js/a374.js">console.log("test ys YSTM", navi())</script>
