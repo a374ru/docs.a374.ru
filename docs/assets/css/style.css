@@ -8,7 +8,7 @@
 	--fontIrmUCS-var: Irmologion;
 	--font-var: Fontics;
 	--fontEvng-var: Evangeliecs;
-	--fontSize-H1: 1.7em;
+	--fontSize-H1: 1.3em;
 }
 
 @font-face {
@@ -97,19 +97,19 @@ h1 {
 	text-transform: uppercase;
 	overflow-wrap: break-word;
 }
+h1::first-letter {
+	color: #d62b2b;
+	font-size: 1.3;
+}
 
 p {
-	font-size: 1.3em;
+	font-size: 1.2em;
 }
 
 p::first-letter {
 	color: #f65920;
 }
 
-h1::first-letter {
-	color: #d62b2b;
-	font-size: var(--fontSize-H1);
-}
 
 h2::first-letter {
 	font-size: 1.7em;
@@ -167,11 +167,6 @@ li {
 =====================================
 
 */
-@media (max-width: 1024px) {
-	.markdown-body {
-		width: 97%;
-	}
-}
 @media (max-width: 425px) and (orientation: portrait) {
 	.markdown-body {
 		width: 97%;
@@ -185,18 +180,24 @@ li {
 	}
 }
 
+
 @media (max-width: 769px) {
+	
+	body {
+	font-size: 17px;
+}
+
 	.markdown-body {
 		width: 95%;
 	}
 
 	h2 {
-		font-size: 1.6em;
+		font-size: 1.3em;
 		overflow-wrap: break-word;
 	}
 
 	h3 {
-		font-size: 1.3em;
+		font-size: 1.1em;
 	}
 
 	body {
@@ -244,3 +245,10 @@ li {
 		padding-inline-start: 19px;
 	}
 }
+
+@media (max-width: 1024px) {
+	.markdown-body {
+		width: 97%;
+	}
+}
+
