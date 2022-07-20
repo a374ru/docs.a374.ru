@@ -1,5 +1,4 @@
 /*  Во имя Отца и Сына и Святаго Духа. Аминь. */
-
 :root {
 	--kino-var: #e34234;
 	--sizeDate-var: 1.1em;
@@ -60,15 +59,16 @@ body {
 	padding: 0.7em;
 	margin: 0em 0em -0.5em 0.3em;
 	border-radius: 0.2em;
+	transition: background 1s, transform 1s;
 }
 
-.navi-item > a:hover {
-	padding: 0em 0.5em;
+.navi-item:hover {
+	/* 	padding: .5em 1em; */
 	/* 		margin: 0em 0em -.5em .3em; */
-	/* background: rgb(255, 250, 245); */
+	background: #ecdbbe;
 	color: #000;
 	/* border-radius: 0.3em; */
-	transition: 0.3s;
+	transform: rotate(9deg);
 }
 
 nav {
@@ -88,6 +88,7 @@ code {
 	color: #96719c;
 	overflow-wrap: break-word;
 }
+
 table {
 	overflow: auto;
 }
@@ -97,6 +98,7 @@ h1 {
 	text-transform: uppercase;
 	overflow-wrap: break-word;
 }
+
 h1::first-letter {
 	color: #d62b2b;
 	font-size: 1.7em;
@@ -109,6 +111,7 @@ p {
 p::first-letter {
 	color: #f65920;
 }
+
 h2 {
 	font-size: 1.4em;
 	text-transform: uppercase;
@@ -131,6 +134,7 @@ a:link {
 	text-decoration-line: none;
 	/* list-style-type: circle; */
 }
+
 a:visited {
 	color: #635425;
 	text-decoration-line: none;
@@ -184,12 +188,10 @@ li {
 	}
 }
 
-
 @media (max-width: 769px) {
-	
 	body {
-	font-size: 17px;
-}
+		font-size: 17px;
+	}
 
 	.markdown-body {
 		width: 95%;
@@ -255,5 +257,3 @@ li {
 		width: 97%;
 	}
 }
-
-
