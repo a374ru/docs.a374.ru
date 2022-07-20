@@ -94,6 +94,7 @@ table {
 h1 {
 	font-size: var(--fontSize-H1);
 	text-transform: uppercase;
+	word-break: break-all;
 }
 
 p {
@@ -170,13 +171,13 @@ li {
 		width: 97%;
 	}
 }
-@media (max-width: 420px) {
+@media (max-width: 425px) and (orientation: portrait) {
 	.markdown-body {
 		width: 97%;
 	}
 
 	.navi-item {
-		font-size: 4.5vw;
+		font-size: 2em;
 		float: left;
 		padding: 0.6em;
 		margin: 0.3em;
