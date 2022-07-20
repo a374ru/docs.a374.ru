@@ -1,4 +1,4 @@
-<div id="navi"><a href="./navi#азъ">🔍</a></div>
+🔍<div class="navi"> <nav id="navi"> <!-- js --> </nav>
 
 # УПРАВЛЕНИЕ ДОКУМЕНТАЦИЕЙ
 
@@ -49,12 +49,10 @@
 
 <span style="color: #F29849;">Продуманное вначале сильно облегчает будущее **про**думанному **про**граммисту.
 
-<br>
+r>
 
 […на главную](/)
 
 <br>
-
-<!-- ![image-bottom](https://1.bp.blogspot.com/-hOxN5KX2KfY/YPplNP_w6xI/AAAAAAAAGz0/nNxSLwD5lnQhvFnce_DzmIoSRWyY9A3QACLcBGAsYHQ/s694/theend-beats.png) -->
-
+<script src="assets/js/navi.js"></script>
 

@@ -1,4 +1,4 @@
-<div id="navi"><a href="./navi#азъ">🔍</a></div>
+🔍<div class="navi"> <nav id="navi"> <!-- js --> </nav>
 
 # ТИПЫ человеков и не только
 
@@ -72,11 +72,9 @@ man	   /// [ 0, 'Adam', 'Eva' ]
 Теперь по возврату ясно видно, что до Адама и Евы стоит ноль, Адам - первый, Ева - вторая. Все логично и понятно стало вдруг.
 
 
-<br>
+r>
 
 […на главную](/)
 
 <br>
-
-<!-- ![img](https://1.bp.blogspot.com/-hOxN5KX2KfY/YPplNP_w6xI/AAAAAAAAGz0/nNxSLwD5lnQhvFnce_DzmIoSRWyY9A3QACLcBGAsYHQ/s694/theend-beats.png) -->
-
+<script src="assets/js/navi.js"></script>

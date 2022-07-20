@@ -47,7 +47,6 @@ body {
 	display: flex;
 	position: -webkit-sticky;
 	position: sticky;
-	/* text-align: right; */
 	top: 0;
 	font-size: 1.2em;
 	background: linear-gradient(0deg, darkgoldenrod -40%, #fffaf5 14%);
@@ -59,6 +58,7 @@ body {
 
 nav{
 
+	text-align: right;
 	height: 1.7em;
 	padding: 15px 2px 10px 40px;
 	

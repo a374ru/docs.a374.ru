@@ -16,3 +16,6 @@
 
 […на главную](/)
 
+<br>
+<script src="assets/js/navi.js"></script>
+

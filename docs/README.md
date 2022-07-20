@@ -1,5 +1,5 @@
 
-<div class="navi"> <ol id="navi"> <!-- js --> </ol>
+<div class="navi"> <nav id="navi"> <!-- js --> </nav>
 	
 	
 </div>

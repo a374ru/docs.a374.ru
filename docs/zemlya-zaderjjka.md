@@ -1,4 +1,4 @@
-<div id="navi"><a href="./navi#азъ">🔍</a></div>
+🔍<div class="navi"> <nav id="navi"> <!-- js --> </nav>
 
 # Задержка мысли
 
@@ -12,11 +12,12 @@
 
 <br>
 
-<!-- ![провал в памяти](https://3.bp.blogspot.com/-l2K2uY0rcTo/YHkJRWSiOuI/AAAAAAAAGfo/TV82JslYcx8iE1qpKlO20NBED8gaABzlQCK4BGAYYCw/s800/%25D0%2598%25D0%25B7%25D0%25BE%25D0%25B1%25D1%2580%25D0%25B0%25D0%25B6%25D0%25B5%25D0%25BD%25D0%25B8%25D0%25B5%2BPNG-765391.png) -->
+![провал в памяти](assets/img/proval.png)
 
 
-<br>
+r>
 
 […на главную](/)
 
 <br>
+<script src="assets/js/navi.js"></script>

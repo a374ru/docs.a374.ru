@@ -26,7 +26,7 @@ function toNavi() {
 	}
 
 
-	htmlString += `<a href="navi"> 🎈</a>`
+	htmlString += `<a href="navi#n1"> 🎈 </a>`
 	return htmlString;
 
 }

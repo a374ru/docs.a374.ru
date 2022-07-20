@@ -1,4 +1,4 @@
-<div id="navi"><a href="./navi#азъ">🔍</a></div>
+🔍<div class="navi"> <nav id="navi"> <!-- js --> </nav>
 
 # Настройки редактора `VIM` (MacOS) с русским хелпом.
 
@@ -69,10 +69,9 @@ PlugInstall
 
 Таким простым способ `vim` обновиться до последней версии и если `MacVim.app` не нужен, его можно просто выкинуть в корзину.
 
-<br>
+r>
 
 […на главную](/)
 
 <br>
-
-<!-- ![img](https://1.bp.blogspot.com/-hOxN5KX2KfY/YPplNP_w6xI/AAAAAAAAGz0/nNxSLwD5lnQhvFnce_DzmIoSRWyY9A3QACLcBGAsYHQ/s694/theend-beats.png) -->
+<script src="assets/js/navi.js"></script>
