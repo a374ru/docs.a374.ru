@@ -63,7 +63,7 @@ body {
 }
 
 .navi-item > a:hover {
-	padding: 0em .5em;
+	padding: 0em 0.5em;
 	/* 		margin: 0em 0em -.5em .3em; */
 	/* background: rgb(255, 250, 245); */
 	color: #000;
@@ -186,11 +186,12 @@ li {
 	}
 
 	blockquote {
-		margin-left: 7px;
+		margin-right: 2px;
+		margin-left: 2px;
 		border-left: 0.2em solid #e9e2da;
 		border-right: 0.1999999999999993em solid #e9e2da;
-		padding: 0em 1em 0em 1em;
-		border-radius: 18%;
+		padding: 0em 1.5em 0em 1.5em;
+		border-radius: 15%;
 		background-color: #fffdfa;
 	}
 
