@@ -9,3 +9,5 @@ function navi() {
 	document.title = "YSTM";
 	document.getElementById('navi').innerHTML = "🎈";
 }
+
+navi();
