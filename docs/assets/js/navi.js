@@ -9,7 +9,6 @@ mass = {
 	"Настройки": "buki-set",
 	"VIM": "vedi-vim",
 	"Доки": "vedi-documents",
-	"Провал": "zemlya-zaderjjka"
 }
 
 
@@ -22,12 +21,12 @@ function toNavi() {
 	for (const key in mass) {
 		if (Object.hasOwnProperty.call(mass, key)) {
 			const element = mass[key];
-			htmlString += `<a href="${element}">${key}</a> • `
+			htmlString += `<div class="navi-item"><a href="${element}">${key}</a> </div>`
 		}
 	}
 
 
-	htmlString += `<a href="navi#n1"> 🎈 </a>`
+	htmlString += `<div class="navi-item"><a href="navi"> 🎈</a></div>`
 	return htmlString;
 
 }
