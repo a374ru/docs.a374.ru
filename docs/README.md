@@ -1,8 +1,4 @@
-
-<div class="navi"> <nav id="navi"> <!-- js --> </nav>
-	
-	
-</div>
+<div class="navi"> <nav id="navi"> <!-- js --> </nav></div>
 
 #  Точка Входа
 

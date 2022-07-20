@@ -1,4 +1,4 @@
-<div class="navi"> <nav id="navi"> <!-- js --> </nav>
+<div class="navi"> <nav id="navi"> <!-- js --> </nav></div>
 
 # Задержка мысли
 
@@ -20,4 +20,5 @@ r>
 […на главную](/)
 
 <br>
+
 <script src="assets/js/navi.js"></script>

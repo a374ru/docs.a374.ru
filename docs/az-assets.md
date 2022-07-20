@@ -1,4 +1,5 @@
-<div class="navi"> <nav id="navi"> <!-- js --> </nav>
+<div class="navi"> <nav id="navi"> <!-- js --> </nav></div>
+
 # УПРАВЛЕНИЕ ВЛОЖЕНИЯМИ !
 
 К вложеним относятся:
@@ -44,4 +45,5 @@
 <span style="color: #8F7161;">Лучший вариантом признается локальное встраивание `svg`, то есть вставка в файл как в несущий контейнер.</span>
 
 <br>
+
 <script src="assets/js/navi.js"></script>

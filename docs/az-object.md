@@ -1,4 +1,5 @@
-<div class="navi"> <nav id="navi"> <!-- js --> </nav>
+<div class="navi"> <nav id="navi"> <!-- js --> </nav></div>
+
 # Азъ объект
 
 ### Первый объект
@@ -41,6 +42,7 @@
 […на главную](/)
 
 <br>
+
 <script src="assets/js/navi.js"></script>
 
 

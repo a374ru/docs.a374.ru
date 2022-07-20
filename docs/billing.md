@@ -1,15 +1,10 @@
+<div class="navi"><nav id="navi"><!-- js --></nav></div>
 
+# Оплата ресурсов проектА
  
  <a id="aCard" style="cursor:pointer" onclick="imgAlert()">![Кого подключать](/docs/assets/img/card.png)</a>
 
-<div class="navi"><nav id="navi"><!-- js --></nav>
-
-# Оплата ресурсов проектА
-
-
-
 >Разграничение ответственности.
-
 
 	Требуется установить отношения по оплате технической части проекта.
 
@@ -45,4 +40,5 @@ Eсли заказчик предполагает сам управлять ка
 […на главную](/)
 
 <br>
+
 <script src="assets/js/navi.js"></script>

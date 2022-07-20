@@ -1,4 +1,4 @@
-<div class="navi"><nav id="navi"><!-- js --></nav>
+<div class="navi"><nav id="navi"><!-- js --></nav></div>
 
 # Aзъ переменная
 
@@ -117,4 +117,5 @@ az = "new man"           // error!
 […на главную](/)
 
 <br>
+
 <script src="assets/js/navi.js"></script>
