@@ -49,8 +49,7 @@ body {
 	position: sticky;
 	top: 0;
 	font-size: 1.2em;
-	background: linear-gradient(0deg, darkgoldenrod -40%, #fffaf5 14%);
-	border: 3px red;
+	background: linear-gradient(0deg, darkgoldenrod -10%, #fffaf5 12%);
 	border-radius: 0px 0px 10px 10px;
 	justify-content: space-around;
 	align-items: center;
@@ -58,9 +57,9 @@ body {
 
 nav{
 
-	text-align: right;
-	height: 1.7em;
-	padding: 15px 2px 10px 40px;
+
+/* 	height: 1.7em; */
+	padding: 15px 2px 22px 0px;
 	
 }
 
@@ -161,7 +160,7 @@ h3{
 }
 	
 	body {
-		padding: 0px 7px 0px 17px;
+		padding: 0px 7px 0px 7px;
 		margin: 0;
 	}
 
@@ -182,6 +181,10 @@ h3{
 	position: relative;
 
 }
+	nav{
+		padding-left:3px;
+		padding-right:0px;
+	}
 
 ol,ul{
 	padding-inline-start: 19px;
