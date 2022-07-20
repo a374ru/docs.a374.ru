@@ -1,11 +1,8 @@
-<!-- <script>
-if(window.location.hostname === "a374ru.readthedocs.io"){
-window.location.href='../_README'
-} else {
-console.log('-=-=-= Вас приветствует СВЕТОФОР-РАЗРАБОТКИ =-=-=-')
-}
-</script> -->
-<div id="navi"><a href="./navi#азъ">🔍</a></div>
+
+<div class="navi"> <ol id="navi"> <!-- js --> </ol>
+	
+	
+</div>
 
 #  Точка Входа
 
@@ -33,4 +30,4 @@ console.log('-=-=-= Вас приветствует СВЕТОФОР-РАЗРА�
 
 <br>
 
-<script src="assets/js/a374.js"></script>
+<script src="assets/js/navi.js"></script>
