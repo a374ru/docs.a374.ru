@@ -1,5 +1,5 @@
 
-🔍<div class="navi"> <nav id="navi"> <!-- js --> </nav>
+<div class="navi"><nav id="navi"><!-- js --></nav>
 
 # УСТАНОВКА И НАСТРОЙКА GOOGLE CLOUD 
 

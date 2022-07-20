@@ -9,6 +9,7 @@ mass = {
 	"Настройки": "buki-set",
 	"VIM": "vedi-vim",
 	"Доки": "vedi-documents",
+	"Провал": "zemlya-zaderjjka"
 }
 
 

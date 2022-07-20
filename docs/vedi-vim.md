@@ -1,4 +1,4 @@
-🔍<div class="navi"> <nav id="navi"> <!-- js --> </nav>
+<div class="navi"><nav id="navi"><!-- js --></nav>
 
 # Настройки редактора `VIM` (MacOS) с русским хелпом.
 

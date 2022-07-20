@@ -1,4 +1,4 @@
-🔍<div class="navi"> <nav id="navi"> <!-- js --> </nav>
+<div class="navi"><nav id="navi"><!-- js --></nav>
 
 # GIT управление снаружи и внутри
 

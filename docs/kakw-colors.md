@@ -1,4 +1,4 @@
-🔍<div class="navi"> <nav id="navi"> <!-- js --> </nav>
+<div class="navi"><nav id="navi"><!-- js --></nav>
 
 # Цвéточная схема для web a374
 
