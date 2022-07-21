@@ -8,7 +8,7 @@ mass = {
 	"Букмарки": "buki-bukmarki",
 	"Настройки": "buki-set",
 	"VIM": "vedi-vim",
-	"Доки": "vedi-documents",
+	"День": "vedi-documents",
 }
 
 
@@ -25,8 +25,10 @@ function toNavi() {
 		}
 	}
 
+	cday = new Date().getDate();
 
-	htmlString += `<div class="navi-item"><a href="navi"> 🎈</a></div>`
+
+	htmlString += `<div class="navi-item" style="background: #CCBAAC;transform: rotate(0deg); margin-left:0em"><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html" style="color:#ffd" ><b>${cday}</b></a></div>`
 	return htmlString;
 
 }
