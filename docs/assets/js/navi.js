@@ -8,7 +8,7 @@ mass = {
 	"Букмарки": "buki-bukmarki",
 	"Настройки": "buki-set",
 	"VIM": "vedi-vim",
-	"День": "vedi-documents",
+	"День": "dobro-day",
 }
 
 
