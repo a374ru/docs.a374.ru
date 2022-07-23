@@ -193,9 +193,9 @@ li {
 		width: 97%;
 	}
 
-	body h1:first-child{
-	display:none;
-}
+	body h1:first-child {
+		display: none;
+	}
 
 	.navi-item {
 		font-size: 4em;
@@ -205,8 +205,14 @@ li {
 	}
 }
 
-@media (max-width: 769px) {
+@media (max-width: 767px) and (orientation: portrait) {
+	.navi {
+		position: sticky;
+		background: linear-gradient(180deg, #8563 1%, #fffaf5 3%);
+	}
+}
 
+@media (max-width: 767px) {
 	.markdown-body {
 		width: 95%;
 	}
@@ -221,7 +227,6 @@ li {
 	}
 
 	body {
-
 		font-size: 18px;
 		padding: 0px 7px 0px 7px;
 		margin: 0;
@@ -238,7 +243,7 @@ li {
 	}
 
 	.navi {
-		/* position: relative; */
+		position: relative;
 		background: linear-gradient(180deg, #8563 1%, #fffaf5 3%);
 	}
 
@@ -249,7 +254,6 @@ li {
 	}
 
 	.navi-item:hover {
-		
 		border-radius: 0em;
 	}
 

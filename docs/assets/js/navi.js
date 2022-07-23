@@ -11,7 +11,27 @@ pageDict = {
 	"День": "dobro-day",
 }
 
-tabTitle = `${document.location.hostname} – ${document.querySelector('#сий-день').innerHtml} | YS©TM`;
+
+function namePage() {
+	str = document.URL.split('/').pop();
+	if (str != "") {
+		str = str.split('.')[0];
+
+		for (const ii of pageDict) {
+			if (pageDict[ii] == str) {
+				return `${document.location.hostname} – ${rrr} | YS©TM`;
+
+			}
+		}
+
+
+	} else {
+		return "Главная страница | YS©TM"
+	}
+
+}
+
+
 
 // Возвращает HTML строку 
 function toNavi() {
@@ -35,7 +55,7 @@ function toNavi() {
 
 // Встраивает элемент в документ HTML-страницу
 function navi() {
-	document.title = tabTitle;
+	document.title = namePage();
 	document.getElementById('navi').innerHTML = toNavi();
 }
 
