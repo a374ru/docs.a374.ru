@@ -13,27 +13,28 @@ pageDict = {
 
 
 function namePage() {
+	rrr = 'Главная стр.';
 	str = document.URL.split('/').pop();
 	if (str != "") {
 		str = str.split('.')[0];
 
 		for (const key in pageDict) {
 			if (Object.hasOwnProperty.call(pageDict, key)) {
-				if (pageDict[key] == str) {
+				if (pageDict[key] === str) {
 
 					namePageTab = key;
 
-					return `${document.location.hostname} – ${namePageTab} | YS©TM`;
+					rrr = `${document.location.hostname} • ${namePageTab} ••• YS©TM`;
 
 
-				} else {
-					return `${document.location.hostname} | Главная страница | YS©TM`
-				}
+				} 
+
 			}
 		}
 
 
 	}
+	return rrr
 
 }
 
