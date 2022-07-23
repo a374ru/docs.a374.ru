@@ -238,7 +238,7 @@ li {
 	}
 
 	.navi {
-		position: relative;
+		/* position: relative; */
 		background: linear-gradient(180deg, #8563 1%, #fffaf5 3%);
 	}
 

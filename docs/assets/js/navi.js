@@ -11,7 +11,7 @@ pageDict = {
 	"День": "dobro-day",
 }
 
-tabTitle = `${document.location.hostname} – ${document.querySelector('#сий-день').innerHtml} | YS©TM`
+tabTitle = `${document.location.hostname} – ${document.querySelector('#сий-день').innerHtml} | YS©TM`;
 
 // Возвращает HTML строку 
 function toNavi() {
