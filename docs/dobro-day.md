@@ -56,7 +56,7 @@
 
 <br>
 
-![image-bottom](assets/svg/comp.svg)
+![image-bottom](assets/svg/comp-end.svg)
 
 
 <script src="assets/js/navi.js"></script>

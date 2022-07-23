@@ -1,6 +1,6 @@
 
 
-mass = {
+pageDict = {
 	"Азъ": "az",
 	"Переменная": "az-peremennaya",
 	"Объект": "az-object",
@@ -11,16 +11,16 @@ mass = {
 	"День": "dobro-day",
 }
 
-
+tabTitle = `${document.location.hostname} – ${document.querySelector('#сий-день').innerHtml} | YS©TM`
 
 // Возвращает HTML строку 
 function toNavi() {
 
 	htmlString = "";
 
-	for (const key in mass) {
-		if (Object.hasOwnProperty.call(mass, key)) {
-			const element = mass[key];
+	for (const key in pageDict) {
+		if (Object.hasOwnProperty.call(pageDict, key)) {
+			const element = pageDict[key];
 			htmlString += `<div class="navi-item"><a href="${element}">${key}</a> </div>`
 		}
 	}
@@ -35,7 +35,7 @@ function toNavi() {
 
 // Встраивает элемент в документ HTML-страницу
 function navi() {
-	document.title = "YSTM";
+	document.title = tabTitle;
 	document.getElementById('navi').innerHTML = toNavi();
 }
 

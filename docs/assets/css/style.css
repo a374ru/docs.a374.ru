@@ -18,6 +18,14 @@
 	font-weight: normal;
 	font-style: normal;
 }
+@font-face {
+	font-family: "Ystm";
+	font-display: auto;
+	src: local("Fontics-Regular.otf"),
+		url("https://a374.ru/font/Ystm-Regular.otf");
+	font-weight: normal;
+	font-style: normal;
+}
 
 blockquote {
 	border-left: 3.2em solid #e9e2da;
@@ -31,7 +39,7 @@ body {
 	padding-bottom: 133px;
 	background: rgb(255, 250, 245);
 	color: #4f2b00;
-	font-size: 20px;
+	font-size: 19px;
 }
 
 .markdown-body {
