@@ -17,21 +17,25 @@ function namePage() {
 	if (str != "") {
 		str = str.split('.')[0];
 
-		for (const ii of pageDict) {
-			if (pageDict[ii] == str) {
-				return `${document.location.hostname} – ${rrr} | YS©TM`;
+		for (const key in pageDict) {
+			if (Object.hasOwnProperty.call(pageDict, key)) {
+				if (pageDict[key] == str) {
 
+					namePageTab = key;
+
+					return `${document.location.hostname} – ${namePageTab} | YS©TM`;
+
+
+				} else {
+					return `${document.location.hostname} | Главная страница | YS©TM`
+				}
 			}
 		}
 
 
-	} else {
-		return "Главная страница | YS©TM"
 	}
 
 }
-
-
 
 // Возвращает HTML строку 
 function toNavi() {
