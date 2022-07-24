@@ -10,6 +10,11 @@
 	--fontSize-H1: 2em;
 }
 
+
+h1{
+	transform: rotateZ(357deg);
+}
+
 @font-face {
 	font-family: "Fontics";
 	font-display: auto;
@@ -54,11 +59,14 @@ body {
 	position: -webkit-sticky;
 	position: sticky;
 	top: 0;
-	font-size: 1.5vw;
+	font-size: 1.4vw;
 	background: linear-gradient(0deg, darkgoldenrod -10%, #fffaf5 12%);
 	border-radius: 0px 0px 10px 10px;
 	justify-content: space-around;
 	align-content: center;
+	z-index: 999;
+	box-shadow: 0px 6px 19px 14px #fffaf6, 0px 0px 24px 18px #fffaf6;
+	padding-bottom: 7px;
 }
 
 .navi-item {
@@ -68,6 +76,7 @@ body {
 	margin: 0em 0em -0.5em 0.3em;
 	border-radius: 0.2em;
 	transition: background 0.7s, transform 0.7s;
+	box-shadow: inset 0px -2px 0px 0px #714d4d38;
 }
 
 .navi-item:nth-child(odd) {
@@ -82,6 +91,8 @@ body {
 	color: #fff;
 	/* border-radius: 0.3em; */
 	transform: rotate(9deg);
+	
+	
 }
 
 nav {
@@ -107,6 +118,9 @@ table {
 	font-size: 1.3em;
 	color: #008b8b;
 	padding: 3%;
+	
+	transform: rotate(359deg);
+	
 }
 thead {
 	color: #000090;
@@ -145,6 +159,7 @@ h2::first-letter {
 
 h3 {
 	font-size: 1.3em;
+	transform: rotate(359deg);
 }
 
 a:link {
