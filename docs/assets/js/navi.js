@@ -13,7 +13,7 @@ pageDict = {
 
 
 function namePage() {
-	rrr = 'Главная стр.';
+	stringTabTitle = 'Главная стр.';
 	str = document.URL.split('/').pop();
 	if (str != "") {
 		str = str.split('.')[0];
@@ -24,7 +24,8 @@ function namePage() {
 
 					namePageTab = key;
 
-					rrr = `${document.location.hostname} • ${namePageTab} ••• YS©TM`;
+					stringTabTitle = `${namePageTab} ••• ${document.location.hostname}`;
+				}
 
 
 				} 
@@ -33,10 +34,9 @@ function namePage() {
 		}
 
 
-	}
-	return rrr
-
+	return stringTabTitle;
 }
+
 
 // Возвращает HTML строку 
 function toNavi() {
@@ -46,7 +46,7 @@ function toNavi() {
 	for (const key in pageDict) {
 		if (Object.hasOwnProperty.call(pageDict, key)) {
 			const element = pageDict[key];
-			htmlString += `<div class="navi-item"><a href="${element}">${key}</a> </div>`
+			htmlString += `<div class="navi-item"><a href="${element}">${key}</a> </div>`;
 		}
 	}
 

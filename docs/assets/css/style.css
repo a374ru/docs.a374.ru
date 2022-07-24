@@ -7,7 +7,7 @@
 	--fontIrmUCS-var: Irmologion;
 	--font-var: Fontics;
 	--fontEvng-var: Evangeliecs;
-	--fontSize-H1: 1.4em;
+	--fontSize-H1: 2em;
 }
 
 @font-face {
@@ -104,8 +104,13 @@ code {
 
 table {
 	overflow: auto;
+	font-size: 1.3em;
+	color: #008b8b;
+	padding: 3%;
 }
-
+thead {
+	color: #000090;
+}
 h1 {
 	font-size: var(--fontSize-H1);
 	text-transform: uppercase;
@@ -215,6 +220,10 @@ li {
 @media (max-width: 767px) {
 	.markdown-body {
 		width: 95%;
+	}
+
+	h1{
+		font-size: 1.4em;
 	}
 
 	h2 {
