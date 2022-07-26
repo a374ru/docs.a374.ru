@@ -54,10 +54,11 @@ function toNavi() {
 
 	counter = 1;
 	htmlString = "";
+	rnd = Math.floor(Math.random() * (5 - 2)) + 2;
 
 	for (const key in pageDict) {
 
-		if (Object.hasOwnProperty.call(pageDict, key) && counter < 9 && key != 'dobro-day') {
+		if (Object.hasOwnProperty.call(pageDict, key) && counter % rnd && counter < 18 && key != 'dobro-day') {
 			const element = pageDict[key];
 			htmlString += `<div class="navi-item"><a href="${key}">${element}</a> </div>`;
 		}
@@ -67,7 +68,7 @@ function toNavi() {
 
 	cday = new Date().getDate();
 
-	htmlString += `<div class="navi-item" id="dobro-day"><a href="dobro-day">День</a> </div><div class="navi-item" id="number-day"><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html" style="color:#ffd" >${cday}</a></div>`
+	htmlString += `<div class="navi-item" style="background: #F8FFD9;transform: rotate(0deg); margin-left:1em"><a href="dobro-day">День</a> </div><div class="navi-item" style="background: #CCBAAC;transform: rotate(0deg); margin-left:0em"><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html" style="color:#ffd" ><b>${cday}</b></a></div>`
 	return htmlString;
 
 }
