@@ -10,8 +10,7 @@
 	--fontSize-H1: 2em;
 }
 
-
-h1{
+h1 {
 	transform: rotateZ(357deg);
 }
 
@@ -91,8 +90,6 @@ body {
 	color: #fff;
 	/* border-radius: 0.3em; */
 	transform: rotate(9deg);
-	
-	
 }
 
 nav {
@@ -118,9 +115,8 @@ table {
 	font-size: 1.3em;
 	color: #008b8b;
 	padding: 3%;
-	
+
 	transform: rotate(359deg);
-	
 }
 thead {
 	color: #000090;
@@ -203,6 +199,19 @@ li {
 	padding: 1px 22px 0.7em 0px;
 }
 
+#dobro-day {
+	background: #f8ffd9;
+	transform: rotate(0deg);
+	margin-left: 1em;
+}
+
+#number-day {
+	background: #ccbaac;
+	transform: rotate(0deg);
+	margin-left: 0em;
+	font-weight: bold;
+}
+
 /* 
 
 =====================================
@@ -237,7 +246,7 @@ li {
 		width: 95%;
 	}
 
-	h1{
+	h1 {
 		font-size: 1.4em;
 	}
 

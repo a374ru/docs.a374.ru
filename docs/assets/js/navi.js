@@ -1,59 +1,73 @@
 
-
+/**
+ *  словарь доступных страниц ссылок
+ */
 pageDict = {
-	"Азъ": "az",
-	"Переменная": "az-peremennaya",
-	"Объект": "az-object",
-	"Соглашение": "buki",
-	"Букмарки": "buki-bukmarki",
-	"Настройки": "buki-set",
-	"VIM": "vedi-vim",
-	"День": "dobro-day",
+	"dobro-day": "Сий День",
+	"az": "Азъ",
+	"az-peremennaya": "Переменная",
+	"az-object": "Объект",
+	"buki": "Соглашение",
+	"buki-bukmarki": "Букмарки",
+	"buki-set": "Настройки",
+	"vedi-vim": "VIM",
+	"pokoy-proval": "Провал",
+
 }
 
-
+/**
+ * Функция разбирает  URL текущей страницы
+ * проверяет имя на присутствие в массиве 
+ * 
+ * @returns строку с именем текущей страницы.
+ */
 function namePage() {
-	stringTabTitle = 'Главная стр.';
+
+	stringTabTitle = 'Главная стр. | a374.ru';
 	str = document.URL.split('/').pop();
 	if (str != "") {
-		str = str.split('.')[0];
 
 		for (const key in pageDict) {
 			if (Object.hasOwnProperty.call(pageDict, key)) {
-				if (pageDict[key] === str) {
+				if (key === str) {
 
-					namePageTab = key;
+					namePageTab = pageDict[key];
 
 					stringTabTitle = `${namePageTab} ••• ${document.location.hostname}`;
 				}
 
 
-				} 
-
 			}
-		}
 
+		}
+	}
 
 	return stringTabTitle;
 }
 
-
-// Возвращает HTML строку 
+/**
+ * Функция составляет меню из словаря
+ * 
+ * @returns HTML строку
+ */
 function toNavi() {
 
+	counter = 1;
 	htmlString = "";
 
 	for (const key in pageDict) {
-		if (Object.hasOwnProperty.call(pageDict, key)) {
+
+		if (Object.hasOwnProperty.call(pageDict, key) && counter < 9 && key != 'dobro-day') {
 			const element = pageDict[key];
-			htmlString += `<div class="navi-item"><a href="${element}">${key}</a> </div>`;
+			htmlString += `<div class="navi-item"><a href="${key}">${element}</a> </div>`;
 		}
+		this.counter += 1;
+
 	}
 
 	cday = new Date().getDate();
 
-
-	htmlString += `<div class="navi-item" style="background: #CCBAAC;transform: rotate(0deg); margin-left:0em"><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html" style="color:#ffd" ><b>${cday}</b></a></div>`
+	htmlString += `<div class="navi-item" id="dobro-day"><a href="dobro-day">День</a> </div><div class="navi-item" id="number-day"><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html" style="color:#ffd" >${cday}</a></div>`
 	return htmlString;
 
 }

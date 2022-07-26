@@ -30,6 +30,8 @@
 
 ## ПОКОЙ
 
+1. [Провал](pokoy-proval.md)
+
 ### Проекты готовые:
 
   1. [Aprakos-TS](https://a374ru.github.io/aprakos-ts/)
