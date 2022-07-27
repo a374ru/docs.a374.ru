@@ -2,7 +2,7 @@
 
 # Цвéточная схема для web a374
 
-![](/docs/assets/img/colors-a374ru.jpeg)
+![colors map](assets/img/colors-a374ru.jpeg)
 Основные цвета используемые в проекте и палитре
 ---
 

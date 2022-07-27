@@ -102,6 +102,7 @@ pre {
 	padding: 0.5rem 1rem 1rem 1rem;
 	background-color: #fffbfb;
 	font-size: 1.3em;
+	box-shadow: 0px 0px 7px #ffffff;
 }
 
 code {
