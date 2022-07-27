@@ -37,6 +37,7 @@ blockquote {
 	border-right: 0.1999999999999993em solid #e9e2da;
 	padding: 0em 1em 0em 3em;
 	border-radius: 20%;
+	background: #fff;
 }
 
 body {
@@ -202,23 +203,28 @@ li {
 	padding: 1px 22px 0.7em 0px;
 }
 
-#dobro-day {
-	block: inline;
-	background: #f8ffd9;
+#day {
 	transform: rotate(0deg);
-	margin-right: -1.8em;
-	padding-right: 1.3em;
+	background: #fff;
+}
+
+#dobro-day {
+	block: absolute;
+	/* 	background: #f8ffd9; */
+	/* 	transform: rotate(10deg); */
+	/* 	margin-right: 1em; */
+	/* 	padding-right: 1em; */
 }
 
 #number-day {
-	transform: rotate(0deg);
-	margin-left: 22px;
+	/* 	transform: rotate(0deg); */
+	/* 	margin-left: 22px; */
 	font-weight: bold;
-	background: #eee4f3;
-	border-radius: 0px 22px 22px 0px;
+	/* 	background: #eee4f3; */
+	/* 	border-radius: 0px 2px 2px 0px; */
 	/* color:
   red; */
-	/* box-shadow: none; */
+	/* 	box-shadow: none; */
 }
 
 /* 

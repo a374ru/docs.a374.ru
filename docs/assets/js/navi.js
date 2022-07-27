@@ -1,4 +1,3 @@
-
 /**
  *  Словарь доступных страниц ссылок.
  * Добавили страницу – добавили строку в словарь.
@@ -24,8 +23,12 @@ pageDict = {
 	"kakw-colors": "Цветы",
 	"vedi-documents": "Docs",
 
-
 }
+
+/**
+ * Ключ текущей просматриваемой страницы
+ */
+keyDay = "";
 
 /**
  * Функция разбирает  URL текущей страницы
@@ -33,6 +36,8 @@ pageDict = {
  * 
  * @returns строку с именем текущей страницы.
  */
+
+
 function namePage() {
 
 	stringTabTitle = 'Главная стр. | a374.ru';
@@ -43,11 +48,12 @@ function namePage() {
 			if (Object.hasOwnProperty.call(pageDict, key)) {
 				if (key === str) {
 
+					keyDay = key;
+
 					namePageTab = pageDict[key];
 
 					stringTabTitle = `${namePageTab} ••• ${document.location.hostname}`;
 				}
-
 
 			}
 
@@ -71,12 +77,13 @@ function toNavi() {
 	function getRandomIntInclusive(min, max) {
 		min = Math.ceil(min);
 		max = Math.floor(max);
-		return Math.floor(Math.random() * (max - min + 1)) + min; //Максимум и минимум включаются
+		return Math.floor(Math.random() * (max - min + 1)) + min;
+		//Максимум и минимум включаются
 	}
 
 	for (const key in pageDict) {
 
-		if (Object.hasOwnProperty.call(pageDict, key) && counter % getRandomIntInclusive(5, 1) && counter < 10 && key != 'dobro-day') {
+		if (Object.hasOwnProperty.call(pageDict, key) && key != keyDay && counter % getRandomIntInclusive(5, 1) && counter < 10 && key != 'dobro-day') {
 			const element = pageDict[key];
 			htmlString += `<div class="navi-item"><a href="${key}">${element}</a> </div>`;
 		}
@@ -86,7 +93,7 @@ function toNavi() {
 
 	cday = new Date().getDate();
 
-	htmlString += `<div class="navi-item" id="dobro-day" ><a href="dobro-day">День</a> </div><div class="navi-item" id="number-day"><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html">${cday}</a></div>`
+	htmlString += `<div class="navi-item" id="day"><span id="dobro-day"><a href="dobro-day">День</a> </span><span class="number-day" id="number-day"><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html">${cday}</a></span></span>`
 	return htmlString;
 
 }
@@ -96,6 +103,5 @@ function navi() {
 	document.title = namePage();
 	document.getElementById('navi').innerHTML = toNavi();
 }
-
 
 navi();
