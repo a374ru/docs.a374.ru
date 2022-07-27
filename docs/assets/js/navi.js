@@ -1,10 +1,13 @@
 
 /**
- *  словарь доступных страниц ссылок
+ *  Словарь доступных страниц ссылок.
+ * Добавили страницу – добавили строку в словарь.
+ * 
  */
 pageDict = {
 	"dobro-day": "Сий День",
 	"az": "Азъ",
+	"az-assets": "Вложения",
 	"az-peremennaya": "Переменная",
 	"az-object": "Объект",
 	"buki": "Соглашение",
@@ -12,6 +15,15 @@ pageDict = {
 	"buki-set": "Настройки",
 	"vedi-vim": "VIM",
 	"pokoy-proval": "Провал",
+	"buki-problems-ts": "Проблемы",
+	"billing": "Билинг",
+	"glagol-git": "GIT",
+	"slovo-shell": "Шелл",
+	"slovo-server": "Сервер",
+	"tako-type": "Задержка",
+	"kakw-colors": "Цветы",
+	"vedi-documents": "Docs",
+
 
 }
 
@@ -56,9 +68,15 @@ function toNavi() {
 	htmlString = "";
 	rnd = Math.floor(Math.random() * (5 - 2)) + 2;
 
+	function getRandomIntInclusive(min, max) {
+		min = Math.ceil(min);
+		max = Math.floor(max);
+		return Math.floor(Math.random() * (max - min + 1)) + min; //Максимум и минимум включаются
+	}
+
 	for (const key in pageDict) {
 
-		if (Object.hasOwnProperty.call(pageDict, key) && counter % rnd && counter < 18 && key != 'dobro-day') {
+		if (Object.hasOwnProperty.call(pageDict, key) && counter % getRandomIntInclusive(5, 1) && counter < 10 && key != 'dobro-day') {
 			const element = pageDict[key];
 			htmlString += `<div class="navi-item"><a href="${key}">${element}</a> </div>`;
 		}
