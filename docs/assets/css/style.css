@@ -22,6 +22,7 @@ h1 {
 	font-weight: normal;
 	font-style: normal;
 }
+
 @font-face {
 	font-family: "Ystm";
 	font-display: auto;
@@ -42,8 +43,8 @@ body {
 	margin: 3em;
 	padding-bottom: 133px;
 	background: rgb(255, 250, 245);
-	color: #4f2b00;
-	font-size: 19px;
+	/* color: #ff0000; */
+	font-size: 20px;
 }
 
 .markdown-body {
@@ -58,7 +59,7 @@ body {
 	position: -webkit-sticky;
 	position: sticky;
 	top: 0;
-	font-size: 1.4vw;
+	/* font-size: 1.4vw; */
 	background: linear-gradient(0deg, darkgoldenrod -10%, #fffaf5 12%);
 	border-radius: 0px 0px 10px 10px;
 	justify-content: space-around;
@@ -116,12 +117,13 @@ table {
 	font-size: 1.3em;
 	color: #008b8b;
 	padding: 3%;
-
 	transform: rotate(359deg);
 }
+
 thead {
 	color: #000090;
 }
+
 h1 {
 	font-size: var(--fontSize-H1);
 	text-transform: uppercase;
@@ -201,16 +203,22 @@ li {
 }
 
 #dobro-day {
+	block: inline;
 	background: #f8ffd9;
 	transform: rotate(0deg);
-	margin-left: 1em;
+	margin-right: -1.8em;
+	padding-right: 1.3em;
 }
 
 #number-day {
-	background: #ccbaac;
 	transform: rotate(0deg);
-	margin-left: 0em;
+	margin-left: 22px;
 	font-weight: bold;
+	background: #eee4f3;
+	border-radius: 0px 22px 22px 0px;
+	/* color:
+  red; */
+	/* box-shadow: none; */
 }
 
 /* 
@@ -282,7 +290,6 @@ li {
 	}
 
 	/* 	меняем местами .navi с <H1> */
-
 	H1:nth-child(odd) {
 		order: -1;
 	}

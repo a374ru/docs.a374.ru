@@ -86,7 +86,7 @@ function toNavi() {
 
 	cday = new Date().getDate();
 
-	htmlString += `<div class="navi-item" style="background: #F8FFD9;transform: rotate(0deg); margin-left:1em"><a href="dobro-day">День</a> </div><div class="navi-item" style="background: #CCBAAC;transform: rotate(0deg); margin-left:0em"><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html" style="color:#ffd" ><b>${cday}</b></a></div>`
+	htmlString += `<div class="navi-item" id="dobro-day" ><a href="dobro-day">День</a> </div><div class="navi-item" id="number-day"><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html">${cday}</a></div>`
 	return htmlString;
 
 }
