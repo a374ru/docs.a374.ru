@@ -46,6 +46,12 @@ body {
 	background: rgb(255, 250, 245);
 	/* color: #ff0000; */
 	font-size: 20px;
+
+	/* Created with https://www.css-gradient.com */
+	background: #fffaf5;
+	background: -webkit-linear-gradient(top, #fffaf5, #fff9ec);
+	background: -moz-linear-gradient(top, #fffaf5, #fff9ec);
+	background: linear-gradient(to bottom, #fffaf5, #fff9ec);
 }
 
 .markdown-body {
