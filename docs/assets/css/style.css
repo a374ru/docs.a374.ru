@@ -209,7 +209,7 @@ li {
 }
 
 #dobro-day {
-	block: absolute;
+	/* display: absolute; */
 	/* 	background: #f8ffd9; */
 	/* 	transform: rotate(10deg); */
 	/* 	margin-right: 1em; */
@@ -246,6 +246,17 @@ li {
 	transform: rotate(1deg);
 }
 
+#ya-site-results .b-bottom-wizard {
+	font-size: 11px;
+	overflow: auto;
+	width: 99%;
+}
+
+.b-body-items {
+		padding-left: 5vw;
+		display: inherit;
+	}
+
 /* end yandex search */
 
 /* ===============@media====================== */
@@ -265,6 +276,8 @@ li {
 		padding: 0.6em;
 		margin: 0.3em;
 	}
+
+	
 }
 
 @media (max-width: 767px) and (orientation: portrait) {
