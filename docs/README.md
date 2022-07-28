@@ -1,5 +1,14 @@
 <div class="navi"> <nav id="navi"> <!-- js --> </nav></div>
 
+<ul class="background">
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+</ul>
+
 #  Точка Входа
 
 После перерывов в работе всегда требуется восстановить былое…
@@ -27,11 +36,3 @@
 <br>
 
 <script src="assets/js/navi.js"></script>
-<ul class="background">
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-</ul>
