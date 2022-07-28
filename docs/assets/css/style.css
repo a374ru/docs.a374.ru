@@ -228,15 +228,22 @@ li {
 }
 
 /* ================= yandex search */
+.ya-site-form__search,
+#ya-site-form0 {
+	background-color: #ffecdd99 !important;
+	transform: rotate(1deg);
+}
+
 .b-serp-list {
 	font-size: 1.7em;
-	color:#2f4f4f;
+	color: #2f4f4f;
 }
 
 #ya-site-results {
 	color: #c60;
 	font-size: 0em;
 	background: #fffaf600 !important;
+	transform: rotate(0deg);
 }
 
 /* end yandex search */
