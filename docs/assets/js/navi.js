@@ -41,8 +41,8 @@ keyDay = "";
 
 function namePage() {
 
-	stringTabTitle = 'Главная стр. | a374.ru';
-	str = document.URL.split('/').pop();
+	stringTabTitle = 'a374.ru';
+	str = document.URL.split('/').pop().split('.')[0];
 	if (str != "") {
 
 		for (const key in pageDict) {
