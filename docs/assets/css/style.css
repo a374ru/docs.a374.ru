@@ -227,11 +227,21 @@ li {
 	/* 	box-shadow: none; */
 }
 
-/* 
+/* ================= yandex search */
+.b-serp-list {
+	font-size: 1.7em;
+	color:#2f4f4f;
+}
 
-=====================================
+#ya-site-results {
+	color: #c60;
+	background: #fffaf6;
+}
 
-*/
+/* end yandex search */
+
+/* ===============@media====================== */
+
 @media (max-width: 425px) and (orientation: portrait) {
 	.markdown-body {
 		width: 97%;
