@@ -22,7 +22,7 @@ pageDict = {
 	"tako-type": "Задержка",
 	"kakw-colors": "Цветы",
 	"vedi-documents": "Docs",
-	"search": "Поск",
+	"search": "Поск"
 
 }
 
