@@ -227,6 +227,15 @@ li {
 	/* 	box-shadow: none; */
 }
 
+/* sesarch GOOGLE */
+.gsc-control-cse {
+	background-color: #ffffff00;
+	border: 1px solid #fff;
+	transform: rotate(1deg);
+}
+
+/*  end serch GOOGLE */
+
 /* ================= yandex search */
 .ya-site-form__search,
 #ya-site-form0 {
@@ -253,9 +262,9 @@ li {
 }
 
 .b-body-items {
-		padding-left: 5vw !important;
-		display: inherit;
-	}
+	padding-left: 5vw !important;
+	display: inherit;
+}
 
 /* end yandex search */
 
@@ -276,8 +285,6 @@ li {
 		padding: 0.6em;
 		margin: 0.3em;
 	}
-
-	
 }
 
 @media (max-width: 767px) and (orientation: portrait) {
