@@ -22,6 +22,7 @@ pageDict = {
 	"tako-type": "Задержка",
 	"kakw-colors": "Цветы",
 	"vedi-documents": "Docs",
+	"search": "Поск",
 
 }
 
@@ -93,7 +94,7 @@ function toNavi() {
 
 	cday = new Date().getDate();
 
-	htmlString += `<div class="navi-item" id="day"><span id="dobro-day"><a href="dobro-day">День</a> </span><span class="number-day" id="number-day"><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html">${cday}</a></span></span>`
+	htmlString += `<div class="navi-item" id="day"><span id="dobro-day"><a href="dobro-day">День</a> </span><span class="number-day" id="number-day"><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html">${cday}</a></span></div><div class="navi-item" id="search"><a href="search">🔍</a></div>`
 	return htmlString;
 
 }
