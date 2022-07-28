@@ -243,7 +243,9 @@ li {
 table.gsc-search-box {
 	transform: rotate(0deg);
 }
-
+.gs-visibleUrl-breadcrumb{
+	font-size:13px;
+}
 .gsc-input {
 	font-size: 20px;
 	transform: rotate(0deg);
