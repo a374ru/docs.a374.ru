@@ -235,7 +235,8 @@ li {
 
 #ya-site-results {
 	color: #c60;
-	background: #fffaf6;
+	font-size: 0em;
+	background: #fffaf600 !important;
 }
 
 /* end yandex search */
