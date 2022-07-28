@@ -231,9 +231,19 @@ li {
 .gsc-control-cse {
 	background-color: #ffffff00;
 	border: 1px solid #fff;
-	transform: rotate(1deg);
+	transform: rotate(0deg);
 }
-
+.gsc-above-wrapper-area-container {
+	width: 90%;
+	transform: rotate(0deg);
+}
+table.gsc-search-box {
+	transform: rotate(0deg);
+}
+.gsc-input {
+	font-size: 20px;
+	transform: rotate(0deg);
+}
 /*  end serch GOOGLE */
 
 /* ================= yandex search */
