@@ -5,7 +5,6 @@
 <div class="gcse-search"></div>
 
 
-
 <br>
 
 […на главную](/)
