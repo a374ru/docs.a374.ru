@@ -27,3 +27,11 @@
 <br>
 
 <script src="assets/js/navi.js"></script>
+<ul class="background">
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+</ul>
