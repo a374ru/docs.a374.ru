@@ -19,7 +19,7 @@ pageDict = {
 	"glagol-git": "GIT",
 	// "slovo-shell": "Шелл",
 	"slovo-server": "Сервер",
-	"tako-type": "Задержка",
+	"tako-type": "Типы данных",
 	"kakw-colors": "Цветы",
 	"vedi-documents": "Docs",
 	"search": "Поиск на"
