@@ -15,8 +15,8 @@
 	/--assets
 		|__js
 		|__css
-	    |__svg
-		|__img	
+		|__svg
+		|__img
 		|	|__calendar
 		|	|__bgr
 		|__other
