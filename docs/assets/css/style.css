@@ -253,7 +253,7 @@ li {
 }
 
 .b-body-items {
-		padding-left: 5vw;
+		padding-left: 5vw !important;
 		display: inherit;
 	}
 
