@@ -231,24 +231,27 @@ li {
 .gsc-control-cse {
 	background-color: #ffffff00;
 	border: 1px solid #fff;
-	transform: rotate(0deg);
+	transform: rotate(0deg) !important;
 }
 .gsc-above-wrapper-area-container {
-	width: 90%;
-	transform: rotate(0deg);
+	width: 90% !important;
+	transform: rotate(0deg) !important;
 }
 .gs-snippet .gs-title {
-	font-size: 1.7em;
+	font-size: 1.7em !important;
 }
 table.gsc-search-box {
-	transform: rotate(0deg);
+	transform: rotate(0deg) !important;
 }
-.gs-visibleUrl-breadcrumb{
-	font-size:13px;
+.gs-visibleUrl-breadcrumb {
+	font-size: 13px !important;
 }
 .gsc-input {
-	font-size: 20px;
-	transform: rotate(0deg);
+	font-size: 20px !important;
+	transform: rotate(0deg) !important;
+}
+.gs-webResult {
+	font-size: 3em !important;
 }
 /*  end serch GOOGLE */
 
