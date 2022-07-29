@@ -7,7 +7,7 @@
 	--fontIrmUCS-var: Irmologion;
 	--font-var: Fontics;
 	--fontEvng-var: Evangeliecs;
-	--fontSize-H1: 2em;
+	--fontSize-H1: 1.7em;
 }
 
 @font-face {
@@ -333,7 +333,6 @@ table.gsc-search-box {
 
 	h1 {
 		font-size: 1.4em;
-		font-family: Chalkduster;
 	}
 
 	h2 {
@@ -534,6 +533,7 @@ h1 {
 	font-size: var(--fontSize-H1);
 	text-transform: uppercase;
 	overflow-wrap: break-word;
+	color: #AF97B3;
 }
 
 h1::first-letter {
