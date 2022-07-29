@@ -214,13 +214,13 @@ li {
 	background: #fff;
 }
 
-#dobro-day {
-	/* display: absolute; */
-	/* 	background: #f8ffd9; */
-	/* 	transform: rotate(10deg); */
-	/* 	margin-right: 1em; */
-	/* 	padding-right: 1em; */
-}
+/* #dobro-day {
+	display: absolute;
+		background: #f8ffd9;
+		transform: rotate(10deg);
+		margin-right: 1em;
+		padding-right: 1em;
+} */
 
 #number-day {
 	/* 	transform: rotate(0deg); */
@@ -256,7 +256,7 @@ table.gsc-search-box {
 	font-size: 20px !important;
 	transform: rotate(0deg) !important;
 }
-gsc-search-button-v2 {
+.gsc-search-button-v2 {
 	font-size: 13px;
 	padding: 6px 33px;
 	width: auto;
