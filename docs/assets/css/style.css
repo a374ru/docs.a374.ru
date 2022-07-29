@@ -10,10 +10,6 @@
 	--fontSize-H1: 2em;
 }
 
-h1 {
-	transform: rotateZ(357deg);
-}
-
 @font-face {
 	font-family: "Fontics";
 	font-display: auto;
@@ -41,11 +37,13 @@ blockquote {
 }
 
 body {
+
+	font-family: 'Fontics';
 	margin: 3em;
 	padding-bottom: 133px;
 	background: rgb(255, 250, 245);
 	/* color: #ff0000; */
-	font-size: 20px;
+	font-size: 27px;
 
 	/* Created with https://www.css-gradient.com */
 	background: #fffaf5;
@@ -135,6 +133,7 @@ h1 {
 	font-size: var(--fontSize-H1);
 	text-transform: uppercase;
 	overflow-wrap: break-word;
+	transform: rotate(357deg);
 }
 
 h1::first-letter {
@@ -414,10 +413,6 @@ table.gsc-search-box {
 	--fontSize-H1: 2em;
 }
 
-h1 {
-	transform: rotateZ(357deg);
-}
-
 @font-face {
 	font-family: "Fontics";
 	font-display: auto;
@@ -546,9 +541,6 @@ h1::first-letter {
 	font-size: 1.7em;
 }
 
-p {
-	font-size: 1.2em;
-}
 
 p::first-letter {
 	color: #f65920;
