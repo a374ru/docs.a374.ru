@@ -256,6 +256,14 @@ table.gsc-search-box {
 	font-size: 20px !important;
 	transform: rotate(0deg) !important;
 }
+gsc-search-button-v2 {
+	font-size: 13px;
+	padding: 6px 33px;
+	width: auto;
+	vertical-align: middle;
+	border-radius: 7px;
+	
+}
 .gs-webResult {
 	font-size: 3em !important;
 }
@@ -391,8 +399,6 @@ table.gsc-search-box {
 		width: 97%;
 	}
 }
-
-
 
 /* =-=-=-=-=-=-animation  */
 /*  Во имя Отца и Сына и Святаго Духа. Аминь. */
@@ -789,119 +795,111 @@ table.gsc-search-box {
 	}
 }
 
-
-
 /* =-=-=-=-=-=-animation  */
 
 @keyframes animate {
-    0%{
-        transform: translateY(0) rotate(0deg);
-        opacity: 1;
-        border-radius: 0;
-/* 		background-color: #ccc; */
-    }
-    100%{
-        transform: translateY(-1000px) rotate(720deg);
-        opacity: 0;
-        border-radius: 100%;
-
-		
-    }
+	0% {
+		transform: translateY(0) rotate(0deg);
+		opacity: 1;
+		border-radius: 0;
+		/* 		background-color: #ccc; */
+	}
+	100% {
+		transform: translateY(-1000px) rotate(720deg);
+		opacity: 0;
+		border-radius: 100%;
+	}
 }
 
 .background {
-    position: fixed;
-    width: 100vw;
-    height: 100vh;
-    top: 0;
-    left: 0;
-    margin: 0;
-    padding: 0;
-/*     background: #ccd; */
-    overflow: hidden;
-	z-index:-1;
+	position: fixed;
+	width: 100vw;
+	height: 100vh;
+	top: 0;
+	left: 0;
+	margin: 0;
+	padding: 0;
+	/*     background: #ccd; */
+	overflow: hidden;
+	z-index: -1;
 }
 .background li {
-    position: absolute;
-    display: block;
-    list-style: none;
-    width: 20px;
-    height: 20px;
-    background: #fff3e4c9;
-    animation: animate 19s linear infinite;
+	position: absolute;
+	display: block;
+	list-style: none;
+	width: 20px;
+	height: 20px;
+	background: #fff3e4c9;
+	animation: animate 19s linear infinite;
 }
-
-
-
 
 .background li:nth-child(0) {
-    left: 76%;
-    width: 125px;
-    height: 125px;
-    bottom: -125px;
-    animation-delay: 1s;
+	left: 76%;
+	width: 125px;
+	height: 125px;
+	bottom: -125px;
+	animation-delay: 1s;
 }
 .background li:nth-child(1) {
-    left: 59%;
-    width: 124px;
-    height: 124px;
-    bottom: -124px;
-    animation-delay: 3s;
+	left: 59%;
+	width: 124px;
+	height: 124px;
+	bottom: -124px;
+	animation-delay: 3s;
 }
 .background li:nth-child(2) {
-    left: 18%;
-    width: 105px;
-    height: 105px;
-    bottom: -105px;
-    animation-delay: 8s;
+	left: 18%;
+	width: 105px;
+	height: 105px;
+	bottom: -105px;
+	animation-delay: 8s;
 }
 .background li:nth-child(3) {
-    left: 46%;
-    width: 119px;
-    height: 119px;
-    bottom: -119px;
-    animation-delay: 4s;
+	left: 46%;
+	width: 119px;
+	height: 119px;
+	bottom: -119px;
+	animation-delay: 4s;
 }
 .background li:nth-child(4) {
-    left: 48%;
-    width: 101px;
-    height: 101px;
-    bottom: -101px;
-    animation-delay: 18s;
+	left: 48%;
+	width: 101px;
+	height: 101px;
+	bottom: -101px;
+	animation-delay: 18s;
 }
 .background li:nth-child(5) {
-    left: 36%;
-    width: 137px;
-    height: 137px;
-    bottom: -137px;
-    animation-delay: 20s;
+	left: 36%;
+	width: 137px;
+	height: 137px;
+	bottom: -137px;
+	animation-delay: 20s;
 }
 .background li:nth-child(6) {
-    left: 4%;
-    width: 100px;
-    height: 100px;
-    bottom: -100px;
-    animation-delay: 21s;
+	left: 4%;
+	width: 100px;
+	height: 100px;
+	bottom: -100px;
+	animation-delay: 21s;
 }
 .background li:nth-child(7) {
-    left: 16%;
-    width: 133px;
-    height: 133px;
-    bottom: -133px;
-    animation-delay: 13s;
+	left: 16%;
+	width: 133px;
+	height: 133px;
+	bottom: -133px;
+	animation-delay: 13s;
 }
 .background li:nth-child(8) {
-    left: 23%;
-    width: 107px;
-    height: 107px;
-    bottom: -107px;
-    animation-delay: 27s;
+	left: 23%;
+	width: 107px;
+	height: 107px;
+	bottom: -107px;
+	animation-delay: 27s;
 }
 .background li:nth-child(9) {
-    left: 42%;
-    width: 154px;
-    height: 154px;
-    bottom: -154px;
-    animation-delay: 34s;
+	left: 42%;
+	width: 154px;
+	height: 154px;
+	bottom: -154px;
+	animation-delay: 34s;
 }
-
