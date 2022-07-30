@@ -1,4 +1,5 @@
 /*  Во имя Отца и Сына и Святаго Духа. Аминь. */
+/* суббота, 30 июля 2022 г. 17:24:05 (MSK)  */
 :root {
 	--kino-var: #e34234;
 	--sizeDate-var: 1.1em;
@@ -133,7 +134,7 @@ h1 {
 	font-size: var(--fontSize-H1);
 	text-transform: uppercase;
 	overflow-wrap: break-word;
-	transform: rotate(357deg);
+	transform: rotate(358deg);
 	font-family: 'Fontics';
 }
 
