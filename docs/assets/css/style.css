@@ -14,7 +14,7 @@
 	font-family: "Fontics";
 	font-display: auto;
 	src: local("Fontics-Regular.otf"),
-		url("https://a374.ru/font/Fontics-Regular.otf");
+		url("https://a374.ru/assets/font/Fontics-Regular.otf");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,7 +23,7 @@
 	font-family: "Ystm";
 	font-display: auto;
 	src: local("Fontics-Regular.otf"),
-		url("https://a374.ru/font/Ystm-Regular.otf");
+		url("https://a374.ru/assets/font/Ystm-Regular.otf");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -134,6 +134,7 @@ h1 {
 	text-transform: uppercase;
 	overflow-wrap: break-word;
 	transform: rotate(357deg);
+	font-family: 'Fontics';
 }
 
 h1::first-letter {
@@ -534,6 +535,7 @@ h1 {
 	text-transform: uppercase;
 	overflow-wrap: break-word;
 	color: #AF97B3;
+	font-family: 'Ystm';
 }
 
 h1::first-letter {
