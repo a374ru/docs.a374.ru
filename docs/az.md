@@ -17,10 +17,5 @@
 
 <br>
 
-<<<<<<< HEAD
-
-<!-- ![img](https://1.bp.blogspot.com/-hOxN5KX2KfY/YPplNP_w6xI/AAAAAAAAGz0/nNxSLwD5lnQhvFnce_DzmIoSRWyY9A3QACLcBGAsYHQ/s694/theend-beats.png) -->
-=======
 <script src="assets/js/navi.js"></script>
 
->>>>>>> 1c775d88fbcf35ca16b21c958676f5d2c902b529

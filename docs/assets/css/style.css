@@ -122,10 +122,10 @@ strong{
 	color:#b8860b;
 }
 
-table {
+tbody {
 	overflow: auto;
 	font-size: 1.3em;
-	color: #008b8b;
+	color: #714575;
 	padding: 3%;
 	transform: rotate(359deg);
 }
@@ -439,7 +439,7 @@ table.gsc-search-box {
 	list-style: none;
 	width: 20px;
 	height: 20px;
-	background: #fff3e4c9;
+	background: #fff3e4;
 	animation: animate 19s linear infinite;
 }
 
