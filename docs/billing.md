@@ -1,15 +1,12 @@
-
- 
- <a id="aCard" style="cursor:pointer" onclick="imgAlert()">![Кого подключать](https://2.bp.blogspot.com/-IjXLST2MW2c/Yef7PMLUbGI/AAAAAAAAHCc/nLGn_t_QT5Y1RvkrYpB0Mwd3Z21QDtCHQCK4BGAYYCw/s400/IMG_0629-784112.PNG)</a>
+<div class="navi"><nav id="navi"><!-- js --></nav></div>
 
 # Оплата ресурсов проектА
-
-
+ 
+ <a id="aCard" style="cursor:pointer" onclick="imgAlert()">![Кого подключать](assets/img/card.png)</a>
 
 >Разграничение ответственности.
 
-
-	Требуется установить отношения по оплате технической части проекта.
+Требуется установить отношения по оплате технической части проекта.
 
 1. Хостинг
 2. База данных и тд..
@@ -38,12 +35,10 @@ Eсли заказчик предполагает сам управлять ка
 
   Платить, естественно, должен заказчик, но как… как точнее организовать такие транзакции разработчику?
 
+<br>
 
-<br><br>
-<!-- ![img](https://1.bp.blogspot.com/-wFaMiAHx-Y8/YG3EaVrCDFI/AAAAAAAAGZY/IYjO6zFHW5wjj4I_HrssCIShQpMxWMHlgCLcBGAsYHQ/s800/IMG_2094.PNG) -->
+[…на главную](/)
 
- <!-- <script>
-function imgAlert(){
-  alert("ЭТО ПЛАТЕЖНАЯ КАРТА")
-}
- </script> --
+<br>
+
+<script src="assets/js/navi.js"></script>

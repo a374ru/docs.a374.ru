@@ -1,3 +1,5 @@
+<div class="navi"><nav id="navi"><!-- js --></nav></div>
+
 # Развертывание Typescript
 
 >Развертывание проекта на TS (mac os)
@@ -37,4 +39,4 @@
 
 <br>
 
-<!-- ![img](https://1.bp.blogspot.com/-hOxN5KX2KfY/YPplNP_w6xI/AAAAAAAAGz0/nNxSLwD5lnQhvFnce_DzmIoSRWyY9A3QACLcBGAsYHQ/s694/theend-beats.png) -->
+<script src="assets/js/navi.js"></script>

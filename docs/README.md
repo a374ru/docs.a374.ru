@@ -1,11 +1,38 @@
-<script>
-	let domain = document.location.hostname
-	if(domain === "a374.ru"){
-	window.location.href='point_of_entry'
-	} else {
-	window.location.href='https://a374ru.readthedocs.io/ru/latest/_README/'
-	}
-</script>
+<div class="navi"> <nav id="navi"> <!-- js --> </nav></div>
+
+<ul class="background">
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+</ul>
+
+#  Точка Входа
+
+После перерывов в работе всегда требуется восстановить былое…
+
+<a href="navi">
+<img src='assets/svg/comp-start.svg'>
+</a>
 
 
-<!-- Смотри страницу point_of_entry.md -->
+### [Текущая разработка здесь…](https://github.com/a374ru/aprakos.online)
+
+### Приостановленный проект [здесь…](https://a374ru.github.io/aprakos.ru/aa/)
+
+<br>
+
+## Документация
+
+<!-- [Aprakos.online](https://aprakosonline.readthedocs.io) -->
+
+<!-- [Памятник разработки](https://a374ru.readthedocs.io) -->
+<br>
+
+![img](assets/img/contacts-ystm.png)
+
+<br>
+
+<script src="assets/js/navi.js"></script>

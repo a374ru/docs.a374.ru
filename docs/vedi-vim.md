@@ -1,9 +1,13 @@
+<div class="navi"><nav id="navi"><!-- js --></nav></div>
+
 # Настройки редактора `VIM` (MacOS) с русским хелпом.
 
-<!-- ![картинка vim ](https://1.bp.blogspot.com/-nwxAcbTfezM/XfuG_btqgxI/AAAAAAAAEts/6Ct0ZJSndQMKXt1yn_HBT_edkGPPXUthQCK4BGAYYCw/s640/FullSizeRender-781384.jpg) -->
+![comp and vim ](assets/svg/comp-vim.svg)
 
 
-Друг мой, клонируй пакет настроек-файлов `.vim` в домашнюю директорию своего мак. Обрати внимание на название директории, которая должна начинаться с точки. 
+Друг мой, надо немного, но уметь пользоваться универсальным редактором.
+
+Поэтому, склонируй пакет настроек-файлов `.vim` в домашнюю директорию своего мак. Обрати внимание на название директории, которая должна начинаться с точки. 
 Если клонируемый пакет не начинается с точки, то её нужно будет добавить после клонирования.
 Можно также склонировать пакет в отдельную директорию и после перетащить содержимое в папку `~/.vim` .
 
@@ -73,4 +77,4 @@ PlugInstall
 
 <br>
 
-<!-- ![img](https://1.bp.blogspot.com/-hOxN5KX2KfY/YPplNP_w6xI/AAAAAAAAGz0/nNxSLwD5lnQhvFnce_DzmIoSRWyY9A3QACLcBGAsYHQ/s694/theend-beats.png) -->
+<script src="assets/js/navi.js"></script>

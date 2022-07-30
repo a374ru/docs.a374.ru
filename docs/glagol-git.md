@@ -1,6 +1,8 @@
+<div class="navi"><nav id="navi"><!-- js --></nav></div>
+
 # GIT управление снаружи и внутри
 
-<!-- ![image](https://2.bp.blogspot.com/-0IVjlIw5BlQ/YHb2qobTLpI/AAAAAAAAGew/ITPUNXanRho4j1gvNt1ZypKJCm4V1uqwQCK4BGAYYCw/s800/listia-730502.png) -->
+![image](assets/img/key-hub.png)
 
 ### ЛОКАЛЬНАЯ СИНХРОНИЗАЦИЯ
 
@@ -12,8 +14,6 @@
 Просто вытаскиваем проект на рабочий стол и синхроно продуктивим с разных точек.
 
 Такой способ работы востребован в здании с несколькими этажами, между которыми затруднительно перемещение рабочей машины (компьютера).
-
-<br>
 
 ### <span style="color:#e34234">ПРОБЛЕМЫ ОТПРАВКИ</span> (push problem) в **VSCode**
 
@@ -31,4 +31,5 @@ ssh-add -K ~/.ssh/id_rsa   # где `id_rsa` замените на имя фай
 
 <br>
 
-![img](https://1.bp.blogspot.com/-hOxN5KX2KfY/YPplNP_w6xI/AAAAAAAAGz0/nNxSLwD5lnQhvFnce_DzmIoSRWyY9A3QACLcBGAsYHQ/s694/theend-beats.png)
+<script src="assets/js/navi.js"></script>
+

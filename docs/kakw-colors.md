@@ -1,6 +1,8 @@
+<div class="navi"><nav id="navi"><!-- js --></nav></div>
+
 # Цвéточная схема для web a374
 
-![](https://1.bp.blogspot.com/-Ve9Qgi6hUcs/YH0B9T1ktkI/AAAAAAAAGgI/TgAU1sO93voDcIrolUnpQkEKL2Hl7yUqACK4BGAYYCw/s1600/az-colors-736417.jpg)
+![colors map](assets/img/colors-a374ru.jpeg)
 Основные цвета используемые в проекте и палитре
 ---
 
@@ -21,6 +23,5 @@
 […на главную](/)
 
 <br>
-<!-- 
-![img](https://1.bp.blogspot.com/-hOxN5KX2KfY/YPplNP_w6xI/AAAAAAAAGz0/nNxSLwD5lnQhvFnce_DzmIoSRWyY9A3QACLcBGAsYHQ/s694/theend-beats.png) -->
 
+<script src="assets/js/navi.js"></script>

@@ -1,8 +1,5 @@
----
-published: false
-title: Ошибки и трудности
 
----
+<div class="navi"><nav id="navi"><!-- js --></nav></div>
 
 # ПРОБЛЕМЫ И ОШИБКИ `TS`
 
@@ -25,8 +22,6 @@ title: Ошибки и трудности
 Решение 002:
 > content
 
-<br>
-<br>
 
 
     003 проблема…
@@ -40,4 +35,4 @@ title: Ошибки и трудности
 
 <br>
 
-<!-- ![img](https://1.bp.blogspot.com/-hOxN5KX2KfY/YPplNP_w6xI/AAAAAAAAGz0/nNxSLwD5lnQhvFnce_DzmIoSRWyY9A3QACLcBGAsYHQ/s694/theend-beats.png) -->
+<script src="assets/js/navi.js"></script>
