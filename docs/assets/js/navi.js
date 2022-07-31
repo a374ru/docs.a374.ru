@@ -107,8 +107,23 @@ function navi() {
 }
 
 navi();
+count = 1;
+function imgResize() {
 
-function imgAlert() {
+	if (count % 2) {
 
+		document.querySelector('img').style = 'transform: rotate(5deg); width: 100%; transition: .2s';
+
+	} else {
+
+		document.querySelector('img').style = 'transform: rotate(-5deg)';
+
+	}
+
+	count = count + 1;
+
+
+	console.log(count);
 
 }
+
