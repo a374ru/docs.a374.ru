@@ -30,7 +30,7 @@
 
 <!-- [Памятник разработки](https://a374ru.readthedocs.io) -->
 <br>
-
+🔔 8(925) 004-11-27
 ![img](assets/img/contacts-ystm.png)
 
 <br>
