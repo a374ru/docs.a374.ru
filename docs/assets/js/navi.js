@@ -112,11 +112,11 @@ function imgResize() {
 
 	if (count % 2) {
 
-		document.querySelector('img').style = 'transform: rotate(5deg); width: 100%; transition: .2s';
+		document.querySelector('img').style = 'transform: rotate(2deg); width: 100%; transition: .3s';
 
 	} else {
 
-		document.querySelector('img').style = 'transform: rotate(-5deg)';
+		document.querySelector('img').style = 'transform: rotate(0deg)';
 
 	}
 

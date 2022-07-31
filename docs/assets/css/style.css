@@ -38,8 +38,7 @@ blockquote {
 }
 
 body {
-
-	font-family: 'Fontics';
+	font-family: "Fontics";
 	margin: 3em;
 	padding-bottom: 133px;
 	background: rgb(255, 250, 245);
@@ -118,8 +117,8 @@ code {
 	overflow-wrap: break-word;
 }
 
-strong{
-	color:#b8860b;
+strong {
+	color: #b8860b;
 }
 
 table {
@@ -139,7 +138,7 @@ h1 {
 	text-transform: uppercase;
 	overflow-wrap: break-word;
 	transform: rotate(358deg);
-	font-family: 'Fontics';
+	font-family: "Fontics";
 }
 
 h1::first-letter {
@@ -201,6 +200,7 @@ img {
 	display: block;
 	/* margin-left: auto;
   margin-right: auto; */
+	transform: rotate(-2deg);
 }
 
 ul {
@@ -267,7 +267,6 @@ table.gsc-search-box {
 	width: auto;
 	vertical-align: middle;
 	border-radius: 7px;
-	
 }
 .gs-webResult {
 	font-size: 3em !important;
@@ -326,7 +325,7 @@ table.gsc-search-box {
 }
 
 @media (max-width: 767px) and (orientation: portrait) {
-	img{
+	img {
 		width: 99%;
 	}
 	.navi {
