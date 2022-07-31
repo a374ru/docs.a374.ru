@@ -107,3 +107,8 @@ function navi() {
 }
 
 navi();
+
+function imgAlert() {
+
+
+}

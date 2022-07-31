@@ -2,7 +2,7 @@
 
 # Оплата ресурсов проектА
  
- <a id="aCard" style="cursor:pointer" onclick="imgAlert()">![Кого подключать](assets/svg/card.svg)</a>
+ <a id="aCard" style="cursor:pointer" onclick="imgAlert()">![Кого подключать](assets/svg/bank-dev.svg)</a>
 
 >Разграничение ответственности.
 
