@@ -1,0 +1,22 @@
+<svg viewBox="-77 0 700 222" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="17.056" height="17.571"></bx:grid>
+    <pattern x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse" viewBox="0 0 100 100" id="pattern-0">
+      <rect x="0" y="0" width="50" height="100" style="fill: black;"></rect>
+    </pattern>
+    <pattern id="pattern-0-0" patternTransform="matrix(1, 0, 0, 1, 141.945999, 81.550941)" xlink:href="#pattern-0"></pattern>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="154.446" y1="11.93" x2="154.446" y2="176.172" id="gradient-1" gradientTransform="matrix(-0.680474, -0.732774, -0.000936, 0.01338, 253.550964, 215.646835)">
+      <stop offset="0" style="stop-color: rgb(49, 61, 156);"></stop>
+      <stop offset="1" style="stop-color: rgb(235, 172, 24);"></stop>
+    </linearGradient>
+  </defs>
+  <rect y="11.93" width="277.284" height="164.242" style="stroke-width: 0px; stroke-miterlimit: 5; stroke-linejoin: round; paint-order: stroke; stroke: url(#pattern-0-0); fill: url(#gradient-1);" x="15.804" transform="matrix(0.996195, -0.087155, 0.087155, 0.996195, -3.161815, 25.749586)" rx="9.922" ry="9.922"></rect>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 15.8px; font-weight: 700; white-space: pre;" transform="matrix(1.851347, -0.161972, 0.107487, 1.228588, -277.902466, -134.866257)" x="162.217" y="190.09">CARD</text>
+  <text style="fill: rgb(90, 86, 204); font-family: Arial, sans-serif; font-size: 14.5952px; font-weight: 700; white-space: pre; mix-blend-mode: color-dodge;" transform="matrix(1.776726, -0.155444, 0.107487, 1.228588, -256.072449, -42.280788)" x="162.217" y="190.09">0000 000 000 0000</text>
+  <path style="fill: none; isolation: isolate; stroke-dashoffset: 2px; stroke-width: 2px; paint-order: fill; stroke-opacity: 0.69; stroke: rgb(0, 0, 0);" d="M 294.588 74.368 C 297.219 74.376 307.343 75.382 309.011 73.113 C 310.511 71.071 310.726 64.377 306.806 66.496 C 299.749 70.309 301.57 88.585 304.101 93.978 C 305.586 97.142 308.84 100.624 312.303 101.484 C 316.633 102.559 319.701 101.064 317.026 96.645 C 313.808 91.329 307.192 96.734 306.063 100.417 C 303.618 108.395 306.777 118.086 310.213 125.237 C 313.946 133.01 320.797 136.845 328.891 138.507 C 330.567 138.851 336.705 139.761 337.313 137.201 C 339.58 127.662 328.092 127.762 323.805 133.98 C 321.231 137.713 321.596 143.253 322.181 147.473 C 323.666 158.196 327.854 171.49 336.341 178.959 C 342.149 184.07 350.794 183.808 352.017 175.415 C 354.065 161.359 335.775 160.546 325.941 160.303 C 301.037 159.688 273.536 155.194 249.085 161.07 C 244.84 162.09 240.605 161.284 236.257 162.671 C 227.265 165.54 221.118 172.917 215.243 179.779 C 213.45 181.873 211.661 183.932 209.912 186.113 C 208.881 187.398 207.136 191.805 207.072 190.159 C 207.03 189.062 196.654 190.658 195.745 191.725 C 194.673 192.983 192.047 200.976 193.67 202.598 C 194.853 203.78 198.996 204.149 200.701 204.741 C 202.998 205.539 205.227 206.506 207.492 207.346 C 208.649 207.775 211.027 209.675 211.027 208.442 C 211.027 203.818 216.211 200.176 213.736 194.611 C 213.049 193.066 208.255 191.701 208.255 190.952"></path>
+  <text style="fill: rgb(51, 51, 51); font-family: Chalkboard; font-size: 15.8px; white-space: pre;" x="221.728" y="208.552">BANK</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Chalkboard; font-size: 15.8px; white-space: pre;" x="156.504" y="208.552">DEV</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 15.8px;" x="194.28" y="254.934"> </text>
+  <path style="fill: rgb(216, 216, 216); stroke-width: 4px; stroke: rgb(202, 190, 21);" d="M 193.141 213.284 C 193.666 210.816 195.202 207.118 196.758 205.533"></path>
+  <path style="fill: rgb(216, 216, 216); stroke-width: 4px; stroke: rgb(202, 190, 21);" d="M 201.756 216.242 C 202.589 213.695 205.176 210.44 205.176 208.213"></path>
+</svg>
