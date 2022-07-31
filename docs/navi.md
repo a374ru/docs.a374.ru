@@ -1,4 +1,4 @@
-![img](./assets/svg/comp-2.svg)
+<span id='navi-img' class="img" onclick="imgResize()">![img](./assets/svg/comp-2.svg)</span>
 
 # Памятник проектов и настроек <span id="n1"></span>
 
@@ -52,14 +52,12 @@
 
 1. [ТИП](tako-type.md)
 
-<br>
+<!-- <br>
 
-Почитать *полностью* c полной навигацией лучше [здесь …](https://a374ru.readthedocs.io)
+Почитать *полностью* c полной навигацией лучше [здесь …](https://a374ru.readthedocs.io) -->
 
 <br>
 
 […на главную](/)
 
 <br>
-
-<!-- ![img](https://1.bp.blogspot.com/-hOxN5KX2KfY/YPplNP_w6xI/AAAAAAAAGz0/nNxSLwD5lnQhvFnce_DzmIoSRWyY9A3QACLcBGAsYHQ/s694/theend-beats.png) -->

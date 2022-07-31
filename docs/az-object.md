@@ -2,7 +2,7 @@
 
 # Азъ объектъ
 
-<a id="a-card" style="cursor:pointer" onclick="imgResize()">![Кого подключать](assets/svg/objects.svg)</a>
+<span id="az-object-img" class="img" onclick="imgResize()">![Кого подключать](assets/svg/objects.svg)</span>
 
 ### Первый объект
 

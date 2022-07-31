@@ -1,122 +1,219 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"
-[
-<!ATTLIST g
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:layerName CDATA #IMPLIED >
-<!ATTLIST g
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:mask CDATA #IMPLIED >
-<!ATTLIST text
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:width CDATA #IMPLIED >
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with EazyDraw for Mac ( https://www.eazydraw.com/ ) -->
 
-<!ATTLIST path
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:blendMode CDATA #IMPLIED >
-<!ATTLIST path
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:shadowColor CDATA #IMPLIED >
-<!ATTLIST path
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:shadowOpacity CDATA #IMPLIED >
-<!ATTLIST path
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:shadowRadius CDATA #IMPLIED >
-<!ATTLIST path
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:shadowOffset CDATA #IMPLIED >
-<!ATTLIST path
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:shadowAngle CDATA #IMPLIED >
-
-<!ATTLIST image
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:blendMode CDATA #IMPLIED >
-<!ATTLIST image
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:shadowColor CDATA #IMPLIED >
-<!ATTLIST image
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:shadowOpacity CDATA #IMPLIED >
-<!ATTLIST image
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:shadowRadius CDATA #IMPLIED >
-<!ATTLIST image
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:shadowOffset CDATA #IMPLIED >
-<!ATTLIST image
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:shadowAngle CDATA #IMPLIED >
-
-<!ATTLIST g
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:blendMode CDATA #IMPLIED >
-<!ATTLIST g
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:shadowColor CDATA #IMPLIED >
-<!ATTLIST g
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:shadowOpacity CDATA #IMPLIED >
-<!ATTLIST g
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:shadowRadius CDATA #IMPLIED >
-<!ATTLIST g
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:shadowOffset CDATA #IMPLIED >
-<!ATTLIST g
-  xmlns:vectornator CDATA #FIXED "http://vectornator.io"
-  vectornator:shadowAngle CDATA #IMPLIED >
-
-<!ENTITY % SVG.filter.extra.content  "| feDropShadow" >
-<!ELEMENT feDropShadow EMPTY>
-<!ATTLIST feDropShadow
-  xmlns:svg CDATA #FIXED "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"
-  dx CDATA #IMPLIED>
-<!ATTLIST feDropShadow
-  xmlns:svg CDATA #FIXED "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"
-  dy CDATA #IMPLIED>
-<!ATTLIST feDropShadow
-  xmlns:svg CDATA #FIXED "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"
-  stdDeviation CDATA #IMPLIED>
-<!ATTLIST feDropShadow
-  xmlns:svg CDATA #FIXED "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"
-  flood-opacity CDATA #IMPLIED>
-<!ATTLIST feDropShadow
-  xmlns:svg CDATA #FIXED "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"
-  in CDATA #IMPLIED>
-<!ATTLIST feDropShadow
-  xmlns:svg CDATA #FIXED "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"
-  result CDATA #IMPLIED>
-<!ATTLIST feDropShadow
-  xmlns:svg CDATA #FIXED "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"
-  flood-color CDATA #IMPLIED>
-]
->
-<!-- Created with Vectornator (http://vectornator.io/) -->
-<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 820 33" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="7.38061" id="Filter" width="7.38061" x="614.139" y="23.962">
-<feDropShadow dx="-3.61999e-06" dy="1" flood-color="#000000" flood-opacity="0.630858" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
-</filter>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="7.38061" id="Filter_2" width="7.38061" x="12.1398" y="12.2509">
-<feDropShadow dx="-3.61999e-06" dy="1" flood-color="#000000" flood-opacity="0.630858" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
-</filter>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="13.7037" id="Filter_3" width="775.802" x="40.7489" y="9.91153">
-<feDropShadow dx="-3.61999e-06" dy="1" flood-color="#000000" flood-opacity="0.630858" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
-</filter>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="7.38061" id="Filter_4" width="7.38061" x="-106.709" y="-248.929">
-<feDropShadow dx="-3.61999e-06" dy="1" flood-color="#000000" flood-opacity="0.630858" in="SourceGraphic" result="Shadow" stdDeviation="1.5"/>
-</filter>
-</defs>
-<clipPath id="ArtboardFrame">
-<rect height="33" width="820" x="0" y="0"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Слой-1" vectornator:layerName="Слой 1">
-<path d="M617.829 26.6523" fill="#884a78" fill-rule="evenodd" filter="url(#Filter)" stroke="#a57e74" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.38061" vectornator:blendMode="multiply" vectornator:shadowAngle="1.5708" vectornator:shadowColor="#000000" vectornator:shadowOffset="1" vectornator:shadowOpacity="0.630858" vectornator:shadowRadius="3"/>
-<path d="M15.8301 14.9412" fill="#884a78" fill-rule="evenodd" filter="url(#Filter_2)" stroke="#a57e74" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.38061" vectornator:blendMode="multiply" vectornator:shadowAngle="1.5708" vectornator:shadowColor="#000000" vectornator:shadowOffset="1" vectornator:shadowOpacity="0.630858" vectornator:shadowRadius="3"/>
-<path d="M44.4392 12.6018C807.379 20.5907 797.832 5.48338 812.861 18.925" fill="#884a78" fill-rule="evenodd" filter="url(#Filter_3)" stroke="#a57e74" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.38061" vectornator:blendMode="multiply" vectornator:shadowAngle="1.5708" vectornator:shadowColor="#000000" vectornator:shadowOffset="1" vectornator:shadowOpacity="0.630858" vectornator:shadowRadius="3"/>
-<path d="M814.715 27.1497C3.42904 25.8905 49.5511-15.1155 1.77391 27.1624" fill="#67445e" fill-rule="evenodd" opacity="1" stroke="#cb6046" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.38061" vectornator:blendMode="multiply"/>
-<path d="M-103.019-246.238" fill="#884a78" fill-rule="evenodd" filter="url(#Filter_4)" stroke="#a57e74" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.38061" vectornator:blendMode="multiply" vectornator:shadowAngle="1.5708" vectornator:shadowColor="#000000" vectornator:shadowOffset="1" vectornator:shadowOpacity="0.630858" vectornator:shadowRadius="3"/>
-</g>
+<svg
+    version="1.1"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    width="450.59375"
+    height="199.7890625"
+    viewBox="0, 0, 450.59375, 199.7890625"
+    preserveAspectRatio="none"
+    id="svg2">
+   <defs
+       id="defs_BFD125E1">
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="140AA6C1_start_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="140AA6C1_start_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:bevel;stroke-width:0.125"
+             d="M0,0 L7.517540966287,-2.736161146605 L7.517540966287,2.736161146605 z"/>
+      </marker>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="140AA6C1_end_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="140AA6C1_end_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:bevel;stroke-width:0.125"
+             d="M0,0 L-7.517540966287,2.736161146605 L-7.517540966287,-2.736161146605 z"/>
+      </marker>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="099AE6C1_start_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="099AE6C1_start_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:bevel;stroke-width:0.25"
+             d="M0,0 L7.517540966287,-2.736161146605 L7.517540966287,2.736161146605 z"/>
+      </marker>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="099AE6C1_end_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="099AE6C1_end_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:bevel;stroke-width:0.25"
+             d="M0,0 L-7.517540966287,2.736161146605 L-7.517540966287,-2.736161146605 z"/>
+      </marker>
+      <filter
+          id="filter_D7997FD1"
+          width="1.114044771033"
+          height="1.237420773509"
+          x="-0.1"
+          y="-0.1">
+         <feGaussianBlur
+             id="filter_D7997FD1_blur"
+             in="SourceAlpha"
+             stdDeviation="1.1"
+             result="blur"/>
+         <feColorMatrix
+             id="filter_D7997FD1_ColorMatrix"
+             result="bluralpha"
+             type="matrix"
+             values="0 0 0 0 0      0 0 0 0 0      0 0 0 0 0      0 0 0 0.25 0"/>
+         <feOffset
+             id="filter_D7997FD1_Offset"
+             in="bluralpha"
+             dx="0"
+             dy="10"
+             result="offsetBlur"/>
+         <feMerge
+             id="filter_D7997FD1_Merge">
+            <feMergeNode id="filter_D7997FD1_MergeNode_a" in="offsetBlur"/>
+            <feMergeNode id="filter_D7997FD1_MergeNode_b" in="SourceGraphic"/>
+         </feMerge>
+      </filter>
+   </defs>
+   <metadata
+       id="metadata7">
+      <rdf:RDF>
+         <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <g
+       id="layer_Paper"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1;stroke-miterlimit:10">
+      <rect
+          style="fill:#FFFB00;fill-opacity:0.12123;stroke:none"
+          id="7BD741D1"
+          x="0"
+          y="0"
+          width="450.59375"
+          height="199.7890625"/>
+      <text
+          id="923576D1"
+          style="stroke:none"
+          font-family=".AppleSystemUIFont"
+          font-size="36"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="139.823242188" y="113.39453125">this photo?</tspan>
+      </text>
+      <g
+          id="140AA6C1_dimension">
+         <path
+             id="140AA6C1_path"
+             d="M29.6328125,23.7421875 L30.2805446844,84.318359375 M30.6013303156,114.318359375 L31.2490625,174.89453125"
+             style="fill:none;stroke-linecap:butt;stroke-linejoin:bevel;stroke-width:0.5;marker-start:url(#140AA6C1_start_arrow);marker-end:url(#140AA6C1_end_arrow)"/>
+         <rect
+             id="140AA6C1_dimension_box"
+             style="fill:none;stroke-linejoin:bevel"
+             x="11.4262890625"
+             y="88.318359375"
+             width="38.029296875"
+             height="22"/>
+         <text
+             id="140AA6C1_dimension_text"
+             style="stroke:none"
+             font-family="Helvetica"
+             font-size="12"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="15.4262890625" y="103.318359375">5,333</tspan>
+         </text>
+      </g>
+      <g
+          id="099AE6C1_dimension">
+         <path
+             id="099AE6C1_path"
+             d="M31.2490625,174.89453125 L239.860859375,228.109933041 M292.563984375,241.554129459 L501.17578125,294.76953125"
+             style="fill:none;stroke-linecap:butt;stroke-linejoin:bevel;marker-start:url(#099AE6C1_start_arrow);marker-end:url(#099AE6C1_end_arrow)"/>
+         <rect
+             id="099AE6C1_dimension_box"
+             style="fill:none;stroke-linejoin:bevel"
+             x="243.860859375"
+             y="223.83203125"
+             width="44.703125"
+             height="22"/>
+         <text
+             id="099AE6C1_dimension_text"
+             style="stroke:none"
+             font-family="Helvetica"
+             font-size="12"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="247.860859375" y="238.83203125">17,109</tspan>
+         </text>
+      </g>
+      <g
+          id="08EEB8C1_dimension">
+         <path
+             id="08EEB8C1_path"
+             d="M501.17578125,294.76953125 L500.528658157,234.654296875 M500.205716843,204.654296875 L499.55859375,144.5390625"
+             style="fill:none;stroke-linecap:butt;stroke-linejoin:bevel;stroke-width:0.5;marker-start:url(#140AA6C1_start_arrow);marker-end:url(#140AA6C1_end_arrow)"/>
+         <rect
+             id="08EEB8C1_dimension_box"
+             style="fill:none;stroke-linejoin:bevel"
+             x="481.352539062"
+             y="208.654296875"
+             width="38.029296875"
+             height="22"/>
+         <text
+             id="08EEB8C1_dimension_text"
+             style="stroke:none"
+             font-family="Helvetica"
+             font-size="12"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="485.352539062" y="223.654296875">5,300</tspan>
+         </text>
+      </g>
+      <g
+          id="D7997FD1_dimension">
+         <path
+             id="D7997FD1_path"
+             d="M29.6328125,23.7421875 L238.686523438,77.48053512 M290.504882813,90.80071488 L499.55859375,144.5390625"
+             style="fill:none;stroke-linecap:butt;stroke-linejoin:bevel;stroke-width:0.5;filter:url(#filter_D7997FD1);marker-start:url(#140AA6C1_start_arrow);marker-end:url(#140AA6C1_end_arrow)"/>
+         <rect
+             id="D7997FD1_dimension_box"
+             style="fill:none;stroke-linejoin:bevel"
+             x="242.686523438"
+             y="73.140625"
+             width="43.818359375"
+             height="22"/>
+         <text
+             id="D7997FD1_dimension_text"
+             style="stroke:none"
+             font-family="Helvetica"
+             font-size="12"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="246.686523438" y="88.140625">17,117</tspan>
+         </text>
+      </g>
+   </g>
 </svg>

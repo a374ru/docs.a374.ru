@@ -16,7 +16,7 @@
 Также требуется зарисовка провала-проблемы.
 Требуется понять как мы в данный момент осознаем наш провал: – широко или глубоко? Это есть парадигма мышления (совокупность понятий) или **способ обработки провалов**. 
 
-<span id='pokoy-proval-img' class="img"  style="cursor:pointer" onclick="imgResize()">![Провал](assets/img/proval.png)</span>
+<span id='pokoy-proval-img' class="img" onclick="imgResize(360)">![Провал](assets/img/proval.png)</span>
 
 <br>
 

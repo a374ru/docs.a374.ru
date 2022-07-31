@@ -2,7 +2,7 @@
 
 # Оплата ресурсов проектА
  
- <span id='billing-img' class="img" style="cursor:pointer" onclick="imgResize()">![Как подключать](assets/svg/billing.svg)</span>
+ <span id='billing-img' class="img" onclick="imgResize()">![Как подключать](assets/svg/billing.svg)</span>
 
 >Разграничение ответственности.
 
