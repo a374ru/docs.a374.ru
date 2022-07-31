@@ -196,7 +196,7 @@ a:hover {
 }
 
 img {
-	width: 97%;
+	width: 55%;
 	height: auto;
 	display: block;
 	/* margin-left: auto;
@@ -326,6 +326,9 @@ table.gsc-search-box {
 }
 
 @media (max-width: 767px) and (orientation: portrait) {
+	img{
+		width: 99%;
+	}
 	.navi {
 		position: sticky;
 		background: linear-gradient(180deg, #8563 1%, #fffaf5 3%);
