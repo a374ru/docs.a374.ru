@@ -112,7 +112,7 @@ pre {
 }
 
 code {
-		font-size: .9em;
+	font-size: 0.9em;
 	color: #96719c;
 	overflow-wrap: break-word;
 }
@@ -168,8 +168,9 @@ h2::first-letter {
 }
 
 h3 {
-	font-size: 1.3em;
+	font-size: 1.4em;
 	transform: rotate(359deg);
+	color: #696969;
 }
 
 a:link {
