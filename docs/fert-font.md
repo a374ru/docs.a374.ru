@@ -3,7 +3,7 @@
 
 # О шрифте
 
-<span id="fert-font-img" class="img" onclick="imgResize(75)">![img](assets/svg/fert-font.png)</span>
+<span id="fert-font-img" class="img" onclick="imgResize()">![img](assets/svg/fert-font.svg)</span>
 
 Шрифт является графическим отображением звуков исходящих из внутреннего человека.
 
