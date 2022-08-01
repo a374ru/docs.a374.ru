@@ -24,14 +24,18 @@
 
 <br>
 
-## Документация
+<!-- ## Документация -->
 
 <!-- [Aprakos.online](https://aprakosonline.readthedocs.io) -->
 
 <!-- [Памятник разработки](https://a374ru.readthedocs.io) -->
 <br>
-🔔 8(925) 004-11-27
-![img](assets/img/contacts-ystm.png)
+
+# 🔔 8(925) 004-11-27
+
+<br>
+
+<span id="page-name-img" class="img" onclick="imgResize(77, 1)">![img](assets/img/contacts-ystm.png)</span>
 
 <br>
 
