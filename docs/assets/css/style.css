@@ -125,18 +125,18 @@ table {
 	overflow: auto;
 	font-size: 1.3em;
 	color: #99769c;
-	padding: 3%;
+	padding: 1.5%;
 	transform: rotate(-0.5deg);
-	box-shadow: 0px 0px 2px #00000022;
-	border-radius: 0.3em;
-	background: #fffff0;
+	box-shadow: 0px 0px 12px #00000022;
+	/* border-radius: 0.3em; */
+	/* background: #fffff0;
 	border-left: 22px solid #fff;
-	border-right: 22px solid #fff;
-	font-family: Ystm;
+	border-right: 22px solid #fff; */
+	font-family: monospace;
 }
 
 thead {
-	color: #000090;
+	color: #6d5b6c;
 }
 
 h1 {
