@@ -2,12 +2,14 @@
 
 # Букмарки
 
-Места отмеченные закладками константами
----
+<span id="buki-bookmarks-img" class="img" onclick="imgResize()">![img](assets/svg/buki-bookmarks.svg)</span>
+
+## Места отмеченные закладками константами
+
 
 Здесь описывается заимствованный способ буквенных закладок от редактора VIM.
 
->Используется расширение для браузера **Google Chrome** – `Vimium` […здесь](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb).
+>Используется расширение для браузера `Google Chrome – Vimium` […здесь](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb).
 
 При активированном расширении режим метки активируется нажатием клавиши `m` и далее устанавливается сама метка какой либо клавишей, например `A`.
 
@@ -28,8 +30,8 @@
 | Simbol | Content                       | Type |
 | :----- | :---------------------------- | :--- |
 | mA     | Апракос                       | url  |
-| mP     | Problem                       | url  |
-| mN     | Note                          | url  |
+| mP     | ПРОБЛЕМА                      | url  |
+| mN     | Записка                       | url  |
 | mm     | самая быстрая локальная метка | url# |
 | mI     | Важное                        | url  |
 | mi     | важное                        | url# |
