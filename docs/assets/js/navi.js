@@ -7,22 +7,22 @@ pageDict = {
 	"dobro-day": "Сий День",
 	// "fert-font":"О шрифте",
 	"az": "Азъ",
-	"vedi-documents": "Docs",
-	"slovo-server": "Сервер",
-	"kakw-colors": "Цветы",
 	"az-assets": "Вложения",
-	"glagol-git": "GIT",
 	"billing": "Билинг",
 	"pokoy-proval": "Провал",
-	"buki-set": "Настройки",
 	"az-peremennaya": "Переменная",
 	"az-object": "Объект",
 	"buki": "Соглашение",
 	"buki-bukmarki": "Букмарки",
+	"buki-set": "Настройки",
 	"vedi-vim": "VIM",
 	// "buki-problems-ts": "Проблемы",
+	"glagol-git": "GIT",
 	// "slovo-shell": "Шелл",
+	"slovo-server": "Сервер",
 	"tako-type": "Типы данных",
+	"kakw-colors": "Цветы",
+	"vedi-documents": "Docs",
 	"search": "Поиск на"
 
 }
@@ -38,7 +38,6 @@ keyDay = "";
  * 
  * @returns строку с именем текущей страницы.
  */
-
 
 function namePage() {
 
@@ -107,23 +106,29 @@ function navi() {
 }
 
 navi();
-count = 1;
-function imgResize() {
 
-	if (count % 2) {
+function rsz(rsz = 100, speed = 0.1) {
 
-		document.querySelector('img').style = 'transform: rotate(2deg); width: 100%; transition: .3s';
+	let array = document.querySelectorAll('img');
 
-	} else {
+	for (let index = 0; index < array.length; index++) {
 
-		document.querySelector('img').style = 'transform: rotate(0deg)';
+		let item = array[index].style = `transform: rotate(0deg); width: ${rsz}%; transition: all ${speed}s ease .2s;`;
 
 	}
 
+}
+count = 1;
+
+function imgResize(par, speed) {
+
+
+	if (count % 2) {
+		rsz(par, speed);
+		// alert();
+	} else
+		rsz(22); // ширина в `%` для `image` при втором клике
+
 	count = count + 1;
 
-
-	console.log(count);
-
 }
-
