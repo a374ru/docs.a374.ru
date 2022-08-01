@@ -16,10 +16,12 @@
 /--assets
 	|__js
 	|__css
-	|__svg
+	|__sv
+	|
 	|__img
-	|		|__calendar
-	|		|__bgr
+	|	|__calendar
+	|	|__bgr
+	|
 	|__external
 ```
 
