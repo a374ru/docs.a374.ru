@@ -28,9 +28,20 @@
 
 1. [GIT](glagol-git.md)
 
+## ЗЕМЛЯ
+
+1. []()
+
+## Какw
+
+1. [Цвета](kakw-colors)
+
+
+
 ## ПОКОЙ
 
 1. [Провал](pokoy-proval.md)
+
 
 ### Проекты готовые:
 
@@ -46,11 +57,17 @@
 
 ## СЛОВО
 
-1. [Сервер](slovo-server.md)
+1. [Сервер](slovo-server)
+2. [Поиск](search-result)
+3. [Терминал](slovo-shell)
 
 ## ТАКO
 
-1. [ТИП](tako-type.md)
+1. [ТИП](tako-type)
+
+## Ферт
+
+1. [О шрифте](fert-font.md)
 
 <!-- <br>
 

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with EazyDraw for Mac ( https://www.eazydraw.com/ ) -->
+
+<svg
+    version="1.1"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    width="490.761526841"
+    height="181.443984346"
+    viewBox="0, 0, 490.761526841, 181.443984346"
+    preserveAspectRatio="none"
+    id="svg2">
+   <defs
+       id="defs_1DACD97D">
+      <filter
+          id="filter_DF93E31D"
+          width="1.153219592005"
+          height="6.516769605106"
+          x="-0.1"
+          y="-0.1">
+         <feGaussianBlur
+             id="filter_DF93E31D_blur"
+             in="SourceAlpha"
+             stdDeviation="2.95625001652"
+             result="blur"/>
+         <feColorMatrix
+             id="filter_DF93E31D_ColorMatrix"
+             result="bluralpha"
+             type="matrix"
+             values="0 0 0 0.57647 0      0 0 0 0.43922 0      0 0 0 0.38431 0      0 0 0 1 0"/>
+         <feOffset
+             id="filter_DF93E31D_Offset"
+             in="bluralpha"
+             dx="7.254087683816"
+             dy="11.3141587595"
+             result="offsetBlur"/>
+         <feMerge
+             id="filter_DF93E31D_Merge">
+            <feMergeNode id="filter_DF93E31D_MergeNode_a" in="offsetBlur"/>
+            <feMergeNode id="filter_DF93E31D_MergeNode_b" in="SourceGraphic"/>
+         </feMerge>
+      </filter>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="F7F5A4FC_dimArrow_start_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="F7F5A4FC_dimArrow_start_arrow_path"
+             style="fill:#FF2600;fill-opacity:1;stroke:#FF2600;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:bevel;stroke-width:0.125"
+             d="M0,0 L7.517540966287,-2.736161146605 L7.517540966287,2.736161146605 z"/>
+      </marker>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="F7F5A4FC_dimArrow_end_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="F7F5A4FC_dimArrow_end_arrow_path"
+             style="fill:#FF2600;fill-opacity:1;stroke:#FF2600;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:bevel;stroke-width:0.125"
+             d="M0,0 L-7.517540966287,2.736161146605 L-7.517540966287,-2.736161146605 z"/>
+      </marker>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="FC7918FC_dimArrow_start_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="FC7918FC_dimArrow_start_arrow_path"
+             style="fill:#76D6FF;fill-opacity:1;stroke:#76D6FF;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:bevel;stroke-width:0.362433940172"
+             d="M0,0 L7.517540966287,-2.736161146605 L7.517540966287,2.736161146605 z"/>
+      </marker>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="FC7918FC_dimArrow_end_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="FC7918FC_dimArrow_end_arrow_path"
+             style="fill:#76D6FF;fill-opacity:1;stroke:#76D6FF;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:bevel;stroke-width:0.362433940172"
+             d="M0,0 L-7.517540966287,2.736161146605 L-7.517540966287,-2.736161146605 z"/>
+      </marker>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="27B6D57D_dimArrow_start_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="27B6D57D_dimArrow_start_arrow_path"
+             style="fill:#937062;fill-opacity:1;stroke:#937062;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:bevel;stroke-width:0.125"
+             d="M0,0 L7.517540966287,-2.736161146605 L7.517540966287,2.736161146605 z"/>
+      </marker>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="27B6D57D_dimArrow_end_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="27B6D57D_dimArrow_end_arrow_path"
+             style="fill:#937062;fill-opacity:1;stroke:#937062;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:bevel;stroke-width:0.125"
+             d="M0,0 L-7.517540966287,2.736161146605 L-7.517540966287,-2.736161146605 z"/>
+      </marker>
+   </defs>
+   <metadata
+       id="metadata7">
+      <rdf:RDF>
+         <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <g
+       id="layer_Paper"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1;stroke-miterlimit:10">
+      <ellipse
+          style="fill:#F59853;stroke-opacity:0;stroke-width:7.289867401123;stroke-miterlimit:7;filter:url(#filter_DF93E31D)"
+          id="DF93E31D"
+          cx="238.491808701"
+          cy="124.867812471"
+          rx="234.796875"
+          ry="2.681640625"/>
+      <text
+          id="69F3E50D"
+          style="fill:#FF0000;stroke:none"
+          font-family="Fontics"
+          font-size="96"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="46.0894649506" y="113.787734346">Ф</tspan>
+         <tspan style="fill:#202020">о</tspan>
+         <tspan style="fill:#202020">нтиксъ</tspan>
+      </text>
+      <g
+          id="F7F5A4FC">
+         <path
+             id="F7F5A4FC_dimension_a"
+             d="M37.5188750448,157.818304749 L37.5188750448,0.25"/>
+         <path
+             id="F7F5A4FC_dimension_b"
+             d="M112.575367111,157.818304749 L112.575367111,0.25"/>
+         <rect
+             id="F7F5A4FC_dimension_box"
+             style="fill:none;stroke-linejoin:bevel"
+             x="56.0324726406"
+             y="6.523249816394"
+             width="38.029296875"
+             height="22"/>
+         <g
+             id="F7F5A4FC_dimension">
+            <path
+                id="F7F5A4FC_dimension"
+                d="M37.5188750448,17.5232498164 L52.0324726406,17.5232498164 M98.0617695156,17.5232498164 L112.575367111,17.5232498164"
+                style="marker-start:url(#F7F5A4FC_dimArrow_start_arrow);marker-end:url(#F7F5A4FC_dimArrow_end_arrow)"/>
+            <text
+                id="F7F5A4FC_dimension_text"
+                style="stroke:none"
+                font-family="Helvetica"
+                font-size="12"
+                font-weight="normal"
+                font-style="normal">
+               <tspan x="60.0324726406" y="21.5232498164">2,648</tspan>
+            </text>
+         </g>
+      </g>
+      <g
+          id="FC7918FC">
+         <path
+             id="FC7918FC_dimension_a"
+             d="M77.8589962006,119.662734346 L461.355089951,119.662734346"/>
+         <path
+             id="FC7918FC_dimension_b"
+             d="M364.640246201,65.9752343463 L461.355089951,65.9752343463"/>
+         <rect
+             id="FC7918FC_dimension_box"
+             style="fill:none;stroke-linejoin:bevel"
+             x="420.582629013"
+             y="81.8189843463"
+             width="38.029296875"
+             height="22"/>
+         <g
+             id="FC7918FC_dimension">
+            <path
+                id="FC7918FC_dimension"
+                d="M439.597277451,119.662734346 L439.597277451,171.990859346 M439.597277451,13.6471093463 L439.597277451,65.9752343463"
+                style="marker-start:url(#FC7918FC_dimArrow_start_arrow);marker-end:url(#FC7918FC_dimArrow_end_arrow)"/>
+            <text
+                id="FC7918FC_dimension_text"
+                style="stroke:none"
+                font-family="Helvetica"
+                font-size="12"
+                font-weight="normal"
+                font-style="normal">
+               <tspan x="424.582629013" y="96.8189843463">1,894</tspan>
+            </text>
+         </g>
+      </g>
+      <g id="labels_C3A2EA4D">
+         <text
+             id="line_C3A2EA4D_0"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="11"
+             font-weight="normal"
+             font-style="normal"
+             transform="matrix(0.99480725377,0.101776853193,-0.101776853193,0.99480725377,10.2014442432,-4.652088332426)">
+            <tspan x="53.1907519785" y="157.646685353">1</tspan>
+         </text>
+         <text
+             id="line_C3A2EA4D_1"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="11"
+             font-weight="normal"
+             font-style="normal"
+             transform="matrix(0.99480725377,0.101776853193,-0.101776853193,0.99480725377,10.469546287,-9.900744391448)">
+            <tspan x="104.761140682" y="157.649732233">2</tspan>
+         </text>
+         <text
+             id="line_C3A2EA4D_2"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="11"
+             font-weight="normal"
+             font-style="normal"
+             transform="matrix(0.99480725377,0.101776853193,-0.101776853193,0.99480725377,10.7376483302,-15.1494004495)">
+            <tspan x="156.331529386" y="157.652779112">3</tspan>
+         </text>
+         <text
+             id="line_C3A2EA4D_3"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="11"
+             font-weight="normal"
+             font-style="normal"
+             transform="matrix(0.99480725377,0.101776853193,-0.101776853193,0.99480725377,11.0057503735,-20.3980565086)">
+            <tspan x="207.90191809" y="157.655825992">4</tspan>
+         </text>
+         <text
+             id="line_C3A2EA4D_4"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="11"
+             font-weight="normal"
+             font-style="normal"
+             transform="matrix(0.99480725377,0.101776853193,-0.101776853193,0.99480725377,11.2738524167,-25.6467125667)">
+            <tspan x="259.472306794" y="157.658872871">5</tspan>
+         </text>
+         <text
+             id="line_C3A2EA4D_5"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="11"
+             font-weight="normal"
+             font-style="normal"
+             transform="matrix(0.99480725377,0.101776853193,-0.101776853193,0.99480725377,11.54195446,-30.8953686258)">
+            <tspan x="311.042695498" y="157.661919751">6</tspan>
+         </text>
+         <text
+             id="line_C3A2EA4D_6"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="11"
+             font-weight="normal"
+             font-style="normal"
+             transform="matrix(0.99480725377,0.101776853193,-0.101776853193,0.99480725377,11.8100565032,-36.1440246838)">
+            <tspan x="362.613084202" y="157.66496663">7</tspan>
+         </text>
+         <text
+             id="line_C3A2EA4D_7"
+             style="stroke:none"
+             font-family="Avenir"
+             font-size="11"
+             font-weight="normal"
+             font-style="normal"
+             transform="matrix(0.99480725377,0.101776853193,-0.101776853193,0.99480725377,12.0781585465,-41.3926807429)">
+            <tspan x="414.183472906" y="157.66801351">8</tspan>
+         </text>
+      </g>
+      <g
+          id="27B6D57D">
+         <path
+             id="27B6D57D_dimension_a"
+             d="M116.226183701,74.8267968463 L116.226183701,0.756484346299"/>
+         <path
+             id="27B6D57D_dimension_b"
+             d="M415.667589951,132.975234346 L415.667589951,0.756484346299"/>
+         <rect
+             id="27B6D57D_dimension_box"
+             style="fill:none;stroke-linejoin:bevel"
+             x="272.844537163"
+             y="81.99609375"
+             width="38.029296875"
+             height="22"/>
+         <g
+             id="27B6D57D_dimension">
+            <path
+                id="27B6D57D_dimension"
+                d="M168.05078125,92.99609375 L268.844537163,92.99609375 M314.873834038,92.99609375 L415.667589951,92.99609375"
+                style="marker-start:url(#27B6D57D_dimArrow_start_arrow);marker-end:url(#27B6D57D_dimArrow_end_arrow)"/>
+            <text
+                id="27B6D57D_dimension_text"
+                style="stroke:none"
+                font-family="Helvetica"
+                font-size="12"
+                font-weight="normal"
+                font-style="normal">
+               <tspan x="276.844537163" y="96.99609375">8,735</tspan>
+            </text>
+         </g>
+      </g>
+   </g>
+</svg>
