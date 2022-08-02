@@ -5,3 +5,5 @@
 <div id="navi-page">
 Здесь будет сгенерирован список всех допустимых страниц проекта.
 </div>
+
+<script src="assets/js/navi.js"></script>
