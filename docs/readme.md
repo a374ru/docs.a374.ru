@@ -1,14 +1,5 @@
 <div class="navi"> <nav id="navi"> <!-- js --> </nav></div>
 
-<ul class="background">
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-   <li></li>
-</ul>
-
 #  Точка Входа
 
 После перерывов в работе всегда требуется восстановить былое…
@@ -29,9 +20,6 @@
 <!-- [Aprakos.online](https://aprakosonline.readthedocs.io) -->
 
 <!-- [Памятник разработки](https://a374ru.readthedocs.io) -->
-<br>
-
-# 🔔 8(925) 004—11—27
 
 <br>
 
@@ -40,3 +28,12 @@
 <br>
 
 <script src="assets/js/navi.js"></script>
+
+<ul class="background">
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+   <li></li>
+</ul>
