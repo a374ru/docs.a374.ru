@@ -23,7 +23,8 @@ pageDict = {
 	"slovo-server": "Сервер",
 	"tako-type": "Типы данных",
 	"kakw-colors": "Цветы",
-	"search": "Поиск на"
+	"search": "Поиск на",
+	"tst": "Оглавление",
 
 }
 
@@ -131,4 +132,27 @@ function imgResize(par, speed) {
 
 	count = count + 1;
 
+}
+
+/**
+ * Генерирует список  ссылок на страницы и добавляет их на указанную страницу навигации
+ * по `id="navi-page"`
+*/
+function naviPage() {
+	list = "";
+	naviDiv = `<ol>${li}<ol>`;
+
+	for (const ii of pageDict) {
+
+		naviDiv += `
+		
+		<li><a href="${pageDict[ii]}">${ii}</li>
+
+		`
+	}
+
+	document.getElementById('navi-page').innerHTML = naviDiv;
+}
+if (keyDay == "tst") {
+	naviPage()
 }
