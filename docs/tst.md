@@ -1,3 +1,5 @@
+<div class="navi"><nav id="navi"><!-- js --></nav></div>
+
 # Оглавление 
 
 ### Страницы документации
@@ -6,4 +8,4 @@
 Здесь будет сгенерирован список всех допустимых страниц проекта.
 </div>
 
-<script src="assets/js/navi.js"></script>
+<span> <script src="assets/js/navi.js"></script> </span>

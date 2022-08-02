@@ -24,9 +24,11 @@ pageDict = {
 	"tako-type": "Типы данных",
 	"kakw-colors": "Цветы",
 	"search": "Поиск на",
-	"tst": "Оглавление",
+	"navi-page": "Оглавление",
 
 }
+
+navi_page = 'navi-page';
 
 /**
  * Ключ текущей просматриваемой страницы
@@ -48,7 +50,7 @@ function namePage() {
 
 		for (const key in pageDict) {
 			if (Object.hasOwnProperty.call(pageDict, key)) {
-				if (key === str) {
+				if (key === str.substring(0, key.length)) {
 
 					keyDay = key;
 
@@ -140,19 +142,23 @@ function imgResize(par, speed) {
 */
 function naviPage() {
 	list = "";
-	naviDiv = `<ol>${li}<ol>`;
 
-	for (const ii of pageDict) {
+	for (const ii in pageDict) {
 
-		naviDiv += `
+		if (ii != navi_page) {
+
+			list += `
 		
-		<li><a href="${pageDict[ii]}">${ii}</li>
+		<span class="navi-item" style="background: #ffffff88; padding: 0em 1em;margin: 1em 1em 0em 0em; line-height: 2"><a href="${ii}"> ${pageDict[ii]} </a></span>
 
-		`
+		`}
 	}
+	naviDiv = "<span>" + list + "<span>";
+
+	console.log(naviDiv);
 
 	document.getElementById('navi-page').innerHTML = naviDiv;
 }
-if (keyDay == "tst") {
+if (keyDay == navi_page) {
 	naviPage()
 }
