@@ -5,24 +5,24 @@
  */
 pageDict = {
 	"dobro-day": "Сий День",
-	// "fert-font":"О шрифте",
 	"az": "Азъ",
+	"fert-font": "О шрифте",
+	"glagol-git": "GIT",
+	"buki-set": "Настройки",
 	"az-assets": "Вложения",
+	"vedi-documents": "Docs",
 	"billing": "Билинг",
+	"vedi-vim": "VIM",
 	"pokoy-proval": "Провал",
 	"az-peremennaya": "Переменная",
 	"az-object": "Объект",
 	"buki": "Соглашение",
 	"buki-bukmarki": "Букмарки",
-	"buki-set": "Настройки",
-	"vedi-vim": "VIM",
 	// "buki-problems-ts": "Проблемы",
-	"glagol-git": "GIT",
 	// "slovo-shell": "Шелл",
 	"slovo-server": "Сервер",
 	"tako-type": "Типы данных",
 	"kakw-colors": "Цветы",
-	"vedi-documents": "Docs",
 	"search": "Поиск на"
 
 }
