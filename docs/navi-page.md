@@ -9,7 +9,9 @@
 <div id="navi-page">
 Здесь должен быть список всех допустимых страниц проекта.
 </div>
+
 <br>
+
 <span id="navi-page-img" class="img" onclick="imgResize()">![img](assets/svg/navi-page.svg)</span>
 
 <span> <script src="assets/js/navi.js"></script></span>
