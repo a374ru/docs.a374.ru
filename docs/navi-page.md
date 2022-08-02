@@ -12,7 +12,7 @@
 
 <br>
 
-<span id="navi-page-img" class="img" onclick="imgResize()">![img](assets/svg/navi-page.svg)</span>
+<span id="navi-page-img" class="img" onclick="imgResize()">![img](assets/svg/target.svg)</span>
 
 <span> <script src="assets/js/navi.js"></script></span>
 
