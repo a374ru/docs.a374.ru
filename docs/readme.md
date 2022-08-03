@@ -29,6 +29,7 @@
 
 <script src="assets/js/navi.js"></script>
 
+<!-- Блок Анимации CSS -->
 <ul class="background">
    <li></li>
    <li></li>
@@ -37,3 +38,4 @@
    <li></li>
    <li></li>
 </ul>
+<!-- end animation -->

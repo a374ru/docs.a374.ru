@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "8e8890ee9039f45a",
+    "type": "split",
+    "children": [
+      {
+        "id": "244554c67e17d4d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/dobro-day.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6979cf7ec564967a",
+    "type": "split",
+    "children": [
+      {
+        "id": "41be0d0627e03e74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0fd2d1de0e02e69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "195e6fff6e9f7a8c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 185
+  },
+  "right": {
+    "id": "09c0c1164c3c9007",
+    "type": "split",
+    "children": [
+      {
+        "id": "a43f01e550712f36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32a799bd9e026705",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/dobro-day.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "244554c67e17d4d0",
+  "lastOpenFiles": [
+    "docs/dobro-day.md",
+    "docs/fert-font.md",
+    "docs/pokoy-proval.md",
+    "docs/slovo-server.md",
+    "docs/buki-set.md",
+    "docs/buki-install-ts.md",
+    "docs/buki-bukmarki.md",
+    "docs/buki.md",
+    "docs/az-assets.md",
+    "docs/az.md"
+  ]
+}
