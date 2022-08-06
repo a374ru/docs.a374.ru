@@ -28,12 +28,25 @@ pageDict = {
 
 }
 
+// словарь ключей для рандом-сортировки
+keyPageDict = [];
+for (const key in pageDict) {
+	keyPageDict.push(key);
+}
+// Случайная сортировка
+keyPageDict.sort(() => Math.random() - 0.5);
+
 navi_page = 'navi-page';
 
 /**
  * Ключ текущей просматриваемой страницы
  */
 keyDay = "";
+
+/**
+ * Количество елементов в меню навигации.
+ */
+itemsNavi = 10;
 
 /**
  * Функция разбирает  URL текущей страницы
@@ -76,22 +89,20 @@ function toNavi() {
 
 	counter = 1;
 	htmlString = "";
-	rnd = Math.floor(Math.random() * (5 - 2)) + 2;
 
-	function getRandomIntInclusive(min, max) {
-		min = Math.ceil(min);
-		max = Math.floor(max);
-		return Math.floor(Math.random() * (max - min + 1)) + min;
-		//Максимум и минимум включаются
-	}
+	for (const key of keyPageDict) {
 
-	for (const key in pageDict) {
-
-		if (Object.hasOwnProperty.call(pageDict, key) && key != keyDay && counter % getRandomIntInclusive(5, 1) && counter < 10 && key != 'dobro-day') {
+		if (key != keyDay && counter < itemsNavi && key != 'dobro-day' && key != 'search-result') {
 			const element = pageDict[key];
 			htmlString += `<div class="navi-item"><a href="${key}">${element}</a> </div>`;
+			counter += 1;
+
 		}
-		this.counter += 1;
+		if (counter == itemsNavi) {
+			break;
+		}
+
+
 
 	}
 
@@ -110,6 +121,11 @@ function navi() {
 
 navi();
 
+/** Увеличивает картинку по клику по заданным параметрам.
+ * 
+ * @param {*} rsz увеличение размера картинки при клике
+ * @param {*} speed animation 
+ */
 function rsz(rsz = 100, speed = 0.1) {
 
 	let array = document.querySelectorAll('img');
@@ -123,8 +139,12 @@ function rsz(rsz = 100, speed = 0.1) {
 }
 count = 1;
 
+/** Уменьшает картинку по клику по заданным параметрам.
+ * 
+ * @param {*} par 
+ * @param {*} speed 
+ */
 function imgResize(par, speed) {
-
 
 	if (count % 2) {
 		rsz(par, speed);
