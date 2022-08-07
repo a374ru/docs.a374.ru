@@ -1,3 +1,50 @@
+
+// ========== to local Storage ======================
+
+// localStorage.clear();
+
+function clickColor() {
+
+	whiteBG = '#fffaf5';
+	darkBG = '#110000';
+	naviLight = 'box-shadow: 0px 10 22 #fffaf5; background:linear-gradient(180deg, #fffaf5 0%, ##A78F5B 3%)';
+	naviDark = 'box-shadow: 0px 20px 52px #e3423477; background:linear-gradient(180deg, #110000 97%, red 1%)';
+
+	trgr = localStorage.getItem('color') == whiteBG ? true : false;
+
+	localStorage.setItem(
+		'ystm', 'Yabo-system © Third Millennium'
+	)
+
+	localStorage.setItem(
+		'az', 1
+	)
+
+	document.getElementById('цвéточная-схема-для-web-a374').innerHTML = localStorage.getItem('ystm');
+
+	if (!trgr) {
+		localStorage.setItem('color', whiteBG);
+		localStorage.setItem('navidark', naviLight);
+
+	} else {
+		localStorage.setItem('color', darkBG);
+		localStorage.setItem('navidark', naviDark);
+
+
+
+	}
+
+
+	document.body.style.background = localStorage.getItem('color');
+	document.getElementsByClassName('navi')[0].style = localStorage.getItem('navidark');
+
+}
+// =================end localStorage =============
+
+//  Download default value of localStorage
+document.body.style.background = localStorage.getItem('color');
+document.getElementsByClassName('navi')[0].style = localStorage.getItem('navidark');
+
 /**
  *  Словарь доступных страниц ссылок.
  * Добавили страницу – добавили строку в словарь.
@@ -118,7 +165,7 @@ function toNavi() {
 
 	cday = new Date().getDate();
 
-	htmlString += `<div class="navi-item" id="day"><span id="dobro-day"><a href="dobro-day">День</a> </span><span class="number-day" id="number-day"><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html">${cday}</a></span></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="navi-page#navi">√</a></div>`
+	htmlString += `<div class="navi-item" id="day"><span id="dobro-day"><a href="dobro-day">День</a> </span><span class="number-day" id="number-day"><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html">${cday}</a></span></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="navi-page#navi">√</a></div><div class="navi-item" title="Цветность" id="colorScheme"><a onclick="clickColor()">💡</a></div>`
 	return htmlString;
 
 }
@@ -133,8 +180,8 @@ navi();
 
 /** Увеличивает картинку по клику по заданным параметрам.
  * 
- * @param {int} rsz увеличение размера картинки при клике
- * @param {int} speed animation 
+ * @param {*} rsz увеличение размера картинки при клике
+ * @param {*} speed animation 
  */
 function rsz(rsz = 100, speed = 0.1) {
 
@@ -151,8 +198,8 @@ count = 1;
 
 /** Уменьшает картинку по клику по заданным параметрам.
  * 
- * @param {int} par 
- * @param {int} speed 
+ * @param {*} par 
+ * @param {*} speed 
  */
 function imgResize(par, speed) {
 
