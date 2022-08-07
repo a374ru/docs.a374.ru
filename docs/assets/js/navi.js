@@ -8,7 +8,7 @@ function clickColor() {
 	whiteBG = '#fffaf5';
 	darkBG = '#110000';
 	naviLight = 'box-shadow: 0px 10 22 #fffaf5; background:linear-gradient(180deg, #fffaf5 0%, ##A78F5B 3%)';
-	naviDark = 'box-shadow: 0px 20px 52px #611816; background:linear-gradient(180deg, #e3423477 97%, red 1%)';
+	naviDark = 'box-shadow: 0px 20px 52px #611816; background:linear-gradient(180deg, #180000 97%, red 1%)';
 
 	trgr = localStorage.getItem('color') == whiteBG ? true : false;
 
