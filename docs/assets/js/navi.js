@@ -20,7 +20,6 @@ function clickColor() {
 		'az', 1
 	)
 
-	document.getElementById('цвéточная-схема-для-web-a374').innerHTML = localStorage.getItem('ystm');
 
 	if (!trgr) {
 		localStorage.setItem('color', whiteBG);
