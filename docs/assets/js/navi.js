@@ -93,16 +93,26 @@ function toNavi() {
 	for (const key of keyPageDict) {
 
 		if (key != keyDay && counter < itemsNavi && key != 'dobro-day' && key != 'search-result') {
-			const element = pageDict[key];
-			htmlString += `<div class="navi-item"><a href="${key}">${element}</a> </div>`;
+
+			if (!pageDict[key].split(' ')[1]) {
+				var element = pageDict[key];
+
+			} else if (pageDict[key].split(' ').length > 1) {
+				var element = pageDict[key].slice(0, 7);
+
+			}
+
+			if (element.length > 8 || element.split(' ').length > 1) {
+				element = element.slice(0, element.length - 3) + "…";
+			}
+
+			htmlString += `<div class="navi-item"><a title="${pageDict[key]}" href="${key}">${element}</a> </div>`;
 			counter += 1;
 
 		}
 		if (counter == itemsNavi) {
 			break;
 		}
-
-
 
 	}
 
@@ -150,7 +160,8 @@ function imgResize(par, speed) {
 		rsz(par, speed);
 		// alert();
 	} else
-		rsz(22); // ширина в `%` для `image` при втором клике
+		rsz(22);
+	// ширина в `%` для `image` при втором клике
 
 	count = count + 1;
 
@@ -171,11 +182,10 @@ function naviPage() {
 		
 		<span class="navi-item" style="background: #ffffff88; padding: 0em 1em;margin: 1em 1em 0em 0em; line-height: 2"><a href="${ii}"> ${pageDict[ii]} </a></span>
 
-		`}
+		`
+		}
 	}
 	naviDiv = "<span>" + list + "<span>";
-
-	console.log(naviDiv);
 
 	document.getElementById('navi-page').innerHTML = naviDiv;
 }
