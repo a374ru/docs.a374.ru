@@ -133,8 +133,8 @@ navi();
 
 /** Увеличивает картинку по клику по заданным параметрам.
  * 
- * @param {*} rsz увеличение размера картинки при клике
- * @param {*} speed animation 
+ * @param {int} rsz увеличение размера картинки при клике
+ * @param {int} speed animation 
  */
 function rsz(rsz = 100, speed = 0.1) {
 
@@ -151,8 +151,8 @@ count = 1;
 
 /** Уменьшает картинку по клику по заданным параметрам.
  * 
- * @param {*} par 
- * @param {*} speed 
+ * @param {int} par 
+ * @param {int} speed 
  */
 function imgResize(par, speed) {
 
