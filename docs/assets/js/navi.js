@@ -8,7 +8,7 @@ function clickColor() {
 	whiteBG = '#fffaf5';
 	darkBG = '#110000';
 	naviLight = 'box-shadow: 0px 10 22 #fffaf5; background:linear-gradient(180deg, #fffaf5 0%, ##A78F5B 3%)';
-	naviDark = 'box-shadow: 0px 20px 52px #e3423477; background:linear-gradient(180deg, #110000 97%, red 1%)';
+	naviDark = 'box-shadow: 0px 20px 52px #e3423477; background:linear-gradient(180deg, #e3423477 97%, red 1%)';
 
 	trgr = localStorage.getItem('color') == whiteBG ? true : false;
 
@@ -226,7 +226,7 @@ function naviPage() {
 
 			list += `
 		
-		<span class="navi-item" style="background: #ffffff88; padding: 0em 1em;margin: 1em 1em 0em 0em; line-height: 2"><a href="${ii}"> ${pageDict[ii]} </a></span>
+		<span class="navi-item" style="background: #fef4e8; padding: 0em 1em;margin: 1em 1em 0em 0em; line-height: 2"><a href="${ii}"> ${pageDict[ii]} </a></span>
 
 		`
 		}
