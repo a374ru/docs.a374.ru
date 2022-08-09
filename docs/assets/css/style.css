@@ -130,7 +130,7 @@ strong {
 
 table {
 	overflow: auto;
-	font-size: 1.3em;
+	font-size: 1.1em;
 	color: #99769c;
 	padding: 1.5%;
 	transform: rotate(-0.5deg);
@@ -139,8 +139,21 @@ table {
 	/* background: #fffff0;
 	border-left: 22px solid #fff;
 	border-right: 22px solid #fff; */
-	font-family: monospace;
+	/* font-family: monospace; */
 }
+td{
+	padding: 1rem 1rem;
+}
+
+td:nth-child(2n-1){
+	color:red;
+	padding:1rem 4rem;
+}
+td>code{
+	color:#575757;
+	padding: .5rem;
+}
+
 
 thead {
 	color: #6d5b6c;
