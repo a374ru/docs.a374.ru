@@ -38,12 +38,13 @@ blockquote {
 	padding: 0em 1em 0em 3em;
 	border-radius: 20%;
 	background: #fcf9ffcc;
+	margin-bottom: 2em;
 }
 
 body {
 	font-family: "Fontics";
 	margin: 3em;
-	padding-bottom: 133px;
+	padding-bottom: 12px;
 	background: rgb(255, 250, 245);
 	color: #775738;
 	font-size: 27px;
@@ -115,7 +116,7 @@ nav {
 
 pre {
 	overflow: auto;
-	padding: 0.5rem 1rem 1rem 1rem;
+	padding: 0.5rem 1rem .5rem 2rem;
 	background-color: #d2d2d229;
 	font-size: 1.1em;
 }
@@ -456,6 +457,17 @@ td>code{
 	.markdown-body {
 		width: 97%;
 	}
+
+blockquote {
+		margin-right: 2px;
+		margin-left: 2px;
+		border-left: 1em solid #e9e2da;
+		border-right: 0.2em solid #e9e2da;
+		padding: 0em 1.5em 0em 1.5em;
+		border-radius: 15%;
+		background-color: #fffdfa;
+	}
+	
 }
 
 /* =-=-=-=-=-=-animation  */
