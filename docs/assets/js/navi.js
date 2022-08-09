@@ -1,3 +1,36 @@
+// Скрипт ведения простой документации на JS/CSS/HTML
+// date: 8 августа 2022 г.
+/**
+ *  Словарь доступных страниц ссылок.
+ * Добавили страницу – добавили строку в словарь.
+ * 
+ */
+pageDict = {
+
+	"dobro-day": "Сий День",
+	"az": "Азъ",
+	"fert-font": "О шрифте",
+	"glagol-git": "GIT",
+	"buki-set": "Настройки",
+	"az-assets": "Вложения",
+	"vedi-documents": "Docs",
+	"billing": "Билинг",
+	"vedi-vim": "VIM",
+	"pokoy-proval": "Провал",
+	"az-peremennaya": "Переменная",
+	"az-object": "Объект",
+	"buki": "Соглашение",
+	"buki-bukmarki": "Букмарки",
+	// "buki-problems-ts": "Проблемы",
+	// "slovo-shell": "Шелл",
+	"slovo-server": "Сервер",
+	"tako-type": "Типы данных",
+	"kakw-colors": "Цветы",
+	"kakw-cal": "SHELL-CAL",
+	"search-result": "Поиск 🔍",
+	"navi-page": "Оглавление",
+
+}
 
 // ========== to local Storage ======================
 
@@ -44,35 +77,6 @@ function clickColor() {
 document.body.style.background = localStorage.getItem('color');
 document.getElementsByClassName('navi')[0].style = localStorage.getItem('navidark');
 
-/**
- *  Словарь доступных страниц ссылок.
- * Добавили страницу – добавили строку в словарь.
- * 
- */
-pageDict = {
-	"dobro-day": "Сий День",
-	"az": "Азъ",
-	"fert-font": "О шрифте",
-	"glagol-git": "GIT",
-	"buki-set": "Настройки",
-	"az-assets": "Вложения",
-	"vedi-documents": "Docs",
-	"billing": "Билинг",
-	"vedi-vim": "VIM",
-	"pokoy-proval": "Провал",
-	"az-peremennaya": "Переменная",
-	"az-object": "Объект",
-	"buki": "Соглашение",
-	"buki-bukmarki": "Букмарки",
-	// "buki-problems-ts": "Проблемы",
-	// "slovo-shell": "Шелл",
-	"slovo-server": "Сервер",
-	"tako-type": "Типы данных",
-	"kakw-colors": "Цветы",
-	"search-result": "Поиск 🔍",
-	"navi-page": "Оглавление",
-
-}
 
 // словарь ключей для рандом-сортировки
 keyPageDict = [];
@@ -92,7 +96,7 @@ keyDay = "";
 /**
  * Количество елементов в меню навигации.
  */
-itemsNavi = 10;
+itemsNavi = 8;
 
 /**
  * Функция разбирает  URL текущей страницы
@@ -164,7 +168,10 @@ function toNavi() {
 
 	cday = new Date().getDate();
 
-	htmlString += `<div class="navi-item" id="day"><span id="dobro-day"><a href="dobro-day">День</a> </span><span class="number-day" id="number-day"><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html">${cday}</a></span></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="navi-page#navi">√</a></div><div class="navi-item" title="Цветность" id="colorScheme"><a onclick="clickColor()">💡</a></div>`
+	htmlString += `<div class="navi-item" id="day"><a href="dobro-day"><span id="dobro-day">День</span></a><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html"><span class="number-day" id="number-day">${cday}</span></a></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="navi-page#navi">√</a></div><div class="navi-item" title="Цветность" id="colorScheme"><a onclick="clickColor()">
+<span class="material-icons">
+invert_colors
+</span></a></div>`
 	return htmlString;
 
 }
