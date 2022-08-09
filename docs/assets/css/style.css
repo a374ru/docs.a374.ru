@@ -116,10 +116,12 @@ nav {
 pre {
 	overflow: auto;
 	padding: 0.5rem 1rem 1rem 1rem;
-	background-color: #d2d2d229;
+	background: rgb(255,255,255);
+background: linear-gradient(270deg, rgba(255,255,255,1) 0%, rgba(238,238,238,0.5919555322128851) 100%);
 	font-size: 1.1em;
 	/* box-shadow: 0px 0px 33px #ffffff; */
 }
+
 
 code {
 	font-size: 0.9em;
@@ -136,7 +138,7 @@ table {
 	font-size: 1.1em;
 	color: #99769c;
 	padding: 1.5%;
-	transform: rotate(-0.5deg);
+	transform: rotate(0deg);
 	box-shadow: 0px 0px 12px #00000022;
 	/* border-radius: 0.3em; */
 	/* background: #fffff0;
