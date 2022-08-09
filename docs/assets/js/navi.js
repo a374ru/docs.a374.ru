@@ -169,7 +169,7 @@ function toNavi() {
 	cday = new Date().getDate();
 
 	htmlString += `<div class="navi-item" id="day"><a href="dobro-day"><span id="dobro-day">День</span></a><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html"><span class="number-day" id="number-day">${cday}</span></a></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="navi-page#navi">√</a></div><div class="navi-item" title="Цветность" id="colorScheme"><a onclick="switchColorScheme()">
-<span class="material-icons">
+<span class="material-icons-two-tone">
 invert_colors
 </span></a></div>`
 	return htmlString;
