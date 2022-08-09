@@ -116,12 +116,9 @@ nav {
 pre {
 	overflow: auto;
 	padding: 0.5rem 1rem 1rem 1rem;
-	background: rgb(255,255,255);
-background: linear-gradient(270deg, rgba(255,255,255,1) 0%, rgba(238,238,238,0.5919555322128851) 100%);
+	background-color: #d2d2d229;
 	font-size: 1.1em;
-	/* box-shadow: 0px 0px 33px #ffffff; */
 }
-
 
 code {
 	font-size: 0.9em;
