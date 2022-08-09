@@ -288,6 +288,14 @@ table.gsc-search-box {
 .gs-visibleUrl-breadcrumb {
 	font-size: 13px;
 }
+
+#gs_tti50{
+	padding:12px;
+}
+.gsc-search-button{
+	padding:0px;
+}
+
 .gsc-input {
 	/* font-size: 16px !important; */
 	transform: rotate(0deg) !important;
@@ -410,7 +418,7 @@ table.gsc-search-box {
 	}
 
 	.navi-item:hover {
-		border-radius: 0em;
+		/* border-radius: 0em; */
 	}
 
 	.navi-item {
