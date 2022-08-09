@@ -24,9 +24,9 @@ pageDict = {
 };
 // ========== to local Storage ======================
 
-// Зачистка хранилища клавишей `ESCAPE`
+// Зачистка хранилища клавишей `ESC`
 document.addEventListener('keyup', function (event) {
-	if (event.key === 'c') {
+	if (event.key === 'Escape') {
 		alert("ВЫ ПОЧИСТИЛИ ЛОКАЛЬНЫЕ ДАННЫЕ ЭТОГО РЕСУРСА.\nЭТО ПОЛЕЗНО!");
 		localStorage.clear();
 	}
