@@ -1,4 +1,27 @@
-import { pageDict } from 'pages.js';
+pageDict = {
+	"dobro-day": "Сий День",
+	"az": "Азъ",
+	"fert-font": "О шрифте",
+	"glagol-git": "GIT",
+	"buki-set": "Настройки",
+	"az-assets": "Вложения",
+	"vedi-documents": "Docs",
+	"billing": "Билинг",
+	"vedi-vim": "VIM",
+	"pokoy-proval": "Провал",
+	"az-peremennaya": "Переменная",
+	"az-object": "Объект",
+	"buki": "Соглашение",
+	"buki-bukmarki": "Букмарки",
+	// "buki-problems-ts": "Проблемы",
+	// "slovo-shell": "Шелл",
+	"slovo-server": "Сервер",
+	"tako-type": "Типы данных",
+	"kakw-colors": "Цветы",
+	"kakw-cal": "SHELL CAL",
+	"search-result": "Поиск 🔍",
+	"navi-page": "Оглавление",
+};
 // ========== to local Storage ======================
 
 // localStorage.clear();
@@ -45,7 +68,7 @@ document.body.style.background = localStorage.getItem('color');
 document.getElementsByClassName('navi')[0].style = localStorage.getItem('navidark');
 
 
-// словарь ключей для рандом-сортировки
+// словарь ключей для рандомной-сортировки
 keyPageDict = [];
 for (const key in pageDict) {
 	keyPageDict.push(key);
