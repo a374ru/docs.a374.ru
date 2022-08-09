@@ -37,7 +37,7 @@ blockquote {
 	border-right: 0.1999999999999993em solid #e9e2da;
 	padding: 0em 1em 0em 3em;
 	border-radius: 20%;
-	background: #fff;
+	background: #fcf9ffcc;
 }
 
 body {
@@ -137,6 +137,7 @@ table {
 	padding: 1.5%;
 	transform: rotate(0deg);
 	box-shadow: 0px 0px 12px #00000022;
+	margin-bottom: 2em;
 	/* border-radius: 0.3em; */
 	/* background: #fffff0;
 	border-left: 22px solid #fff;
