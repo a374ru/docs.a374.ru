@@ -438,6 +438,17 @@ table.gsc-search-box {
 	ul {
 		padding-inline-start: 19px;
 	}
+    
+    td:nth-child(2n-1){
+	/* color:red; */
+	padding:.1em .1em;
+}
+td>code{
+	color:#575757;
+	padding: .1rem;
+}
+
+
 }
 
 @media (max-width: 1024px) {
@@ -554,3 +565,4 @@ table.gsc-search-box {
 	bottom: -194px;
 	animation-delay: 34s;
 }
+
