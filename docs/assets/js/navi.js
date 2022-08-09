@@ -27,7 +27,7 @@ pageDict = {
 // Зачистка хранилища клавишей `ESCAPE`
 document.addEventListener('keyup', function (event) {
 	if (event.key) {
-		alert("ВЫ  ОЧИСТИТЬ ЛОКАЛЬНЫЕ ДАННЫЕ ЭТОГО РЕСУРСА");
+		alert("ВЫ ПОЧИСТИЛИ ЛОКАЛЬНЫЕ ДАННЫЕ ЭТОГО РЕСУРСА.\nЭТО ПОЛЕЗНО!");
 		localStorage.clear();
 	}
 });
@@ -37,7 +37,6 @@ if (localStorage.getItem("az") != 1) {
 
 	localStorage.setItem("color", '#fffaf5');
 }
-
 
 
 function switchColorScheme() {
