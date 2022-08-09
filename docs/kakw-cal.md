@@ -2,7 +2,7 @@
 
 # Утилита **`CAL`**
 
-<span id="az1-img" class="img" onclick="imgResize()">![img](assets/svg/comp-start.svg)</span>
+<span id="az1-img" class="img" onclick="imgResize()">![img](assets/svg/comp-cal.svg)</span>
 
 
 	SHELL, BASH …
