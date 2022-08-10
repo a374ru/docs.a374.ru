@@ -2,7 +2,7 @@
 
 # УПРАВЛЕНИЕ ДОКУМЕНТАЦИЕЙ
 
-<!-- ![image-top](https://1.bp.blogspot.com/-x5l0olq9E1o/YHarZgC6qzI/AAAAAAAAGdw/S9GF99vL8T0C7TmrNn445LevDG3AJCP3wCK4BGAYYCw/s400/icon_512x512-762681.png) -->
+<span id="page-name-img" class="img" onclick="imgResize()">![img](assets/svg/documents.svg)</span>
 
 
 ### MARKDOWN ДОКУМЕНТАЦИЯ
