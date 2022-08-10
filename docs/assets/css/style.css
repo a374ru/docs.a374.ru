@@ -63,6 +63,11 @@ body {
 	width: 77%;
 }
 
+#navi-page{
+	margin: 0 4vw;
+
+}
+
 .navi {
 	display: flex;
 	position: -webkit-sticky;
