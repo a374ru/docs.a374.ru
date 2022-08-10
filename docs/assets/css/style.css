@@ -318,11 +318,10 @@ table.gsc-search-box {
 	font-size: 1.7em !important;
 }
 .gs-webResult::before {
-	background: black;
-	border: .5em solid  red;
+	
+	border-left: .5% solid  red;
 /* 	border-radius: 55%; */
 	content:" ";
-	float: left;
 /* 	heigth: 33px; */
 	padding: 1%;
 	
