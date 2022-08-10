@@ -35,14 +35,14 @@ document.addEventListener('keyup', function (event) {
 // Проверка и установка стартового значения
 if (localStorage.getItem("az") != 1) {
 
-	localStorage.setItem("color", '#fffaf5');
+	localStorage.setItem("color", '#fffbf6');
 }
 
 
 function switchColorScheme() {
 
 
-	whiteBG = '#fffaf5';
+	whiteBG = localStorage.getItem("color", '#fffbf6');
 	darkBG = '#180000';
 	naviLight = `box-shadow: 0px 10 22 #fffaf5; background:linear-gradient(180deg, ${whiteBG} 0%, ##A78F5B 3%)`;
 	naviDark = `box-shadow: 0px 20px 52px #611816; background:linear-gradient(180deg, ${darkBG} 97%, red 1%)`;
