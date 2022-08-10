@@ -67,7 +67,7 @@ function switchColorScheme() {
 
 	}
 
-	// document.body.style.background = localStorage.getItem('color');
+	document.body.style.background = localStorage.getItem('color');
 	document.getElementsByClassName('navi')[0].style = localStorage.getItem('navidark');
 
 }
