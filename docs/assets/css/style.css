@@ -310,7 +310,23 @@ table.gsc-search-box {
 	border-radius: 7px;
 }
 .gs-webResult {
-	font-size: 3em !important;
+	font-size: 1.7em !important;
+}
+.gs-webResult::before {
+	background: black;
+	border: .5em solid  red;
+/* 	border-radius: 55%; */
+	content:" ";
+	float: left;
+/* 	heigth: 33px; */
+	padding: 1%;
+	
+}
+
+.gs-webResult{
+/* 	border-left: 44px solid  red; */
+	font-size: 2.3em !important;
+	
 }
 /*  end serch GOOGLE */
 
