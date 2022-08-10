@@ -2,7 +2,7 @@
 
 # Настройки редактора `VIM` (MacOS) с русским хелпом.
 
-![comp and vim ](assets/svg/comp-vim.svg)
+<span id="az-object-img" class="img" onclick="imgResize()">![comp and vim ](assets/svg/comp-vim.svg)</span>
 
 
 Друг мой, надо немного, но уметь пользоваться универсальным редактором.

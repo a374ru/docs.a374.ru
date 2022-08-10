@@ -1,11 +1,10 @@
 <div class="navi"><nav id="navi"><!-- js --></nav></div>
 
-
 # О шрифте
 
 <span id="fert-font-img" class="img" onclick="imgResize()">![img](assets/svg/fert-font.svg)</span>
 
-Шрифт является графическим отображением звуков исходящих из уст человека умеющего извлекать эти звуки. 
+Шрифт является графическим отображением звуков исходящих из уст человека умеющего извлекать эти звуки.
 
 [Пример шрифтов здесь…](https://a374ru.github.io/fontstest)
 
@@ -17,8 +16,6 @@
 
 Таким образом можно объяснять (письменно) многие понятия не отрываясь от `русского` письма.
 
-
-
 <br>
 
 […на главную](/)
@@ -26,6 +23,5 @@
 <br>
 
 <span id="dobro-day-img-2" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
-
 
 <script src="assets/js/navi.js"></script>
