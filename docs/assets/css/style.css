@@ -47,9 +47,8 @@ body {
 	padding-bottom: 12px;
 	color: #775738;
 	font-size: 27px;
-
-	/* Created with https://www.css-gradient.com */
-	background: #fffaf5;
+/* ----------------------------------------------------------------- */
+	background: #fffbf6;
 	background: -webkit-linear-gradient(top, #fffaf5, #fff9ec);
 	background: -moz-linear-gradient(top, #fffaf5, #fff9ec);
 	background: linear-gradient(to bottom, #fffaf5, #fff9ec);
