@@ -49,9 +49,9 @@ body {
 	font-size: 27px;
 /* ----------------------------------------------------------------- */
 	background: #fffbf6;
-	background: -webkit-linear-gradient(top, #fffaf5, #fff9ec);
-	background: -moz-linear-gradient(top, #fffaf5, #fff9ec);
-	background: linear-gradient(to bottom, #fffaf5, #fff9ec);
+	background: -webkit-linear-gradient(top, #fffbf6, #fff9ec);
+	background: -moz-linear-gradient(top, #fffbf6, #fff9ec);
+	background: linear-gradient(to bottom, #fffbf6, #fff9ec);
 }
 
 .markdown-body {
