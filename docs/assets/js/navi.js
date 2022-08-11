@@ -78,7 +78,13 @@ function switchColorScheme() {
 document.body.style.background = localStorage.getItem('color');
 document.getElementsByClassName('navi')[0].style = localStorage.getItem('navidark');
 
-folderProjectOfGitHub = "/" + document.location.pathname.split('/')[1];
+
+
+/** Для домена второго уровня на хостинге `github-pages`.
+
+	Для доменов третьего уровня смените 0 на 1.
+*/
+folderProjectOfGitHub = document.location.pathname.split('/')[0] === '/' ? '' : '';
 
 
 // словарь ключей для рандомной-сортировки
