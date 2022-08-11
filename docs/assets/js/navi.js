@@ -36,14 +36,14 @@ document.addEventListener('keyup', function (event) {
 // Проверка и установка стартового значения
 if (localStorage.getItem("az") != 1) {
 
-	localStorage.setItem("color", '#fffbf6');
+	localStorage.setItem("color", '#ffffff');
 }
 
 
 function switchColorScheme() {
 
 
-	whiteBG = '#fffbf6';
+	whiteBG = '#ffffff';
 	darkBG = '#180000';
 	naviLight = `box-shadow: 0px 10 22 #fffaf5; background:linear-gradient(180deg, ${whiteBG} 91%, #b36c71 7%)`;
 	naviDark = `box-shadow: 0px 20px 52px #611816; background:linear-gradient(180deg, ${darkBG} 97%, red 1%)`;
@@ -84,7 +84,9 @@ document.getElementsByClassName('navi')[0].style = localStorage.getItem('navidar
 
 	Для доменов третьего уровня смените 0 на 1.
 */
-folderProjectOfGitHub = document.location.pathname.split('/')[0] === '/' ? '' : '';
+
+tempVar = document.location.pathname.split('/')[0];
+folderProjectOfGitHub = tempVar === '/' ? '' : `/${tempVar}`;
 
 
 // словарь ключей для рандомной-сортировки
