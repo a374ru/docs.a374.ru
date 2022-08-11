@@ -74,7 +74,7 @@ body {
 	margin-left: -5px;
 	top: -4px;
 	/* font-size: 1.4vw; */
-	background: linear-gradient(0deg, darkgoldenrod -10%, #fffaf5 12%);
+	background: linear-gradient(0deg, darkgoldenrod -10%, #fffbf6 12%);
 	border-radius: 0px 0px 10px 10px;
 	justify-content: space-around;
 	align-content: center;
@@ -380,7 +380,7 @@ table.gsc-search-box {
 	}
 	.navi {
 		position: sticky;
-		background: linear-gradient(180deg, #8563 1%, #fffaf5 3%);
+		background: linear-gradient(180deg, #8563 1%, #fffbf6 3%);
 	}
 }
 
@@ -420,7 +420,7 @@ table.gsc-search-box {
 
 	.navi {
 		position: relative;
-		background: linear-gradient(180deg, #8563 1%, #fffaf5 3%);
+		background: linear-gradient(180deg, #8563 1%, #fffbf6 3%);
 	}
 
 	/* 	меняем местами .navi с <H1> */
