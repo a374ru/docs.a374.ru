@@ -2,7 +2,7 @@
 
 # GIT управление снаружи и внутри
 
-![image](assets/img/key-hub.png)
+<span id="buki-bookmarks-img" class="img" onclick="imgResize(55)">![image](assets/img/key-hub.png)</span>
 
 ### ЛОКАЛЬНАЯ СИНХРОНИЗАЦИЯ
 

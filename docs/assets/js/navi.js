@@ -1,10 +1,6 @@
-/**
- *  Словарь доступных страниц ссылок.
- * Добавили страницу – добавили строку в словарь.
- * 
- */
 pageDict = {
 	"dobro-day": "Сий День",
+	// "404": "Страница не найдена",
 	"az": "Азъ",
 	"fert-font": "О шрифте",
 	"glagol-git": "GIT",
@@ -23,10 +19,83 @@ pageDict = {
 	"slovo-server": "Сервер",
 	"tako-type": "Типы данных",
 	"kakw-colors": "Цветы",
+	"kakw-cal": "NCAL утилита Shell",
 	"search-result": "Поиск 🔍",
 	"navi-page": "Оглавление",
+};
+// ========== to local Storage ======================
+
+// Зачистка хранилища клавишей `ESC`
+document.addEventListener('keyup', function (event) {
+	if (event.key === 'Escape') {
+		alert("ВЫ ПОЧИСТИЛИ ЛОКАЛЬНЫЕ ДАННЫЕ ЭТОГО РЕСУРСА.\nЭТО ПОЛЕЗНО!");
+		localStorage.clear();
+	}
+});
+
+// Проверка и установка стартового значения
+if (localStorage.getItem("az") != 1) {
+
+	localStorage.setItem("color", '#ffffff');
+}
+
+
+function switchColorScheme() {
+
+
+	whiteBG = '#ffffff';
+	darkBG = '#180000';
+	naviLight = `box-shadow: 0px 10 22 #fffaf5; background:linear-gradient(180deg, ${whiteBG} 91%, #b36c71 7%)`;
+	naviDark = `box-shadow: 0px 20px 52px #611816; background:linear-gradient(180deg, ${darkBG} 97%, red 1%)`;
+
+	trgr = localStorage.getItem('color') == whiteBG ? true : false;
+
+	localStorage.setItem(
+		'ystm', 'Yabo-system © Third Millennium'
+	)
+
+	localStorage.setItem(
+		'az', 1
+	)
+
+	if (!trgr) {
+		localStorage.setItem('color', whiteBG);
+		localStorage.setItem('navidark', naviLight);
+
+	} else {
+		localStorage.setItem('color', darkBG);
+		localStorage.setItem('navidark', naviDark);
+
+	}
+
+	document.body.style.background = localStorage.getItem('color');
+	document.getElementsByClassName('navi')[0].style = localStorage.getItem('navidark');
 
 }
+// =================end localStorage =============
+
+//  Download default value of localStorage
+document.body.style.background = localStorage.getItem('color');
+document.getElementsByClassName('navi')[0].style = localStorage.getItem('navidark');
+
+
+
+/** Для домена второго уровня на хостинге `github-pages`.
+
+	Для доменов третьего уровня смените 0 на 1.
+*/
+
+tempVar = document.location.pathname.split('/')[0];
+folderProjectOfGitHub = tempVar === '/' ? '' : `/${tempVar}`;
+
+
+// словарь ключей для рандомной-сортировки
+keyPageDict = [];
+for (const key in pageDict) {
+	keyPageDict.push(key);
+}
+// Случайная сортировка
+keyPageDict.sort(() => Math.random() - 0.5);
 
 navi_page = 'navi-page';
 
@@ -34,6 +103,11 @@ navi_page = 'navi-page';
  * Ключ текущей просматриваемой страницы
  */
 keyDay = "";
+
+/**
+ * Количество елементов в меню навигации.
+ */
+itemsNavi = 8;
 
 /**
  * Функция разбирает  URL текущей страницы
@@ -76,28 +150,39 @@ function toNavi() {
 
 	counter = 1;
 	htmlString = "";
-	rnd = Math.floor(Math.random() * (5 - 2)) + 2;
 
-	function getRandomIntInclusive(min, max) {
-		min = Math.ceil(min);
-		max = Math.floor(max);
-		return Math.floor(Math.random() * (max - min + 1)) + min;
-		//Максимум и минимум включаются
-	}
+	for (const key of keyPageDict) {
 
-	for (const key in pageDict) {
+		if (key != keyDay && counter < itemsNavi && key != 'dobro-day' && key != '404' && key != 'search-result') {
 
-		if (Object.hasOwnProperty.call(pageDict, key) && key != keyDay && counter % getRandomIntInclusive(5, 1) && counter < 10 && key != 'dobro-day') {
-			const element = pageDict[key];
-			htmlString += `<div class="navi-item"><a href="${key}">${element}</a> </div>`;
+			if (!pageDict[key].split(' ')[1]) {
+				var element = pageDict[key];
+
+			} else if (pageDict[key].split(' ').length > 1) {
+				var element = pageDict[key].slice(0, 7);
+
+			}
+
+			if (element.length > 8 || element.split(' ').length > 1) {
+				element = element.slice(0, element.length - 3) + "…";
+			}
+
+			htmlString += `<div class="navi-item"><a title="${pageDict[key]}" href="${folderProjectOfGitHub}${key}">${element}</a> </div>`;
+			counter += 1;
+
 		}
-		this.counter += 1;
+		if (counter == itemsNavi) {
+			break;
+		}
 
 	}
 
 	cday = new Date().getDate();
 
-	htmlString += `<div class="navi-item" id="day"><span id="dobro-day"><a href="dobro-day">День</a> </span><span class="number-day" id="number-day"><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html">${cday}</a></span></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="navi-page#navi">√</a></div>`
+	htmlString += `<div class="navi-item" id="day"><a href="dobro-day"><span id="dobro-day">День </span></a><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html"><span class="${folderProjectOfGitHub}number-day" id="number-day">${cday}</span></a></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="${folderProjectOfGitHub}navi-page#navi">√</a></div><div class="navi-item" title="Цветность" id="colorScheme"><a onclick="switchColorScheme()">
+<span class="material-icons-two-tone">
+invert_colors
+</span></a></div>`
 	return htmlString;
 
 }
@@ -110,6 +195,11 @@ function navi() {
 
 navi();
 
+/** Увеличивает картинку по клику по заданным параметрам.
+ * 
+ * @param {int} rsz увеличение размера картинки при клике
+ * @param {int} speed animation 
+ */
 function rsz(rsz = 100, speed = 0.1) {
 
 	let array = document.querySelectorAll('img');
@@ -123,14 +213,19 @@ function rsz(rsz = 100, speed = 0.1) {
 }
 count = 1;
 
+/** Уменьшает картинку по клику по заданным параметрам.
+ * 
+ * @param {*} par 
+ * @param {*} speed 
+ */
 function imgResize(par, speed) {
-
 
 	if (count % 2) {
 		rsz(par, speed);
 		// alert();
 	} else
-		rsz(22); // ширина в `%` для `image` при втором клике
+		rsz(22);
+	// ширина в `%` для `image` при втором клике
 
 	count = count + 1;
 
@@ -149,13 +244,12 @@ function naviPage() {
 
 			list += `
 		
-		<span class="navi-item" style="background: #ffffff88; padding: 0em 1em;margin: 1em 1em 0em 0em; line-height: 2"><a href="${ii}"> ${pageDict[ii]} </a></span>
+		<span class="navi-item" style="background: #fef4e8; padding: 0em 1em;margin: 1em 1em 0em 0em; line-height: 2"><a href="${ii}"> ${pageDict[ii]} </a></span>
 
-		`}
+		`
+		}
 	}
 	naviDiv = "<span>" + list + "<span>";
-
-	console.log(naviDiv);
 
 	document.getElementById('navi-page').innerHTML = naviDiv;
 }
