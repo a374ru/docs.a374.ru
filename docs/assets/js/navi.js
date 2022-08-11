@@ -1,5 +1,6 @@
 pageDict = {
 	"dobro-day": "Сий День",
+	"404": "Страница не найдена",
 	"az": "Азъ",
 	"fert-font": "О шрифте",
 	"glagol-git": "GIT",
@@ -142,7 +143,7 @@ function toNavi() {
 
 	for (const key of keyPageDict) {
 
-		if (key != keyDay && counter < itemsNavi && key != 'dobro-day' && key != 'search-result') {
+		if (key != keyDay && counter < itemsNavi && key != 'dobro-day' && key != '404' && key != 'search-result') {
 
 			if (!pageDict[key].split(' ')[1]) {
 				var element = pageDict[key];
