@@ -167,7 +167,7 @@ function toNavi() {
 				element = element.slice(0, element.length - 3) + "…";
 			}
 
-			htmlString += `<div class="navi-item"><a title="${pageDict[key]}" href="${folderProjectOfGitHub}/${key}">${element}</a> </div>`;
+			htmlString += `<div class="navi-item"><a title="${pageDict[key]}" href="${folderProjectOfGitHub}${key}">${element}</a> </div>`;
 			counter += 1;
 
 		}
@@ -179,7 +179,7 @@ function toNavi() {
 
 	cday = new Date().getDate();
 
-	htmlString += `<div class="navi-item" id="day"><a href="dobro-day"><span id="dobro-day">День </span></a><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html"><span class="${folderProjectOfGitHub}/number-day" id="number-day">${cday}</span></a></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="${folderProjectOfGitHub}/navi-page#navi">√</a></div><div class="navi-item" title="Цветность" id="colorScheme"><a onclick="switchColorScheme()">
+	htmlString += `<div class="navi-item" id="day"><a href="dobro-day"><span id="dobro-day">День </span></a><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html"><span class="${folderProjectOfGitHub}number-day" id="number-day">${cday}</span></a></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="${folderProjectOfGitHub}navi-page#navi">√</a></div><div class="navi-item" title="Цветность" id="colorScheme"><a onclick="switchColorScheme()">
 <span class="material-icons-two-tone">
 invert_colors
 </span></a></div>`
