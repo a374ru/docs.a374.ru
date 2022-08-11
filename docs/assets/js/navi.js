@@ -45,7 +45,7 @@ function switchColorScheme() {
 
 	whiteBG = '#fffbf6';
 	darkBG = '#180000';
-	naviLight = `box-shadow: 0px 10 22 #fffaf5; background:linear-gradient(180deg, ${whiteBG} 0%, ##A78F5B 3%)`;
+	naviLight = `box-shadow: 0px 10 22 #fffaf5; background:linear-gradient(180deg, ${whiteBG} 91%, #b36c71 7%)`;
 	naviDark = `box-shadow: 0px 20px 52px #611816; background:linear-gradient(180deg, ${darkBG} 97%, red 1%)`;
 
 	trgr = localStorage.getItem('color') == whiteBG ? true : false;

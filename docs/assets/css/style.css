@@ -47,7 +47,7 @@ body {
 	padding-bottom: 12px;
 	color: #775738;
 	font-size: 27px;
-/* ----------------------------------------------------------------- */
+/* --------------------------off--------------------------------------- */
 	/* background: #fffbf6; */
 	/* background: -webkit-linear-gradient(top, #fffbf6, #fff9ec);
 	background: -moz-linear-gradient(top, #fffbf6, #fff9ec);
@@ -74,12 +74,12 @@ body {
 	margin-left: -5px;
 	top: -4px;
 	/* font-size: 1.4vw; */
-	background: linear-gradient(0deg, #b8860b 1%, #fffbf6 7%);
+	background: linear-gradient(0deg, #b8860b 91%, #ffffff 7%);
 	border-radius: 0px 0px 10px 10px;
 	justify-content: space-around;
 	align-content: center;
 	z-index: 999;
-	box-shadow: 0px 6px 19px 14px #fffaf6, 0px 0px 24px 18px #fffaf6;
+	box-shadow: 0px 6px 19px 14px #ffffff, 0px 0px 24px 18px #ffffff;
 	padding-bottom: 7px;
 }
 
@@ -338,7 +338,7 @@ table.gsc-search-box {
 #ya-site-results {
 	color: #c60;
 	font-size: 0em;
-	background: #fffaf600 !important;
+	background: #ffffff00 !important;
 	transform: rotate(1deg);
 }
 
