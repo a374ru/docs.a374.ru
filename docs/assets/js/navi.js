@@ -142,14 +142,15 @@ function namePage() {
 }
 
 /**
- * Функция составляет меню из словаря
+ * Функция составляет навигацию липкого-бара из станиц словаря
  * 
  * @returns HTML строку
  */
 function toNavi() {
 
 	counter = 1;
-	htmlString = "";
+	htmlString = `<div class="navi-item" id="navi-icon-home"><a href="${folderProjectOfGitHub}"><span class="material-icons-two-tone">
+home</span></a></div>`;
 
 	for (const key of keyPageDict) {
 
@@ -179,7 +180,7 @@ function toNavi() {
 
 	cday = new Date().getDate();
 
-	htmlString += `<div class="navi-item" id="day"><a href="dobro-day"><span id="dobro-day">День </span></a><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html"><span class="${folderProjectOfGitHub}number-day" id="number-day">${cday}</span></a></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="${folderProjectOfGitHub}navi-page#navi">√</a></div><div class="navi-item" title="Цветность" id="colorScheme"><a onclick="switchColorScheme()">
+	htmlString += `<div class="navi-item" id="navi-day"><a href="dobro-day"><span id="navi-dobro-day">День </span></a><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html"><span class="${folderProjectOfGitHub}number-day" id="number-day">${cday}</span></a></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="${folderProjectOfGitHub}navi-page#navi">√</a></div><div class="navi-item" title="Цветность" id="colorScheme"><a onclick="switchColorScheme()">
 <span class="material-icons-two-tone">
 invert_colors
 </span></a></div>`
