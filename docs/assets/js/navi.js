@@ -265,7 +265,7 @@ if (keyDay == navi_page) {
 function kern() {
 
 	rrr = document.getElementById('kern').style.fontKerning;
-	const color = document.getElementById('kern').style.color;
+	color = document.getElementById('kern').style.color;
 
 	if (rrr === 'none') {
 		document.getElementById('kern').style.fontKerning = "normal";
