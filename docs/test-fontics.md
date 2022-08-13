@@ -12,11 +12,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Без кернинга
 
-<span style="font-kerning: none">
+<span style="font-kerning: none">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam etiam erat velit scelerisque in dictum non. Morbi tristique senectus et netus et. Pellentesque diam volutpat commodo sed egestas egestas fringilla. In hac habitasse platea dictumst vestibulum rhoncus est. Tellus in hac habitasse platea dictumst vestibulum. Vivamus at augue eget arcu dictum varius. Praesent tristique magna sit amet purus gravida quis blandit turpis. Ultricies lacus sed turpis tincidunt id. Arcu felis bibendum ut tristique et. Proin libero nunc consequat interdum. Sed arcu non odio euismod.</span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam etiam erat velit scelerisque in dictum non. Morbi tristique senectus et netus et. Pellentesque diam volutpat commodo sed egestas egestas fringilla. In hac habitasse platea dictumst vestibulum rhoncus est. Tellus in hac habitasse platea dictumst vestibulum. Vivamus at augue eget arcu dictum varius. Praesent tristique magna sit amet purus gravida quis blandit turpis. Ultricies lacus sed turpis tincidunt id. Arcu felis bibendum ut tristique et. Proin libero nunc consequat interdum. Sed arcu non odio euismod.
 
-</span>
+|С керном | Без керна |
+|:---:|:---:|
+|Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam etiam erat velit scelerisque in dictum non. Morbi tristique senectus et netus et. Pellentesque diam volutpat commodo sed egestas egestas fringilla. In hac habitasse platea dictumst vestibulum rhoncus est. Tellus in hac habitasse platea dictumst vestibulum. Vivamus at augue eget arcu dictum varius. Praesent tristique magna sit amet purus gravida quis blandit turpis. Ultricies lacus sed turpis tincidunt id. Arcu felis bibendum ut tristique et. Proin libero nunc consequat interdum. Sed arcu non odio euismod.|<span style="font-kerning: none; color: #000">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam etiam erat velit scelerisque in dictum non. Morbi tristique senectus et netus et. Pellentesque diam volutpat commodo sed egestas egestas fringilla. In hac habitasse platea dictumst vestibulum rhoncus est. Tellus in hac habitasse platea dictumst vestibulum. Vivamus at augue eget arcu dictum varius. Praesent tristique magna sit amet purus gravida quis blandit turpis. Ultricies lacus sed turpis tincidunt id. Arcu felis bibendum ut tristique et. Proin libero nunc consequat interdum. Sed arcu non odio euismod.</span>|
+
+
+
+
+
+
 
 <br>
 
