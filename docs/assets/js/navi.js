@@ -45,8 +45,8 @@ function switchColorScheme() {
 
 	whiteBG = '#ffffff';
 	darkBG = '#180000';
-	naviLight = `box-shadow: 0px 10 22 #fffaf5; background:linear-gradient(180deg, ${whiteBG} 91%, #b36c71 7%)`;
-	naviDark = `box-shadow: 0px 20px 52px #611816; background:linear-gradient(180deg, ${darkBG} 97%, red 1%)`;
+	naviLight = `box-shadow: 0px 10 22 #fffaf5; background:linear-gradient(180deg, ${whiteBG} 98%, #b36c71 1%)`;
+	naviDark = `box-shadow: 0px 20px 52px #611816; background:linear-gradient(180deg, ${darkBG} 98%, red 1%)`;
 
 	trgr = localStorage.getItem('color') == whiteBG ? true : false;
 
@@ -180,7 +180,7 @@ home</span></a></div>`;
 
 	cday = new Date().getDate();
 
-	htmlString += `<div class="navi-item" id="navi-day"><a href="dobro-day"><span id="navi-dobro-day">День </span></a><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html"><span class="${folderProjectOfGitHub}number-day" id="number-day">${cday}</span></a></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="${folderProjectOfGitHub}navi-page#navi">√</a></div><div class="navi-item" title="Цветность" id="colorScheme"><a onclick="switchColorScheme()">
+	htmlString += `<div class="navi-item" id="navi-day"><a href="dobro-day"><span id="navi-dobro-day">День </span></a><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html"><span class="${folderProjectOfGitHub}number-day" id="number-day">${cday}</span></a></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="${folderProjectOfGitHub}navi-page#navi"><span class="material-icons-two-tone">manage_search</span></a></div><div class="navi-item" title="Цветность" id="colorScheme"><a onclick="switchColorScheme()">
 <span class="material-icons-two-tone">
 invert_colors
 </span></a></div>`
