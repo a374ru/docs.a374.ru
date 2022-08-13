@@ -154,7 +154,7 @@ td {
 
 td:nth-child(2n-1) {
 	color:#777;
-	padding: 1rem 4rem;
+	padding: 1rem 1rem;
 }
 
 td > code {
