@@ -258,3 +258,19 @@ function naviPage() {
 if (keyDay == navi_page) {
 	naviPage()
 }
+
+
+// ----- kern()----
+
+function kern() {
+
+	rrr = document.getElementById('kern').style.fontKerning;
+
+	if (rrr === 'none') {
+		document.getElementById('kern').style.fontKerning = "normal";
+	} else {
+		document.getElementById('kern').style.fontKerning = "none";
+	}
+}
+
+// ---------end kern()-----
