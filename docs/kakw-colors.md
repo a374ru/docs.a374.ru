@@ -2,7 +2,7 @@
 
 # Цвéточная схема для web a374
 
-![colors map](assets/img/colors-a374ru.jpeg)
+<span id="az1-img" class="img" onclick="imgResize()">![img](assets/svg/colors-site.svg)</span>
 
 Основные цвета используемые в проекте и палитре
 ---
