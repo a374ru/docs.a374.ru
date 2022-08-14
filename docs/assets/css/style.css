@@ -47,7 +47,7 @@ body {
 	padding-bottom: 12px;
 	color: #775738;
 	font-size: 27px;
-/* --------------------------off--------------------------------------- */
+	/* --------------------------off--------------------------------------- */
 	/* background: #fffbf6; */
 	/* background: -webkit-linear-gradient(top, #fffbf6, #fff9ec);
 	background: -moz-linear-gradient(top, #fffbf6, #fff9ec);
@@ -61,9 +61,8 @@ body {
 	width: 77%;
 }
 
-#navi-page{
+#navi-page {
 	margin: 0 4vw;
-
 }
 
 .navi {
@@ -141,6 +140,7 @@ table {
 	padding: 1.5%;
 	transform: rotate(0deg);
 	box-shadow: 0px 0px 12px #00000022;
+	margin-top: 2em;
 	margin-bottom: 2em;
 	/* border-radius: 0.3em; */
 	/* background: #fffff0;
@@ -153,9 +153,10 @@ td {
 }
 
 td:nth-child(2n-1) {
-	/* color:red; */
-	padding: 1rem 4rem;
+	color: #777;
+	padding: 1rem 1rem;
 }
+
 td > code {
 	color: #575757;
 	padding: 0.5rem;
@@ -169,8 +170,8 @@ h1 {
 	font-size: var(--fontSize-H1);
 	text-transform: uppercase;
 	overflow-wrap: break-word;
-	transform: rotate(358deg);
-	font-family: "Fontics";
+	transform: rotate(0deg); /* При наклоне элемента шрифт отображает некоторые символы с контуром. */
+	/* font-family: "Fontics"; */
 }
 
 h1::first-letter {
@@ -304,6 +305,7 @@ table.gsc-search-box {
 	/* font-size: 16px !important; */
 	transform: rotate(0deg) !important;
 	margin-bottom: 0;
+	margin-top: 0em;
 }
 .gsc-search-button-v2 {
 	font-size: 0px;
@@ -316,10 +318,9 @@ table.gsc-search-box {
 	font-size: 1.7em !important;
 }
 
-.gs-webResult{
-/* 	border-left: 44px solid  red; */
+.gs-webResult {
+	/* 	border-left: 44px solid  red; */
 	font-size: 2.3em !important;
-	
 }
 /*  end serch GOOGLE */
 
