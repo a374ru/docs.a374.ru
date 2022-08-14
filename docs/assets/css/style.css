@@ -249,12 +249,12 @@ li {
 	padding: 1px 22px 0.7em 0px;
 }
 
-#day {
+#navi-day {
 	transform: rotate(0deg);
 	background: #fff;
 }
 
-/* #dobro-day {
+/* #navi-dobro-day {
 	display: absolute;
 		background: #f8ffd9;
 		transform: rotate(10deg);
