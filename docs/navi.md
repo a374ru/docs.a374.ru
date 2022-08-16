@@ -8,25 +8,26 @@
 
 ## АЗЪ
 
-1. [Азъ](az.md)
-1. [Переменная](az-peremennaya.md)
-1. [Объект](az-object.md)
-<!-- 2. [My English](abc/readme.md) -->
+1. [Азъ](az)
+1. [Переменная](az-peremennaya)
+1. [Объект](az-object)
+2. [Скрипт Апракос TS](az-apr-ts)
+<!-- 2. [My English](abc/readme) -->
 
 ## БУКИ
 
-1. [Соглашение](buki.md)
-2. [Букмарки](buki-bukmarki.md)
-3. [Настройки](buki-set.md)
+1. [Соглашение](buki)
+2. [Букмарки](buki-bukmarki)
+3. [Настройки](buki-set)
 
 ## ВЕДИ
 
-1. [VIM](vedi-vim.md)
-2. [Ведение документации](vedi-documents.md)
+1. [VIM](vedi-vim)
+2. [Ведение документации](vedi-documents)
 
 ## ГЛАГОЛ
 
-1. [GIT](glagol-git.md)
+1. [GIT](glagol-git)
 
 ## ЗЕМЛЯ
 
@@ -40,7 +41,7 @@
 
 ## ПОКОЙ
 
-1. [Провал](pokoy-proval.md)
+1. [Провал](pokoy-proval)
 
 
 ### Проекты готовые:
@@ -67,7 +68,7 @@
 
 ## Ферт
 
-1. [О шрифте](fert-font.md)
+1. [О шрифте](fert-font)
 
 <!-- <br>
 

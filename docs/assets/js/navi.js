@@ -2,6 +2,7 @@ pageDict = {
 	"dobro-day": "Сий День",
 	// "404": "Страница не найдена",
 	"az": "Азъ",
+	"az-apr-ts": "APR-TS",
 	"test-fontics": "Кернинг тест",
 	"fert-font": "О шрифте",
 	"glagol-git": "GIT",

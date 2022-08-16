@@ -2,7 +2,7 @@
 
 # Немного о  SHELL
 
-![shell](assets/img/shell.png)
+<span id="az-object-img" class="img" onclick="imgResize()">![shell](assets/img/shell.png)</span>
 
 >Mac OS
 
