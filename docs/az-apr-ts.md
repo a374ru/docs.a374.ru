@@ -2,7 +2,7 @@
 
 # СКРИПТ АПРАКОСА
 
-![image-top](assets/svg/comp-start.svg)
+<span id="page-name-img" class="img" onclick="imgResize()">![image-top](assets/img/apr_docs.png)</span>
 
 
 ## Typescript
@@ -22,7 +22,7 @@
 
 <br>
 
-![image-bottom](assets/svg/comp-end.svg)
+<span id="page-name-img" class="img" onclick="imgResize()">![image-bottom](assets/svg/comp-end.svg)</span>
 
 
 <script src="assets/js/navi.js"></script>
