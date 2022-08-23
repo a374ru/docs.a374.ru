@@ -16,6 +16,7 @@ pageDict = {
 	"az-object": "Объект",
 	"buki": "Соглашение",
 	"buki-bukmarki": "Букмарки",
+	"dobro-django": "Джанго",
 	// "buki-problems-ts": "Проблемы",
 	// "slovo-shell": "Шелл",
 	"slovo-server": "Сервер",
