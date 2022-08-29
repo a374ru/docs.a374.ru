@@ -355,6 +355,10 @@ table.gsc-search-box {
 	display: inherit;
 }
 
+details{
+margin-bottom: 2em;
+}
+
 /* end yandex search */
 
 /* ===============@media====================== */
