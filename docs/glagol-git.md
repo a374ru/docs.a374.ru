@@ -18,6 +18,7 @@ git config --get core.excludesfile
 git config --global core.excludesFile ~/.gitignore_global
 ```
 <details>
+
 <summary>Пример файла</summary>
 
 ```sh
@@ -108,6 +109,7 @@ tags
 # Должен присутствовать всегда (should be)
 !000.png
 ```
+
 </details>
 
 Пример такого файла [здесь…](../external/gitignore_global.txt)
