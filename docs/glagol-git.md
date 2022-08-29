@@ -13,108 +13,14 @@
 ```sh
 git config --get core.excludesfile
 ```
-1. Если что-то не так, то просто установите наш файл в качестве глобального.
+1. Если что-то не так, то просто установите ваш файл в качестве глобального.
 ```sh
 git config --global core.excludesFile ~/.gitignore_global
 ```
-<details>
 
-<summary>Пример файла</summary>
+<span style="color: #8F7161;">Пример содержимого такого файла [здесь…](../external/gitignore_global.txt)
 
-```sh
-# ГЛОБАЛЬНЫЙ ИГНОРИК
-# ==================
-
-
-# ********************
-#  ---- folders -----
-# ********************
-
-*-GITOFF/
-000/
-.myname/
-/ystm
-rrr/
-RRR/
-XXX/
-*-xxx/
-xxx/
-node_modules/
-test-*/
-task*/
-
-# python
-bin/
-include/
-lib/
-*.pyc
-
-# ********************
-#  ---- files -----
-# ********************
-
-!000.jpeg
-!000.jpg
-
-.DS_Store
-*OFFGIT.*
-*GITOFF.*
-Icon?
-Icon
-000.*
-*-off.*
-*-xxx.*
-*-XXX.*
-*-test.*
-*.zip
-*.pxm
-*.art
-*.rtf
-*.rtdf
-*.pdf
-*.workflow
-*.key
-*.pages
-*.band
-*.glyphs
-test.*
-*.vscode
-*.ystm
-*.workflow
-
-*.*~
-
-# =-=-=-=-=-=-=-=-=-=- REGEXP
-
-# Swap
-[._]*.s[a-v][a-z]
-!*.svg  # comment out if you don't need vector files
-[._]*.sw[a-p]
-[._]s[a-rt-v][a-z]
-[._]ss[a-gi-z]
-[._]sw[a-p]
-
-# Session
-Session.vim
-Sessionx.vim
-
-# Temporary
-.netrwhist
-*~
-# Auto-generated tag files
-tags
-# Persistent undo
-[._]*.un~
-
-# Должен присутствовать всегда (should be)
-!000.png
-```
-
-</details>
-
-Пример такого файла [здесь…](../external/gitignore_global.txt)
-
-<span style="color: #e34234;">ВАЖНО</span> сразу укажите имена личных своих папок, файлов или префиксов (постфиксов) и далее спокойно используйте их в любых проектах для тестирования, отключения и тд… Это очень удобно. Такие файлы никогда не попадут в публичный доступ. 
+<span style="color: #e34234;">ВАЖНО</span> сразу укажите имена личных своих папок, файлов или префиксов (постфиксов), далее спокойно используйте их в любых проектах для тестирования, отключения и тд… Это очень удобно. Такие файлы никогда не попадут в публичный доступ. 
 
 
 ### ЛОКАЛЬНАЯ СИНХРОНИЗАЦИЯ

@@ -6,20 +6,25 @@
 #  ---- folders -----
 # ********************
 
+# Временное отключение от GIT постфиксом
 *-GITOFF/
+*-xxx/
+test-*/
+task*/
+
+# Никогда не отслеживаемые директории
 000/
 .myname/
 /ystm
 rrr/
 RRR/
 XXX/
-*-xxx/
 xxx/
-node_modules/
-test-*/
-task*/
 
-# python
+# NodeJS
+node_modules/
+
+# Python
 bin/
 include/
 lib/
@@ -29,6 +34,8 @@ lib/
 #  ---- files -----
 # ********************
 
+# Не игнорировать
+!000.png
 !000.jpeg
 !000.jpg
 
@@ -37,6 +44,7 @@ lib/
 *GITOFF.*
 Icon?
 Icon
+
 000.*
 *-off.*
 *-xxx.*
@@ -45,6 +53,8 @@ Icon
 *.zip
 *.pxm
 *.art
+*.vectornator
+*.psd
 *.rtf
 *.rtdf
 *.pdf
@@ -70,17 +80,17 @@ test.*
 [._]ss[a-gi-z]
 [._]sw[a-p]
 
-# Session
+# Session VIM
 Session.vim
 Sessionx.vim
 
 # Temporary
 .netrwhist
 *~
+
 # Auto-generated tag files
 tags
+
 # Persistent undo
 [._]*.un~
 
-
-!000.png
