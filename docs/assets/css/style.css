@@ -243,10 +243,12 @@ img {
 ul {
 	overflow: hidden;
 	margin-left: 11px;
+	margin-bottom: 1em;
 }
 
 li {
-	list-style-type: none;
+	/* list-style-type: none; */
+	color: #777;
 	font-size: 1.1em;
 	padding: 1px 22px 0.7em 0px;
 }
