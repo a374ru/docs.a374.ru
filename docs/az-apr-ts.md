@@ -5,7 +5,7 @@
 <span id="page-name-img" class="img" onclick="imgResize()">![image-top](assets/img/apr_docs.png)</span>
 
 
-## Typescript
+	Typescript
 
 [Здесь…](https://a374ru.github.io/aprakos-ts/generated/index.html) можно ознакомиться с документацией скрипта написанного на языке `Typescript`.
 

@@ -4,6 +4,7 @@
 
 <span id="page-name-img" class="img" onclick="imgResize()">![img](assets/svg/documents.svg)</span>
 
+	Markdown files
 
 ### MARKDOWN ДОКУМЕНТАЦИЯ
 

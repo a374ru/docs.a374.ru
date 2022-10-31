@@ -1,9 +1,12 @@
 <div class="navi"> <nav id="navi"> <!-- js --> </nav></div>
 
+
 # Азъ объектъ
 
 <span id="az-object-img" class="img" onclick="imgResize()">![Кого подключать](assets/svg/objects.svg)</span>
 
+	Программирование
+	
 ### Первый объект
 
 Эта страница есть наш первый объект, к которому и нужно привязать переменную

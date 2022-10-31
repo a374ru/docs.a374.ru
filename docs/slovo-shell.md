@@ -4,7 +4,7 @@
 
 <span id="az-object-img" class="img" onclick="imgResize()">![shell](assets/img/shell.png)</span>
 
->Mac OS
+	Mac OS
 
 [Документация здесь…](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/BeforeYouBegin/BeforeYouBegin.html#//apple_ref/doc/uid/TP40004268-CH1-SW1)
 

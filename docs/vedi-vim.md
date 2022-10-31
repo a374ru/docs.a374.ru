@@ -4,6 +4,7 @@
 
 <span id="az-object-img" class="img" onclick="imgResize()">![comp and vim ](assets/svg/comp-vim.svg)</span>
 
+    VIM installation
 
 Друг мой, нужно обязательно уметь пользоваться универсальным редактором.
 
