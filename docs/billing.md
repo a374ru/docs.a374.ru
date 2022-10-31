@@ -4,7 +4,7 @@
  
 <span id='billing-img' class="img" onclick="imgResize()">![Как подключать](assets/svg/billing.svg)</span>
 
-    Разграничение ответственности
+    BILLING
 
 ### Требуется установить отношения по оплате технической части проекта.
 
@@ -40,5 +40,7 @@ Eсли заказчик предполагает сам управлять ка
 […на главную](/)
 
 <br>
+
+<span id="page-name-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>

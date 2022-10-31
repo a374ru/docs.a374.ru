@@ -2,9 +2,10 @@
 
 # УПРАВЛЕНИЕ ВЛОЖЕНИЯМИ !
 
-![img](assets/svg/comp-4.svg)	
 
-	К вложениям относятся:
+<span id="az-assets-img" class="img" onclick="imgResize()">![img](assets/svg/comp-4.svg)</span>	
+
+	DOCUMENTATION
 
 ## Картинки по именам директорий
    
@@ -60,5 +61,8 @@
 
 
 <br>
+
+
+<span id="page-name-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>

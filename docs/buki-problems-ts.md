@@ -35,4 +35,7 @@
 
 <br>
 
+
+<span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
+
 <script src="assets/js/navi.js"></script>

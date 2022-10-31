@@ -22,7 +22,7 @@
 
 <br>
 
-<span id="page-name-img" class="img" onclick="imgResize()">![image-bottom](assets/svg/comp-end.svg)</span>
+<span id="comp-end-img" class="img" onclick="imgResize()">![image-bottom](assets/svg/comp-end.svg)</span>
 
 
 <script src="assets/js/navi.js"></script>

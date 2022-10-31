@@ -4,6 +4,8 @@
 
 <span id="fert-font-img" class="img" onclick="imgResize()">![img](assets/svg/fert-font.svg)</span>
 
+	FONTS
+
 Шрифт является графическим отображением звуков исходящих из уст человека умеющего извлекать эти звуки.
 
 [Пример шрифтов здесь…](https://a374ru.github.io/fontstest)
@@ -22,6 +24,7 @@
 
 <br>
 
-<span id="dobro-day-img-2" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
+
+<span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>

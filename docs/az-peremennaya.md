@@ -4,7 +4,7 @@
 
 <span id="start-img" class="img" onclick="imgResize()">![img](assets/svg/comp-start.svg)</span>
 
-	Console application
+	CONSOLE APPLICATION
 
 **Что требуется:**
 
@@ -124,5 +124,8 @@ az = "new man" // error!
 […на главную](/)
 
 <br>
+
+
+<span id="page-name-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>

@@ -95,4 +95,13 @@ ncal -e
 ncal -eJ # что и ранее, т.к. не бывает Григорианской Пасхи в Юлианском календаре !!!
 ```
 
+<br>
+
+[…на главную](/)
+
+<br>
+
+<span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
+
 <script src="assets/js/navi.js"></script>
+

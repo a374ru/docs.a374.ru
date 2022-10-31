@@ -2,7 +2,9 @@
 
 # Настройки проектов
 
->Последовательность шагов проекта
+<span id="comp-start-img" class="img" onclick="imgResize()">![image-top](assets/svg/comp-start.svg)</span>
+
+	DOCUMENTATION
 
 ### Точка входа в ПП
 
@@ -45,6 +47,9 @@
 […на главную](/)
 
 <br>
+
+
+<span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>
 

@@ -2,7 +2,9 @@
 
 # Сий день
 
-<span id="dobro-day-img" class="img" onclick="imgResize()">![img](assets/svg/comp-start.svg)</span>
+<span id="comp-start-img" class="img" onclick="imgResize()">![img](assets/svg/comp-start.svg)</span>
+
+	DAY, NOW
 
 
 ## У каждого
@@ -56,7 +58,8 @@
 
 <br>
 
-<span id="dobro-day-img-2" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
+
+<span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 
 <script src="assets/js/navi.js"></script>

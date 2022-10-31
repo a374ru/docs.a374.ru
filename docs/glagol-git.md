@@ -4,6 +4,8 @@
 
 <span id="buki-bookmarks-img" class="img" onclick="imgResize(55)">![image](assets/img/key-hub.png)</span>
 
+	GIT, GITHUB
+
 ### Глобальный `.gitignore`
 
 Очень много сохраните рабочего времени, если с самого начала будете использовать **глобальный файл** игнорирования директорий и файлов в системе контроля версий `GIT`. В этом файле должны храниться все ненужные для публикации материалы для всех языков программирования. 
@@ -49,6 +51,9 @@ ssh-add -K ~/.ssh/id_rsa   # где `id_rsa` замените на имя фай
 […на главную](/)
 
 <br>
+
+
+<span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>
 

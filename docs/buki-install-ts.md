@@ -2,7 +2,9 @@
 
 # Развертывание Typescript
 
->Развертывание проекта на TS (mac os)
+<span id="typescript-img" class="img" onclick="imgResize()">![Кого подключать](assets/svg/comp-start.svg)</span>
+
+    MAC OS
 
 Проверяем в терминале присутствие NPM командой: 
 
@@ -38,5 +40,8 @@
 […на главную](/)
 
 <br>
+
+
+<span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>

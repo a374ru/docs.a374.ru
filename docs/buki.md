@@ -3,7 +3,9 @@
 
 # Буки
 
-<!-- <span id="az-object-img" class="img" onclick="imgResize()">![comp and vim ](assets/svg/1.svg)</span> -->
+<span id="buki-img" class="img" onclick="imgResize()">![comp and vim ](assets/svg/comp-start.svg)</span>
+
+	DOCUMENTATION
 
 **Буки** – это вторая буква. Эта буква не имеет числового значения, то есть ее состояние равно `undefined` (неопределено). Таким образом записи под маркировкой с этой буквой не входят в последовательность стека записей и будут иметь свободный статус правил и тп.
 
@@ -26,5 +28,8 @@
 […на главную](/)
 
 <br>
+
+
+<span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>
