@@ -1,6 +1,6 @@
 <div class="navi"><nav id="navi"><!-- js --></nav></div>
 
-# Обновление `Angular and CLI`
+# Обновление <span style="color: #e34234;">Angular and CLI
 
 <span id="comp-start-img" class="img" onclick="imgResize(88)">![image-top](assets/svg/comp-angular.svg)</span>
 
