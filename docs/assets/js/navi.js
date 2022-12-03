@@ -8,6 +8,7 @@ pageDict = {
 	"glagol-git": "GIT",
 	"buki-set": "Настройки",
 	"az-assets": "Вложения",
+	"az-angular": "Angular",
 	"vedi-documents": "Docs",
 	"billing": "Билинг",
 	"vedi-vim": "VIM",
