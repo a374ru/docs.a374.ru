@@ -2,7 +2,7 @@
 
 # Обновление `Angular and CLI`
 
-<span id="comp-start-img" class="img" onclick="imgResize()">![image-top](assets/svg/comp-angular.svg)</span>
+<span id="comp-start-img" class="img" onclick="imgResize(77)">![image-top](assets/svg/comp-angular.svg)</span>
 
 	MAC OS, Terminal
 
