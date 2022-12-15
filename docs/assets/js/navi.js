@@ -13,7 +13,7 @@ pageDict = {
 	"billing": "Билинг",
 	"vedi-vim": "VIM",
 	"pokoy-proval": "Провал",
-	// "vedi-vsce": "VSCE",
+	"vedi-vsce": "VSCE",
 	"az-peremennaya": "Переменная",
 	"az-object": "Объект",
 	"buki": "Соглашение",
