@@ -26,6 +26,7 @@ pageDict = {
 	"kakw-colors": "Цветы",
 	"kakw-cal": "NCAL утилита Shell",
 	"search-result": "Поиск 🔍",
+	"nash-ncal": "NCAL",
 	"navi-page": "Оглавление",
 };
 // ========== to local Storage ======================
