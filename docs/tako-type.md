@@ -1,6 +1,6 @@
-# ТИПЫ человеков и не только
-
 <div class="navi"><nav id="navi"><!-- js --></nav></div>
+
+# ТИПЫ человеков и не только
 
 <span id="page-name-img" class="img" onclick="imgResize()">![img](assets/svg/comp-start.svg)</span>
 
