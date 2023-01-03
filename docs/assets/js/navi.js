@@ -88,11 +88,13 @@ document.getElementsByClassName('navi')[0].style = localStorage.getItem('navidar
 
 /** Для домена второго уровня на хостинге `github-pages`.
 
-	Для доменов третьего уровня смените 0 на 1.
+	Для доменов третьего уровня смените 0 на 1 и раскоментируйте строку с одноименным индексом. 
 */
 
-tempVar = document.location.pathname.split('/')[0];
-folderProjectOfGitHub = tempVar === '/' ? '' : `/${tempVar}`;
+tempVar = document.location.pathname.split('/')[1];
+// folderProjectOfGitHub = tempVar === '/' ? '' : `/${tempVar}`; // 0 строка для домена второго уровня
+folderProjectOfGitHub = tempVar === '/' ? '' : `/${tempVar}/`;   // 1 строка для домена третьего уровня
+
 
 
 // словарь ключей для рандомной-сортировки
