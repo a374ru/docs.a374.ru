@@ -15,11 +15,19 @@
 	--fontSize-H1: 1.7em;
 }
 
-@font-face {
+/* @font-face {
 	font-family: "Fontics";
 	font-display: auto;
 	src: local("Fontics-Regular.otf"),
 		url("https://a374ru.github.io/a374.ru/assets/font/Fontics-Regular.otf");
+	font-weight: normal;
+	font-style: normal;
+} */
+@font-face {
+	font-family: "Fontics";
+	font-display: auto;
+	src: local("Fontics-Regular.ttf"),
+		url("https://a374ru.github.io/a374.ru/assets/font/Fontics-Regular.ttf");
 	font-weight: normal;
 	font-style: normal;
 }
