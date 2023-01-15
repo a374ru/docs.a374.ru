@@ -2,9 +2,9 @@
 
 # Проблемы проекта
 
-<span id="az1-img" class="img" onclick="imgResize()">![img](assets/svg/comp-start.svg)</span>
+<span id="az1-img" class="img" onclick="imgResize()">![img](assets/svg/comp-problems.svg)</span>
 
-	PROBlEMS
+	PROBLEMS
 
 ## Некорректное поведение шрифта
 
@@ -13,7 +13,7 @@
 
 ### Ресурсы домена
 
-1. **ССЫЛКИ** на ресурсы с любого домена должны быть настроены таким образом, чтобы адреса прописанные в линках на рушились бы при любых перемещениях проекта.
+1. **ССЫЛКИ** на ресурсы с любого домена должны быть настроены таким образом, чтобы адреса прописанные в линках на рушились бы при любых доменных перемещениях проекта.
 
 
 <br>
@@ -22,6 +22,6 @@
 
 <br>
 
-<span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
+<span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-problems.svg)</span>
 
 <script src="assets/js/navi.js"></script>
