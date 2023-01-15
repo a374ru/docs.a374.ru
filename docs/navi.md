@@ -8,40 +8,40 @@
 
 ## АЗЪ
 
-1. [Азъ](az)
-1. [Переменная](az-peremennaya)
-1. [Объект](az-object)
-2. [Скрипт Апракос TS](az-apr-ts)
+1. [Азъ](az#navi)
+1. [Переменная](az-peremennaya#navi)
+1. [Объект](az-object#navi)
+2. [Скрипт Апракос TS](az-apr-ts#navi)
 <!-- 2. [My English](abc/readme) -->
 
 ## БУКИ
 
-1. [Соглашение](buki)
-2. [Букмарки](buki-bukmarki)
-3. [Настройки](buki-set)
+1. [Соглашение](buki#navi)
+2. [Букмарки](buki-bukmarki#navi)
+3. [Настройки](buki-set#navi)
 
 ## ВЕДИ
 
 1. [VIM](vedi-vim)
-2. [Ведение документации](vedi-documents)
+2. [Ведение документации](vedi-documents#navi)
 
 ## ГЛАГОЛ
 
-1. [GIT](glagol-git)
+1. [GIT](glagol-git#navi)
 
 ## ЗЕМЛЯ
 
-1. []()
+1. [###](#navi)
 
 ## Какw
 
-1. [Цвета](kakw-colors)
+1. [Цвета](kakw-colors#navi)
 
 
 
 ## ПОКОЙ
 
-1. [Провал](pokoy-proval)
+1. [Провал](pokoy-proval#navi)
 2. [Проблемы](problems.md#navi)
 
 
@@ -59,17 +59,17 @@
 
 ## СЛОВО
 
-1. [Сервер](slovo-server)
-2. [Поиск](search-result)
-3. [Терминал](slovo-shell)
+1. [Сервер](slovo-server#navi)
+2. [Поиск](search-result#navi)
+3. [Терминал](slovo-shell#navi#navi)
 
 ## ТАКO
 
-1. [ТИП](tako-type)
+1. [ТИП](tako-type#navi)
 
 ## Ферт
 
-1. [О шрифте](fert-font)
+1. [О шрифте](fert-font#navi)
 
 <!-- <br>
 
