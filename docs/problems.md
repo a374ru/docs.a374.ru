@@ -22,6 +22,6 @@
 
 <br>
 
-<span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-problems.svg)</span>
+<span id="comp-end-img" class="img" onclick="imgResize(99)">![img](assets/svg/comp-problems.svg)</span>
 
 <script src="assets/js/navi.js"></script>
