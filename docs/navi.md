@@ -22,7 +22,7 @@
 
 ## ВЕДИ
 
-1. [VIM](vedi-vim)
+1. [VIM](vedi-vim#navi)
 2. [Ведение документации](vedi-documents#navi)
 
 ## ГЛАГОЛ
@@ -61,7 +61,7 @@
 
 1. [Сервер](slovo-server#navi)
 2. [Поиск](search-result#navi)
-3. [Терминал](slovo-shell#navi#navi)
+3. [Терминал](slovo-shell#navi)
 
 ## ТАКO
 
