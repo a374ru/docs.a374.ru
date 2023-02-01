@@ -92,8 +92,8 @@ document.getElementsByClassName('navi')[0].style = localStorage.getItem('navidar
 */
 
 tempVar = document.location.pathname.split('/')[1];
-// folderProjectOfGitHub = tempVar === '/' ? '' : `/${tempVar}`; // 0 строка для домена второго уровня
-folderProjectOfGitHub = tempVar === '/' ? '' : `/${tempVar}/`;   // 1 строка для домена третьего уровня
+folderProjectOfGitHub = tempVar === '/' ? '' : `/${tempVar}`; // 0 строка для домена второго уровня
+// folderProjectOfGitHub = tempVar === '/' ? '' : `/${tempVar}/`;   // 1 строка для домена третьего уровня
 
 
 
@@ -188,7 +188,7 @@ home</span></a></div>`;
 
 	cday = new Date().getDate();
 
-	htmlString += `<div class="navi-item" id="navi-day"><a href="dobro-day"><span id="navi-dobro-day">День </span></a><a href="https://a374.ru/aprakos.ru/currentday/APRAKOS/index.html"><span class="${folderProjectOfGitHub}number-day" id="number-day">${cday}</span></a></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="${folderProjectOfGitHub}navi-page#navi"><span class="material-icons-two-tone">manage_search</span></a></div><div class="navi-item" title="Цветность" id="colorScheme"><a onclick="switchColorScheme()">
+	htmlString += `<div class="navi-item" id="navi-day"><a href="dobro-day"><span id="navi-dobro-day">День </span></a><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html"><span class="${folderProjectOfGitHub}number-day" id="number-day">${cday}</span></a></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="${folderProjectOfGitHub}navi-page#navi"><span class="material-icons-two-tone">manage_search</span></a></div><div class="navi-item" title="Цветность" id="colorScheme"><a onclick="switchColorScheme()">
 <span class="material-icons-two-tone">
 invert_colors
 </span></a></div>`
