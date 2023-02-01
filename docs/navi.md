@@ -47,13 +47,13 @@
 
 ### Проекты готовые:
 
-  1. [Aprakos-TS](https://a374ru.github.io/aprakos-ts/)
+  1. [Aprakos-TS](https://a374.ru/aprakos-ts/)
   2. [Парсер (node.js) для составления Церковно-славянских зачал из страниц HTML в файл формата json. Рядовые зачала согласно Уставу всего Богослужебного года.](https://github.com/a374ru/aprakos-json)
-  3. [Даты православной Пасхалии](https://a374ru.github.io/orthodox_easter_list/)
-  4. САЙТ [aprakos.ru](https://a374ru.github.io/aprakos.ru)
-  5. [Шаблон сетки GRID](https://a374ru.github.io/gridmonth/)
-  6. [Еще быстрый адаптивный шаблон](https://a374ru.github.io/template-grid/)
-  7. [ШРИФТ](https://a374ru.github.io/fontstest/)
+  3. [Даты православной Пасхалии](https://a374.ru/orthodox_easter_list/)
+  4. САЙТ [aprakos.ru](https://a374.ru/aprakos.ru)
+  5. [Шаблон сетки GRID](https://a374.ru/gridmonth/)
+  6. [Еще быстрый адаптивный шаблон](https://a374.ru/template-grid/)
+  7. [ШРИФТ](https://a374.ru/fontstest/)
   8. И другое нужное [здесь…](https://github.com/a374ru?tab=repositories)
 
 

@@ -11,7 +11,7 @@
 
 ### [Текущая разработка здесь…](https://github.com/a374ru/aprakos.online)
 
-### Приостановленный проект [здесь…](https://a374ru.github.io/aprakos.ru/aa/)
+### Приостановленный проект [здесь…](https://a374.ru/aprakos.ru/aa/)
 
 <br>
 

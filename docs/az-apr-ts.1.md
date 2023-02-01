@@ -7,7 +7,7 @@
 
 	Typescript
 
-[Здесь…](https://a374ru.github.io/aprakos-ts/generated/index.html) можно ознакомиться с документацией скрипта написанного на языке `Typescript`.
+[Здесь…](https://a374.ru/aprakos-ts/generated/index.html) можно ознакомиться с документацией скрипта написанного на языке `Typescript`.
 
 Скрипт высчитывает сроки чтений для всего Богослужебного Православного года.
 
