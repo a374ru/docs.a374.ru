@@ -90,11 +90,24 @@ document.getElementsByClassName('navi')[0].style = localStorage.getItem('navidar
 
 	Для доменов третьего уровня смените 0 на 1 и раскоментируйте строку с одноименным индексом. 
 */
+tempVar = document.location.pathname.split('/')
+domain = document.location.host.split('.').length;
 
-tempVar = document.location.pathname.split('/')[1];
-folderProjectOfGitHub = tempVar === '/' ? '' : `/${tempVar}`; // 0 строка для домена второго уровня
-// folderProjectOfGitHub = tempVar === '/' ? '' : `/${tempVar}/`;   // 1 строка для домена третьего уровня
+switch (domain) {
+	case 2:
+		folderProjectOfGitHub = `/${tempVar[0]}`;    // домен второго уровня
+		break;
+	case 3:
+		folderProjectOfGitHub = `/${tempVar[1]}/`;   // домен третьего уровня
+		break;
+	case 4:
+		// код для поддомена 4-го уровня
+		break;
 
+	default:
+
+		break;
+}
 
 
 // словарь ключей для рандомной-сортировки
