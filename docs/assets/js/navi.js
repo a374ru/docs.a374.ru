@@ -48,7 +48,6 @@ if (localStorage.getItem("az") != 1) {
 
 function switchColorScheme() {
 
-
 	whiteBG = '#ffffff';
 	darkBG = '#1C0005';
 	naviLight = `box-shadow: 0px 10 22 #fffaf5; background:linear-gradient(180deg, ${whiteBG} 98%, #b36c71 1%)`;
@@ -86,26 +85,22 @@ document.getElementsByClassName('navi')[0].style = localStorage.getItem('navidar
 
 
 
-/** Для домена второго уровня на хостинге `github-pages`.
-
-	Для доменов третьего уровня смените 0 на 1 и раскоментируйте строку с одноименным индексом. 
+/** Переключатель доменного имени. 
+	Корректировка ссылок с учетом доменного имени. 
 */
 tempVar = document.location.pathname.split('/')
 domain = document.location.host.split('.').length;
 
 switch (domain) {
 	case 2:
-		folderProjectOfGitHub = `/${tempVar[0]}`;    // домен второго уровня
+		folderProjectOfGitHub = `/${tempVar[0]}`;    // личный домен второго уровня
 		break;
 	case 3:
-		folderProjectOfGitHub = `/${tempVar[1]}/`;   // домен третьего уровня
-		break;
-	case 4:
 		// код для поддомена 4-го уровня
 		break;
 
 	default:
-
+		folderProjectOfGitHub = `/${tempVar[1]}/`;   // домен третьего уровня по умолчанию yuorename.github.io
 		break;
 }
 
