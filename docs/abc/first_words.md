@@ -98,4 +98,4 @@
 
 <br>
 
-![img](https://1.bp.blogspot.com/-hOxN5KX2KfY/YPplNP_w6xI/AAAAAAAAGz0/nNxSLwD5lnQhvFnce_DzmIoSRWyY9A3QACLcBGAsYHQ/s694/theend-beats.png)
+<span id="comp-end-img" class="img" onclick="imgResize()">![image-bottom](assets/svg/comp-end.svg)</span>
