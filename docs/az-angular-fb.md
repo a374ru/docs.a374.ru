@@ -19,12 +19,12 @@
 
 ### <span style="color: #e34234;">Запуск
 
->>>Все действия выполняются в терминале…
+>>Все действия выполняются в терминале…
 
 1. Установите `Angular CLI`.
-1. Создайте проект `ng new projectName`.
-2. <span style="color: #e34234;">Установите `FireBase`  командой `npm install -g firebase-tools`.
-3. Активируйтесь  командой `firebase login`.
+1. Создайте проект командой: `ng new projectName`.
+2. <span style="color: #e34234;">Установите `FireBase`  командой: `npm install -g firebase-tools`.
+3. Активируйтесь  командой: `firebase login`.
 4. Добавьте в проект директорию `src/environments` и в нее **два файла** с именами `environment.ts` и `environment.prod.ts` и внесите в файлы код указанный далее:
 
 ```ts
@@ -41,7 +41,7 @@ export const environment = {
 }
 ```
 
-6. Установите пакет `NPM` командой `ng add angular/fire`. При настройке пакета выберите `Firestore` и нужную `DB` или создайте новую `DataBase` следуя подсказкам в консоле. В предлагаемом меню выьерите пункт `( • ) Firestore`.
+6. Установите пакет `NPM` командой: `ng add angular/fire`. При настройке пакета выберите `Firestore` и нужную `DB` или создайте новую `DataBase` следуя подсказкам в консоле. В предлагаемом меню выьерите пункт `( • ) Firestore`.
 
 <span style="color: #7C9655;">Полсе выполнения выше указанных инструкций у вас должен быть настроенный проект `Angular` с подключенной БД `Firebase`. Проверте настройки базы в файле `environment.ts`.
 
