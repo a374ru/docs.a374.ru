@@ -4,6 +4,8 @@
 
 <span id="az1-img" class="img" onclick="imgResize()">![img](assets/svg/comp-angular-fb.svg)</span>
 
+	Development
+
 ## <span style="color: #7C9655;">Разворот проекта
 
 Нам нужно запустить проект `Angular CLI`. Подключить к проекту базу данных `Firebase`. Настроить `connect` и обработку сообщений в базе данных с помощью `Google` аккаунтf. Ниже приводится последовательные шаги развертывания приложения `Angular 15`.
@@ -20,7 +22,7 @@
 
 ### <span style="color: #e34234;">Запуск
 
->>Все действия выполняются в терминале…
+>Все действия выполняются в терминале…
 
 1. Установите `Angular CLI`.
 1. Создайте проект командой: `ng new projectName`.
