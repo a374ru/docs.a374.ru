@@ -171,7 +171,7 @@ function namePage() {
 function toNavi() {
 
 	counter = 1;
-	htmlString = `<div class="navi-item" id="navi-icon-home"><a href="/"><span class="material-icons-two-tone">
+	htmlString = `<div class="navi-item" id="navi-icon-home"><a href="/#navi"><span class="material-icons-two-tone">
 home</span></a></div>`;
 
 	for (const key of keyPageDict) {
@@ -190,7 +190,7 @@ home</span></a></div>`;
 				element = element.slice(0, element.length - 3) + "…";
 			}
 
-			htmlString += `<div class="navi-item"><a title="${pageDict[key]}" href="/#navi${folderProjectOfGitHub}${key}#navi">${element}</a> </div>`;
+			htmlString += `<div class="navi-item"><a title="${pageDict[key]}" href="/${folderProjectOfGitHub}${key}#navi">${element}</a> </div>`;
 			counter += 1;
 
 		}
