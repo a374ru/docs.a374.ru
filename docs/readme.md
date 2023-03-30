@@ -4,7 +4,7 @@
 
 
 <a href="navi">
-<img style="width: 99%; drop-shadow(0px 0px 0px #0000);" src='https://img.a374.ru/desktop.webp'>
+<img style="width: 77%; filter: drop-shadow(0px 0px 0px #0000);" src='https://img.a374.ru/desktop.webp'>
 </a>
 
 >После перерывов в работе всегда требуется восстановить былое…
