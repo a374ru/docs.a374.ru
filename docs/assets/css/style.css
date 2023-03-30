@@ -23,7 +23,7 @@
 	font-family: "Fontics";
 	font-display: auto;
 	src: local("Fontics-Regular.otf"),
-		url("https://set.a374.ru/assets/font/Fontics-Regular.otf");
+		url("https://docs.a374.ru/assets/font/Fontics-Regular.otf");
 	font-weight: normal;
 	font-style: normal;
 } */
@@ -31,7 +31,7 @@
 	font-family: "Fontics";
 	font-display: auto;
 	src: local("Fontics-Regular.ttf"),
-		url("https://set.a374.ru/assets/font/Fontics-Regular.ttf");
+		url("https://docs.a374.ru/assets/font/Fontics-Regular.ttf");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -40,7 +40,7 @@
 	font-family: "Ystm";
 	font-display: auto;
 	src: local("Fontics-Regular.otf"),
-		url("https://set.a374.ru/assets/font/Ystm-Regular.otf");
+		url("https://docs.a374.ru/assets/font/Ystm-Regular.otf");
 	font-weight: normal;
 	font-style: normal;
 }
