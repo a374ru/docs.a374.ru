@@ -95,14 +95,18 @@ var folderProjectOfGitHub = "???";
 
 switch (domain) {
 	case 2:
-		folderProjectOfGitHub = `/${tempVar[0]}`;    // личный домен второго уровня
+		// код для ЛИЧНОГО поддомена второго уровня
+		folderProjectOfGitHub = `/${tempVar[0]}`;
 		break;
 	case 3:
-		// код для поддомена 4-го уровня
+		// код для ЛИЧНОГО поддомена 3-го уровня
+		folderProjectOfGitHub = "";
+
 		break;
 
 	default:
-		folderProjectOfGitHub = `/${tempVar[0]}/`;   // домен третьего уровня по умолчанию yuorename.github.io
+		// домен третьего уровня по умолчанию yuorename.github.io
+		folderProjectOfGitHub = `/${tempVar[0]}/`;
 		break;
 }
 
