@@ -3,6 +3,7 @@ pageDict = {
 	// "404": "Страница не найдена",
 	"az": "Азъ",
 	"az-apr-ts": "APR-TS",
+	"az-angular-fb": "A+FB",
 	"test-fontics": "Кернинг тест",
 	"fert-font": "О шрифте",
 	"glagol-git": "GIT",
