@@ -89,8 +89,9 @@ document.getElementsByClassName('navi')[0].style = localStorage.getItem('navidar
 /** Переключатель доменного имени. 
 	Корректировка ссылок с учетом доменного имени. 
 */
-tempVar = document.location.pathname.split('/')
-domain = document.location.host.split('.').length;
+var tempVar = document.location.host.split('/')
+var domain = document.location.host.split('.').length;
+var folderProjectOfGitHub = "???";
 
 switch (domain) {
 	case 2:
@@ -101,7 +102,7 @@ switch (domain) {
 		break;
 
 	default:
-		folderProjectOfGitHub = `/${tempVar[1]}/`;   // домен третьего уровня по умолчанию yuorename.github.io
+		folderProjectOfGitHub = `/${tempVar[0]}/`;   // домен третьего уровня по умолчанию yuorename.github.io
 		break;
 }
 
@@ -135,7 +136,7 @@ itemsNavi = 7;
 
 function namePage() {
 
-	stringTabTitle = 'a374.ru';
+	stringTabTitle = 'set.a374.ru';
 	str = document.URL.split('/').pop().split('.')[0];
 	if (str != "") {
 
