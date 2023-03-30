@@ -140,7 +140,7 @@ itemsNavi = 7;
 
 function namePage() {
 
-	stringTabTitle = 'set.a374.ru';
+	stringTabTitle = 'ДОК-РЕПО А374';
 	str = document.URL.split('/').pop().split('.')[0];
 	if (str != "") {
 
