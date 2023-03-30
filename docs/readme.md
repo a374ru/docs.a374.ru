@@ -4,10 +4,10 @@
 
 
 <a href="navi">
-<img src='https://img.a374.ru/sketches.png'>
+<img src='https://img.a374.ru/desktop.webp'>
 </a>
 
-   После перерывов в работе всегда требуется восстановить былое…
+>После перерывов в работе всегда требуется восстановить былое…
 
 <!-- ### [Текущая разработка здесь…](https://github.com/a374ru/aprakos.online) -->
 
