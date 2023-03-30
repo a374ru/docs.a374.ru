@@ -5,13 +5,13 @@
 После перерывов в работе всегда требуется восстановить былое…
 
 <a href="navi">
-<img src='assets/svg/comp-start.svg'>
+<img src='https://img.a374.ru/sketches.png'>
 </a>
 
 
-### [Текущая разработка здесь…](https://github.com/a374ru/aprakos.online)
+<!-- ### [Текущая разработка здесь…](https://github.com/a374ru/aprakos.online) -->
 
-### Приостановленный проект [здесь…](https://docs.a374.ru/aprakos.ru/aa/)
+<!-- ### Приостановленный проект [здесь…](https://aprakos.a374.ru/aa/) -->
 
 <br>
 
