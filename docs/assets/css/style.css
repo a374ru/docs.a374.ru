@@ -135,6 +135,7 @@ pre {
 	padding: 1rem 1rem 1.2rem 2rem;
 	background-color: #d2d2d229;
 	font-size: 1.1em;
+	border: .5px #ffe5d800 solid;
 }
 pre code {
 	font-size: 0.9em;
