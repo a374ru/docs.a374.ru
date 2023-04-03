@@ -6,17 +6,18 @@
 
 	Development
 
-<details style="cursor:pointer">
-  <summary>Нужные команды</summary>
-
-  ### Запуск проекта: `ng s -o`
-
-  ### Выбор проекта: `firebase use --add`
-
-  ### Запуск эмулятора: `firebase emulators:start --only firestore`
-
+<details style="cursor:pointer; padding-left: 1em">
+  <summary><span style="color: #e34234;">Нужные команды</summary>
+  <p>Запуск проекта ангуляр: `ng s -o`</p>
+  <p>Выбор проекта для fdb: `firebase use --add`</p>
+  <p>Запуск эмулятора fdb: `firebase emulators:start --only firestore`</p>
+  <p>Аутенцификация fdb: `firebase login`</p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
 </details>
-<br>
+
 
 ## <span style="color: #7C9655;">Разворот проекта
 
