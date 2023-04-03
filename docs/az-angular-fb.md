@@ -8,10 +8,10 @@
 
 <details style="cursor:pointer; padding-left: 1em">
   <summary>Нужные команды</summary>
-  <p>Запуск проекта ангуляр: `ng s -o`</p>
-  <p>Выбор проекта для fdb: `firebase use --add`</p>
-  <p>Запуск эмулятора fdb: `firebase emulators:start --only firestore`</p>
-  <p>Аутенцификация fdb: `firebase login`</p>
+  <p>Запуск проекта ангуляр: **ng s -o**</p>
+  <p>Выбор проекта для fdb: **firebase use --add**</p>
+  <p>Запуск эмулятора fdb: **firebase emulators:start --only firestore**</p>
+  <p>Аутенцификация fdb: **firebase login**</p>
   <p></p>
   <p></p>
   <p></p>
