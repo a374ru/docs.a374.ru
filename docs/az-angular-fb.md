@@ -7,7 +7,7 @@
 	Development
 
 <details style="cursor:pointer; padding-left: 1em">
-  <summary><span style="color: #e34234;">Нужные команды</summary>
+  <summary>Нужные команды</summary>
   <p>Запуск проекта ангуляр: `ng s -o`</p>
   <p>Выбор проекта для fdb: `firebase use --add`</p>
   <p>Запуск эмулятора fdb: `firebase emulators:start --only firestore`</p>
