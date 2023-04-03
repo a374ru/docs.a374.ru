@@ -6,6 +6,18 @@
 
 	Development
 
+<details style="cursor:pointer">
+  <summary>Нужные команды</summary>
+
+  ### Запуск проекта: `ng s -o`
+
+  ### Выбор проекта: `firebase use --add`
+
+  ### Запуск эмулятора: `firebase emulators:start --only firestore`
+
+</details>
+<br>
+
 ## <span style="color: #7C9655;">Разворот проекта
 
 Нам нужно запустить проект `Angular CLI`. Подключить к проекту базу данных `Firebase`. Настроить `connect` и обработку сообщений в базе данных с помощью `Google` аккаунт. 
