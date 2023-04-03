@@ -56,7 +56,7 @@ export const environment = {
 
 	Firebase
 
-Ознакомтесьс документацией для эмулятора [здесь…](https://firebase.google.com/docs/emulator-suite?hl=ru) Нужно иметь общие представления о продукте.
+Ознакомтесь с документацией для эмулятора [здесь…](https://firebase.google.com/docs/emulator-suite?hl=ru) Нужно иметь общие представления о продукте.
 
 Если **проект** настроен как показано выше и он работает, то можно приступить к настройке эмулятора. Эмулятор умеет выполнять все операции облачного сервиса `firebase` только локально. 
 
@@ -66,9 +66,9 @@ export const environment = {
 2. Инициализируйте текущий проект: `firebase init`
 3. Запуск **неподключенного** к проекту эмулятора: `firebase emulators:start`
 
-### Настройка текущего проекта для взаимодействия с запущенным эмулятором или в ином случае с `web version Firestore` в интеренете.
+## Настройка текущего проекта для взаимодействия с запущенным эмулятором или в ином случае с `web version Firestore` в интеренете.
 
-<span style="color: #2C87BF;">Редакция файла `environment.ts:
+<span style="color: #2C87BF;">Редакция файла `environment`.ts:
 
 ```ts
 export const environment = {
@@ -82,19 +82,21 @@ export const environment = {
   },
 
   // для пользования эмулятора FDB добавляется эта строка
-  ///////////////
-  useEmulators: true,
-  //////////////
+   ///////////////
+	useEmulators: true,
+   //////////////
 
   production: false
 
 }
 ```
 
-<span style="color: #2C87BF;">Редакция файла `environment.prod.ts:
+<span style="color: #2C87BF;">Редакция файла `environment.prod.ts`:
 
 ```ts
 export const environment = {
+
+// И эта строка добавляется
    ///////////////////
 	useEmulators: false,
    ///////////////////
@@ -104,7 +106,7 @@ export const environment = {
 
 ```
 
-<span style="color: #2C87BF;">Редакция файла `app.module.ts:
+<span style="color: #2C87BF;">Редакция файла `app.module.ts`:
 
 
 ```ts
@@ -122,7 +124,7 @@ export const environment = {
 
 ><span style="color: #e34234;">После изменения кода в методе `provideFirestore()` появятся ошибки, тогда обновите импорты, добавив нужные классы и методы вверху страницы.
 
-### Отредактируйте строку запуска в файле проекта `package.json`
+## Отредактируйте строку запуска в файле проекта `package.json`
 
 ```json
  "start": "firebase emulators:exec --project=ascript --ui 'ng s -o'"
