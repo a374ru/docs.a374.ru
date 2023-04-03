@@ -68,7 +68,7 @@ export const environment = {
 
 ## Настройка текущего проекта для взаимодействия с запущенным эмулятором или в ином случае с `web version Firestore` в интеренете.
 
-<span style="color: #2C87BF;">Редакция файла `environment`.ts:
+<span style="color: #2C87BF;">Редакция файла `environment.ts`:
 
 ```ts
 export const environment = {
@@ -127,7 +127,7 @@ export const environment = {
 ## Отредактируйте строку запуска в файле проекта `package.json`
 
 ```json
- "start": "firebase emulators:exec --project=ascript --ui 'ng s -o'"
+"start": "firebase emulators:exec --project=ascript --ui 'ng s -o'"
 ```
 
 Запустите проект с эмулятором `Firebase` командой: `npm start`.
