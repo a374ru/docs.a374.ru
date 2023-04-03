@@ -1,6 +1,6 @@
 <div class="navi"><nav id="navi"><!-- js --></nav></div>
 
-# <span style="color: #e34234;">Ангуляр енд Фаербэйс
+# <span style="color: #e34234;">Энгуларъ + Огонёкъ
 
 <span id="az1-img" class="img" onclick="imgResize()">![img](assets/svg/comp-angular-fb.svg)</span>
 
@@ -108,6 +108,7 @@ export const environment = {
 
 <span style="color: #2C87BF;">Редакция файла `app.module.ts`:
 
+В данной настройке используется объект `Firestore` добавленный в импортах. В методе провайдере `provideFirestore()` подключается эмулятор на определенном по умолчанию порте:8080 **локального хостинга**. Если же вы запустите проект без эмулятора, то проект сконектится с `Friebase` на **веб-хостинге** согласно методу `getFirestore()`.
 
 ```ts
  provideFirestore(() => {
@@ -133,9 +134,6 @@ export const environment = {
 Запустите проект с эмулятором `Firebase` командой: `npm start`.
 
 Должно сработать. Конечно не с первого раза! Как обычно. Не поленитесь потратьте время на изучение документации настройки проектов `Firebase`.
-
-
-
 
 
 <br>
