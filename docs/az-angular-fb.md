@@ -73,12 +73,12 @@ export const environment = {
 ```ts
 export const environment = {
   firebase: {
-    projectId: 'ascript',
-    appId: '1:964651530231:web:66b7792221f4c4b7a160f2',
-    storageBucket: 'ascript.appspot.com',
-    apiKey: 'AIzaSyD9YFzrj163oeJlB4ef6SU3VwtpIbATxc0',
-    authDomain: 'ascript.firebaseapp.com',
-    messagingSenderId: '964651530231',
+    projectId: 'project-name',
+    appId: 'x:xxxxxxxxxx:web:xxxxxxxxxxxxxxx',
+    storageBucket: 'project-name.appspot.com',
+    apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    authDomain: 'project-name.firebaseapp.com',
+    messagingSenderId: 'xxxxxxxxxx',
   },
 
   // для пользования эмулятора FDB добавляется эта строка
