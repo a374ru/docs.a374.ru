@@ -13,9 +13,7 @@
   <p>Запуск эмулятора fdb: firebase emulators:start --only firestore</p>
   <p>Аутенцификация fdb: firebase login</p>
   <p></p>
-  <p></p>
-  <p></p>
-  <p></p>
+
 </details>
 
 
