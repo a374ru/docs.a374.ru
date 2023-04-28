@@ -8,11 +8,14 @@
 
 <details style="cursor:pointer; padding-left: 1em">
   <summary>Нужные команды</summary>
-  <p>Запуск проекта ангуляр: ng s -o</p>
-  <p>Выбор проекта для fdb: firebase use --add</p>
-  <p>Запуск эмулятора fdb: firebase emulators:start --only firestore</p>
-  <p>Аутенцификация fdb: firebase login</p>
+  <p>Запуск проекта ангуляр: <code>ng s -o</code></p>
+  <p>Выбор проекта для fdb: <code>firebase use --add</code></p>
+  <p>Запуск эмулятора fdb: <code>firebase emulators:start --only firestore</code></p>
+  <p>Аутенцификация fdb: <code>firebase login</code></p>
+  <p>Порт интерфейса: <code> 4000 </code></p>
   <p></p>
+
+
 
 </details>
 
@@ -120,6 +123,8 @@ export const environment = {
 <span style="color: #2C87BF;">Редакция файла `app.module.ts`:
 
 В данной настройке используется объект `Firestore` добавленный в импортах. В методе провайдере `provideFirestore()` подключается эмулятор на определенном по умолчанию порте:8080 **локального хостинга**. Если же вы запустите проект без эмулятора, то проект сконектится с `Friebase` на **веб-хостинге** согласно методу `getFirestore()`.
+
+
 
 ```ts
  provideFirestore(() => {

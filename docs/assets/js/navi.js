@@ -69,7 +69,7 @@ function switchColorScheme() {
 		localStorage.setItem('navidark', naviLight);
 
 	} else {
-		localStorage.setItem('color', darkBG);
+		localStorage.setItem('color', darkBG);        
 		localStorage.setItem('navidark', naviDark);
 
 	}
