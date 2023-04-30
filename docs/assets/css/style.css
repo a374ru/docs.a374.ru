@@ -68,6 +68,13 @@ body {
 	background: linear-gradient(to bottom, #fffbf6, #fff9ec); */
 }
 
+details{
+padding-left: 1em;
+}
+summary{
+cursor: pointer;
+}
+
 .markdown-body {
 	margin: auto;
 	display: flex;
