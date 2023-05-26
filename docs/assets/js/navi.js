@@ -29,7 +29,7 @@ pageDict = {
 	"search-result": "Поиск 🔍",
 	"nash-ncal": "NCAL",
 	"navi-page": "Оглавление",
-	// "expences": "Затраты",
+	// "expenses": "Затраты",
 };
 // ========== to local Storage ======================
 
