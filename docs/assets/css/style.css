@@ -224,11 +224,11 @@ p {
 }
 
 p>a{
-	border-bottom: dashed #8BC34A 1px;
+	border-bottom: dotted #8BC34A 2px;
 }
 
 p>a:visited{
-	border-bottom: dashed #9E9E9E 1px;
+	border-bottom: dashed #9E9E9E 2px;
 }
 
 p::first-letter {
@@ -263,7 +263,7 @@ a:link {
 }
 
 a:visited {
-	color: #8b2c2c;
+	color: #5d80b5;
 	text-decoration-line: none;
 	/* list-style-type: circle; */
 }
