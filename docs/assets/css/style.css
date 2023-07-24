@@ -223,6 +223,14 @@ p {
 	font-size: 1.2em;
 }
 
+p>a{
+	border-bottom: dashed #8BC34A 1px;
+}
+
+p>a:visited{
+	border-bottom: dashed #9E9E9E 1px;
+}
+
 p::first-letter {
 	color: #f65920;
 }
@@ -247,7 +255,7 @@ h3 {
 }
 
 a:link {
-	color: #373737;
+	color: #604c11;
 	text-decoration-line: none;
 	/* list-style-type: circle; */
 	/* border-bottom: dotted 1px #0004;
@@ -255,7 +263,7 @@ a:link {
 }
 
 a:visited {
-	color: #5d80b5;
+	color: #8b2c2c;
 	text-decoration-line: none;
 	/* list-style-type: circle; */
 }
