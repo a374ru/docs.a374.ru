@@ -224,11 +224,11 @@ p {
 }
 
 p>a{
-	border-bottom: dotted #8BC34A 2px;
+	border-bottom: dotted #d2ff9e84 1px;
 }
 
 p>a:visited{
-	border-bottom: dashed #9E9E9E 2px;
+	border-bottom: dashed #9e9e9e7b 0px;
 }
 
 p::first-letter {
