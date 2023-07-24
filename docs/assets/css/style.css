@@ -87,9 +87,6 @@ cursor: pointer;
 	margin: 0 4vw;
 }
 
-nav a{
-border: none;
-}
 
 .navi {
 	display: flex;
@@ -253,12 +250,12 @@ a:link {
 	color: #604c11;
 	text-decoration-line: none;
 	/* list-style-type: circle; */
-	border-bottom: dotted 1px #0004;
-	border-radius: 11px;
+	/* border-bottom: dotted 1px #0004;
+	border-radius: 11px; */
 }
 
 a:visited {
-	color: #635425;
+	color: #5d80b5;
 	text-decoration-line: none;
 	/* list-style-type: circle; */
 }
