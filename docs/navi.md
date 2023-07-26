@@ -1,4 +1,4 @@
-<span id='navi-img' class="img" onclick="imgResize()">![img](./assets/svg/comp-2.svg)</span>
+![img](./assets/svg/comp-2.svg)
 
 # Памятник проектов и настроек <span id="n1"></span>
 
@@ -49,11 +49,11 @@
 
   1. [Aprakos-TS](https://docs.a374.ru/aprakos-ts/)
   2. [Парсер (node.js) для составления Церковно-славянских зачал из страниц HTML в файл формата json. Рядовые зачала согласно Уставу всего Богослужебного года.](https://github.com/a374ru/aprakos-json)
-  3. [Даты православной Пасхалии](https://docs.a374.ru/orthodox_easter_list/)
-  4. САЙТ [aprakos.ru](https://docs.a374.ru/aprakos.ru)
-  5. [Шаблон сетки GRID](https://docs.a374.ru/gridmonth/)
-  6. [Еще быстрый адаптивный шаблон](https://docs.a374.ru/template-grid/)
-  7. [ШРИФТ](https://docs.a374.ru/fontstest/)
+  3. [Даты православной Пасхалии](https://easter.a374.ru/)
+  4. САЙТ [aprakos.ru](https://aprakos.a374.ru/)
+  5. [Шаблон сетки GRID](https://a374ru.github.io/gridmonth/)
+  6. [Еще быстрый адаптивный шаблон](https://a374ru.github.io/template-grid/)
+  7. [ШРИФТ](https://a374ru.github.io/fontstest/)
   8. И другое нужное [здесь…](https://github.com/a374ru?tab=repositories)
 
 
