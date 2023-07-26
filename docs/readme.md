@@ -3,7 +3,7 @@
 #  Точка Входа
 
 
-<a href="#navi">
+<a onclick="imgResize(100, 0)">
 <img style="width: 99%; filter: drop-shadow(0px 0px 0px #0000);" src='https://img.a374.ru/planet-3-yaflag.webp'>
 </a>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-<span id="page-name-img" class="img" onclick="imgResize(100, 0.33)">![img](assets/img/contacts-ystm.png)</span>
+<!-- <span id="page-name-img" class="img" onclick="imgResize(100, 0.33)">![img](assets/img/contacts-ystm.png)</span> -->
 
 <br>
 
