@@ -3,7 +3,7 @@
 #  Точка Входа
 
 
-<a href="navi">
+<a href="#navi">
 <img style="width: 99%; filter: drop-shadow(0px 0px 0px #0000);" src='https://img.a374.ru/desktop.webp'>
 </a>
 
