@@ -6,6 +6,15 @@
 
 	Editor, Marketplace VSCode
 
+<details>
+  <summary>Нужные команды</summary>
+  <p>Публикация: <code>vsce publish</code></p>
+  <p></p>
+
+
+
+</details>
+
 ## Создание расширения
 
 Справка [здесь](https://code.visualstudio.com/api).
