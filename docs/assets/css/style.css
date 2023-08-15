@@ -145,6 +145,7 @@ pre {
 	background-color: #d2d2d229;
 	font-size: 1.1em;
 	border: var(--borderCode-var);
+	text-indent: -0.6%;
 
 }
 pre code {
