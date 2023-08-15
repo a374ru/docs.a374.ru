@@ -302,17 +302,17 @@ function kern() {
 // ---------end: kern()-----
 
 // ------ Скрытие меню ------
-var startScroll = 0
+var startScroll = 0;
 window.addEventListener('scroll', function () {
-	let currentPosition = this.scrollY
+	let currentPosition = this.scrollY;
 	if (currentPosition > startScroll && currentPosition > 555) {
 		document.querySelector('.navi').classList.add("navi-hidden");
-		console.log()
+		console.log();
 	}
 	else {
 		document.querySelector('.navi').classList.remove("navi-hidden");
 	}
-	startScroll = currentPosition
+	startScroll = currentPosition;
 
 });
 // ------end: Скрытие меню ------
