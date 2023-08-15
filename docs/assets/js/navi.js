@@ -305,7 +305,7 @@ function kern() {
 var startScroll = 0;
 window.addEventListener('scroll', function () {
 	let currentPosition = this.scrollY;
-	if (currentPosition > startScroll && currentPosition > 555) {
+	if (currentPosition > startScroll && currentPosition > 444) {
 		document.querySelector('.navi').classList.add("navi-hidden");
 		console.log();
 	}

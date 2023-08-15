@@ -78,8 +78,8 @@ cursor: pointer;
 
 .navi-hidden{
 
-	top:-300px;
 /* opacity: .01; */
+	transform: translateY(-97%);
 	transition: 2s;
 
 }
