@@ -299,4 +299,20 @@ function kern() {
 	}
 }
 
-// ---------end kern()-----
+// ---------end: kern()-----
+
+// ------ Скрытие меню ------
+var startScroll = 0
+window.addEventListener('scroll', function () {
+	let currentPosition = this.scrollY
+	if (currentPosition > startScroll && currentPosition > 555) {
+		document.querySelector('.navi').classList.add("navi-hidden");
+		console.log()
+	}
+	else {
+		document.querySelector('.navi').classList.remove("navi-hidden");
+	}
+	startScroll = currentPosition
+
+});
+// ------end: Скрытие меню ------
