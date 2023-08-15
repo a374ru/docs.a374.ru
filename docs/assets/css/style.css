@@ -79,7 +79,7 @@ cursor: pointer;
 .navi-hidden{
 
 	transform: translateY(-100%);
-	transition: 2s;
+	transition: 1s;
 
 }
 
@@ -207,7 +207,7 @@ td:nth-child(2n-1) {
 
 td > code {
 	color: #575757;
-	padding: 0.5rem;
+	padding: 0 0.3rem;
 }
 
 thead {
