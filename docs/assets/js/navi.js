@@ -51,7 +51,7 @@ if (localStorage.getItem("az") != 1) {
 function switchColorScheme() {
 
 	whiteBG = '#ffffff';
-	darkBG = '#4f2525e3';
+	darkBG = '#1C0005';
 	naviLight = `box-shadow: 0px 10 22 #fffaf5; background:linear-gradient(180deg, ${whiteBG} 98%, #b36c71 1%)`;
 	naviDark = `box-shadow: 0px 20px 52px #611816; background:linear-gradient(180deg, ${darkBG} 98%, red 1%)`;
 
