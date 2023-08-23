@@ -225,7 +225,9 @@ chmod a+x server-loc
 
 <br>
 
-[…назад](pokoy-proval.md)•||||•||||•[далее…](slovo-shell.md)
+|<--------|••••••|-------->|
+|:---|:---:|---:|
+[…назад](pokoy-proval.md)|[вверх](#)|[далее…](slovo-shell.md)
 
 <br>
 
