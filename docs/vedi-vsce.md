@@ -68,7 +68,7 @@ description: Windows маркет расширений для VSCode. Настр
 
 <br>
 
-[Title](vedi-vim.md)•||||||•||||||•[Title](navi-page.md)
+[…назад](vedi-vim.md)•||||•||||•[далее…](navi-page.md)
 
 <br>
 

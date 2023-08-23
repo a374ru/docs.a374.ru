@@ -31,7 +31,7 @@
 
 <br>
 
-[…назад](buki-install-ts.md)•||||||•||||||•[далее…](buki-set.md)
+[…назад](buki-install-ts.md)•||||•||||•[далее…](buki-set.md)
 
 <br>
 

@@ -44,7 +44,7 @@ description:  Последовательность установки Typescript
 
 <br>
 
-[…назад](buki-bukmarki.md)•||||||•||||||•[далее…](buki-problems-ts.md)
+[…назад](buki-bukmarki.md)•||||•||||•[далее…](buki-problems-ts.md)
 
 <br>
 

@@ -52,7 +52,7 @@ description: Свойства – это как чувства у человек
 
 <br>
 
-[…назад](az-assets.md)•||||||•||||||•[далее…](az-peremennaya.md)
+[…назад](az-assets.md)•||||•||||•[далее…](az-peremennaya.md)
 
 
 <br>

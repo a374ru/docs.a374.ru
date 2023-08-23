@@ -28,7 +28,7 @@ description: Пример шрифта Фонтикс
 
 <br>
 
-[…назад](dobro-django.md)•||||||•||||||•[далее…](glagol-git.md)
+[…назад](dobro-django.md)•||||•||||•[далее…](glagol-git.md)
 
 <br>
 
