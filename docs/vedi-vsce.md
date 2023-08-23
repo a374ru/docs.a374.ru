@@ -61,7 +61,7 @@
 
 <br>
 
-[…на главную](/)
+[Title](vedi-vim.md)--|--[Title](navi-page.md)
 
 <br>
 

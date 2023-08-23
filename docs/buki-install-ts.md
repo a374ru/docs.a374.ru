@@ -37,7 +37,7 @@
 
 <br>
 
-[…на главную](/)
+[…назад](buki-bukmarki.md)--|--[далее…](buki-problems-ts.md)
 
 <br>
 

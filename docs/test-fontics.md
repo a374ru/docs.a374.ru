@@ -12,7 +12,7 @@
 
 <br>
 
-[…на главную](/)
+[…назад](tako-type.md)--|--[далее…](vedi-documents.md)
 
 <br>
 

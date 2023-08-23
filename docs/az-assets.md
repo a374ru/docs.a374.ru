@@ -57,10 +57,10 @@
 
 <br>
 
-[…на главную](/)
-
+[…назад](az-apr-ts.md)--|--[далее…](az-object.md)
 
 <br>
+
 
 
 <span id="page-name-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>

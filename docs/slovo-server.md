@@ -219,7 +219,7 @@ chmod a+x server-loc
 
 <br>
 
-[…на главную](/)
+[…назад](pokoy-proval.md)--|--[далее…](slovo-shell.md)
 
 <br>
 

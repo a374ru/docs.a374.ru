@@ -48,7 +48,7 @@ ssh-add -K ~/.ssh/id_rsa   # где `id_rsa` замените на имя фай
 
 <br>
 
-[…на главную](/)
+[…назад](fert-font.md)--|--[далее…](kakw-cal.md)
 
 <br>
 

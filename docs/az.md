@@ -13,7 +13,9 @@
 
 <br>
 
-[…на главную](/) <span style="width:100%">----|----</span> [далее…](az-angular-fb.md)
+[…на главную](/)----|----[далее…](az-angular-fb.md)
+
+
 
 <br>
 

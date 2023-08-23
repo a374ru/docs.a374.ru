@@ -69,7 +69,7 @@ man; /// [ 0, 'Adam', 'Eva' ]
 
 <br>
 
-[…на главную](/)
+[…назад](slovo-shell.md)--|--[далее…](test-fontics.md)
 
 <br>
 

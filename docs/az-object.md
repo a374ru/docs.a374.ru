@@ -42,9 +42,11 @@
 […возврат](az-peremennaya)
 
 
+
 <br>
 
-[…на главную](/)
+[…назад](az-assets.md)--|--[далее…](az-peremennaya.md)
+
 
 <br>
 

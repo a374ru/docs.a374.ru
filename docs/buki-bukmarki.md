@@ -44,7 +44,7 @@
 
 <br>
 
-[…на главную](/)
+[…назад](billing.md)--|--[далее…](buki-install-ts.md)
 
 <br>
 

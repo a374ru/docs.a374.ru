@@ -91,7 +91,7 @@ deactivate
 
 <br>
 
-[…на главную](/)
+[…назад](dobro-day.md)--|--[далее…](fert-font.md)
 
 <br>
 

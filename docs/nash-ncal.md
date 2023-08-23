@@ -50,7 +50,7 @@
 
 <br>
 
-[…на главную](/)
+[…назад](kakw-colors.md)--|--[далее…](pokoy-proval.md)
 
 <br>
 

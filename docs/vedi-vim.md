@@ -74,7 +74,7 @@ PlugInstall
 
 <br>
 
-[…на главную](/)
+[…назад](vedi-documents.md)--|--[далее…](vedi-vsce.md)
 
 <br>
 

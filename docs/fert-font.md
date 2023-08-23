@@ -20,7 +20,7 @@
 
 <br>
 
-[…на главную](/)
+[…назад](dobro-django.md)--|--[далее…](glagol-git.md)
 
 <br>
 
