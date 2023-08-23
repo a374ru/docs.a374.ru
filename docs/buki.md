@@ -1,3 +1,9 @@
+---
+
+title: Страница Буки…
+
+---
+
 
 <div class="navi"><nav id="navi"><!-- js --></nav></div>
 
