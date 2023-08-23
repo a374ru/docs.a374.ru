@@ -1,5 +1,7 @@
 ---
 
+title: Angular + Firebase и их настройка
+description: Angular + Firebase и их настройка. Запуск, установка эмулятора Firebase
 
 ---
 

@@ -1,3 +1,11 @@
+---
+
+title: Шрифт самодельный Fontics
+description: Пример шрифта Фонтикс
+
+---
+
+
 <div class="navi"><nav id="navi"><!-- js --></nav></div>
 
 # О шрифте

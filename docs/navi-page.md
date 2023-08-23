@@ -1,3 +1,12 @@
+---
+
+title: Страница ссылок на страницы с сылками
+description: Навигация по сайту, ссылки сайта в самом простом виде
+
+---
+
+
+
 <div class="navi"><nav id="navi"><!-- js --></nav></div>
 
 <!-- <script async src="https://cse.google.com/cse.js?cx=c5023aea175714331">

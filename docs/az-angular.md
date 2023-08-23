@@ -1,3 +1,11 @@
+---
+
+title: Обновление Angular
+description: Памятка по обновлению Angular, или как лучше пользоваться обновлениями CLI
+
+---
+
+
 <div class="navi"><nav id="navi"><!-- js --></nav></div>
 
 # **Обновление** **Angular** <span style="color: #e34234;">CLI

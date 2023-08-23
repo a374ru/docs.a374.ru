@@ -1,3 +1,9 @@
+---
+
+title: УСТАНОВКА И НАСТРОЙКА GOOGLE CLOUD
+description: УСТАНОВКА И НАСТРОЙКА GOOGLE CLOUD
+
+---
 
 <div class="navi"><nav id="navi"><!-- js --></nav></div>
 
