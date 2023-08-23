@@ -63,7 +63,7 @@ description: Повествование о том как…
 
 <br>
 
-[…назад](buki.md)--|--[далее…](dobro-django.md)
+[…назад](buki.md):---|---:[далее…](dobro-django.md)
 
 <br>
 

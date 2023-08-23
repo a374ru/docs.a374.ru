@@ -163,7 +163,7 @@ export const environment = {
 
 <br>
 
-[…назад](az.md)--|--[далее…](az-angular.md)
+[…назад](az.md):---|---:[далее…](az-angular.md)
 
 
 <br>

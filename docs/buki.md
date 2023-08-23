@@ -33,7 +33,7 @@ description: Страница настроек и тестирования
 
 <br>
 
-[…назад](buki-set.md)--|--[далее…](dobro-day.md)
+[…назад](buki-set.md):---|---:[далее…](dobro-day.md)
 
 <br>
 

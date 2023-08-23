@@ -21,7 +21,7 @@
 
 <br>
 
-[…назад](kakw-cal.md)--|--[далее…](nash-ncal.md)
+[…назад](kakw-cal.md):---|---:[далее…](nash-ncal.md)
 
 <br>
 

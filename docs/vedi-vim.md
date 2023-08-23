@@ -81,7 +81,7 @@ PlugInstall
 
 <br>
 
-[…назад](vedi-documents.md)--|--[далее…](vedi-vsce.md)
+[…назад](vedi-documents.md):---|---:[далее…](vedi-vsce.md)
 
 <br>
 

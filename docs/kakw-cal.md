@@ -104,7 +104,7 @@ ncal -eJ # что и ранее, т.к. не бывает Григорианск
 
 <br>
 
-[…назад](glagol-git.md)--|--[далее…](kakw-colors.md)
+[…назад](glagol-git.md):---|---:[далее…](kakw-colors.md)
 
 <br>
 
