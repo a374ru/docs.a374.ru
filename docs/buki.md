@@ -1,8 +1,8 @@
 ---
 
-title: Страница Буки…
-permalink: b
-
+title: Страница Буки
+# permalink: b
+description: Страница настроек и тестирования
 ---
 
 
