@@ -98,7 +98,7 @@ deactivate
 
 <br>
 
-[…назад](dobro-day.md):---|---:[далее…](fert-font.md)
+[…назад](dobro-day.md)•||||||•||||||•[далее…](fert-font.md)
 
 <br>
 

@@ -68,7 +68,7 @@ npm i
 
 <br>
 
-[…назад](az-angular-fb.md):---|---:[далее…](az-apr-ts.md)
+[…назад](az-angular-fb.md)•||||||•||||||•[далее…](az-apr-ts.md)
 
 
 <br>

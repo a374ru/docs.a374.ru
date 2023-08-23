@@ -17,7 +17,7 @@ description: Документация по SHELL
 
 <br>
 
-[…назад](slovo-server.md):---|---:[далее…](tako-type.md)
+[…назад](slovo-server.md)•||||||•||||||•[далее…](tako-type.md)
 
 <br>
 

@@ -126,7 +126,7 @@ az = "new man" // error!
 
 <br>
 
-[…назад](az-peremennaya.md):---|---:[далее…](billing.md)
+[…назад](az-peremennaya.md)•||||||•||||||•[далее…](billing.md)
 
 <br>
 
