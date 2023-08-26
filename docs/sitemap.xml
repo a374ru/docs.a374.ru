@@ -1,136 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Generated with https://sitemap-xml.ru-->
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
-  <url>
-    <loc>https://docs.a374.ru/</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/az</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/az-peremennaya</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/az-object</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/az-apr-ts</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/buki</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/buki-bukmarki</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/buki-set</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/vedi-vim</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/vedi-documents</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/glagol-git</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/kakw-colors</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/pokoy-proval</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/fontstest/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/slovo-server</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/search-result</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/slovo-shell</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/tako-type</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/fert-font</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/fontstest</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/az-object</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/az-peremennaya</loc>
-    <lastmod>2023-07-24T15:29:54+03:00</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/vedi-vsce</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/nash-ncal</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/az-object</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/kakw-cal</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/az-angular-fb</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://docs.a374.ru/test-fontics</loc>
-    <priority>0.7</priority>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://docs.a374.ru/</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/az.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/az-angular-fb.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/az-angular.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/az-apr-ts.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/az-assets.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/az-object.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/az-peremennaya</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/az-peremennaya.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/tako-type</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/billing.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/slovo-shell.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/test-fontics.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/buki-bukmarki.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/slovo-server.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/tako-type.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/vedi-documents.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/buki-install-ts.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/pokoy-proval.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/vedi-vim.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/buki-set.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/nash-ncal.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/vedi-vsce.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/buki.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/kakw-colors.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/navi-page.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/dobro-day.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/kakw-cal.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/dobro-django.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/glagol-git.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/fert-font.html</loc>
+  <lastmod>2023-08-26T10:41:24+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://docs.a374.ru/external/gitignore_global.txt</loc>
+  <lastmod>2023-08-26T10:41:20+00:00</lastmod>
+  <priority>0.03</priority>
+</url>
+
+
 </urlset>
