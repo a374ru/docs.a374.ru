@@ -1,3 +1,10 @@
+---
+
+title: Установка Typescript
+description:  Последовательность установки Typescript на MacOS
+
+---
+
 <div class="navi"><nav id="navi"><!-- js --></nav></div>
 
 # Развертывание Typescript
@@ -37,7 +44,9 @@
 
 <br>
 
-[…на главную](/)
+|<-------——|••••••|——------->|
+|:---|:---:|---:|
+[…назад](buki-bukmarki.md)|[вверх](#)|[далее…](buki-set.md)
 
 <br>
 
