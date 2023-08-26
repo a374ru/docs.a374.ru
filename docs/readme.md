@@ -15,9 +15,7 @@
 
 <br>
 
-|<------——|••••••|——------->|
-|:---|:---:|---:|
-[…назад](/)|[вверх](#)|[далее…](az.md)
+### <span style="text-align: center;"> [далее…](az.md)</span>
 <!-- ## Документация -->
 
 <!-- [Aprakos.online](https://aprakosonline.readthedocs.io) -->
