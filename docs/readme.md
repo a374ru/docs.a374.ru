@@ -15,16 +15,7 @@
 
 <br>
 
-|<------——|••••••|——------->|
-|:---|:---:|---:|
-||[далее…](az.md)
-<!-- ## Документация -->
-
-<!-- [Aprakos.online](https://aprakosonline.readthedocs.io) -->
-
-<!-- [Памятник разработки](https://a374ru.readthedocs.io) -->
-
-<br>
+## [далее…](az.md)
 
 <!-- <span id="page-name-img" class="img" onclick="imgResize(100, 0.33)">![img](assets/img/contacts-ystm.png)</span> -->
 
