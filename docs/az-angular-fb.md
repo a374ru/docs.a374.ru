@@ -2,7 +2,7 @@
 
 title: Angular + Firebase и их настройка
 description: Angular + Firebase и их настройка. Запуск, установка эмулятора Firebase
-permalink: afb
+# permalink: afb
 
 ---
 
@@ -167,7 +167,7 @@ export const environment = {
 
 |<-------——|••••••|——------->|
 |:---|:---:|---:|
-|[…назад](az)|[вверх](#)|[далее…](update-angular)|
+|[…назад](az)|[вверх](#)|[далее…](az-angular)|
 
 
 

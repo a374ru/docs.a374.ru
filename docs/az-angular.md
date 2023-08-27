@@ -2,7 +2,7 @@
 
 title: Обновление Angular
 description: Памятка по обновлению Angular, или как лучше пользоваться обновлениями CLI
-permalink: update-angular
+# permalink: update-angular
 ---
 
 
@@ -71,7 +71,7 @@ npm i
 
 |<-------——|••••••|——------->|
 |:---|:---:|---:|
-[…назад](afb)|[вверх](#)|[далее…](az-apr-ts.md)
+[…назад](az-angular-fb.md)|[вверх](#)|[далее…](az-apr-ts.md)
 
 
 <br>
