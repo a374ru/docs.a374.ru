@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with EazyDraw for Mac ( https://www.eazydraw.com/ ) -->
+
+<svg
+    version="1.1"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    width="622.012523767"
+    height="417.939221008"
+    viewBox="0, 0, 622.012523767, 417.939221008"
+    preserveAspectRatio="none"
+    id="svg2">
+   <defs
+       id="defs_8D8C890F">
+      <filter
+          id="filter_1F897FDE"
+          width="1.131225671078"
+          height="1.190620080653"
+          x="-0.1"
+          y="-0.1">
+         <feGaussianBlur
+             id="filter_1F897FDE_blur"
+             in="SourceAlpha"
+             stdDeviation="1.1"
+             result="blur"/>
+         <feColorMatrix
+             id="filter_1F897FDE_ColorMatrix"
+             result="bluralpha"
+             type="matrix"
+             values="0 0 0 0 0      0 0 0 0 0      0 0 0 0 0      0 0 0 0.25 0"/>
+         <feOffset
+             id="filter_1F897FDE_Offset"
+             in="bluralpha"
+             dx="0"
+             dy="10"
+             result="offsetBlur"/>
+         <feMerge
+             id="filter_1F897FDE_Merge">
+            <feMergeNode id="filter_1F897FDE_MergeNode_a" in="offsetBlur"/>
+            <feMergeNode id="filter_1F897FDE_MergeNode_b" in="SourceGraphic"/>
+         </feMerge>
+      </filter>
+      <filter
+          id="filter_1FE49EAE"
+          width="1.120376181895"
+          height="1.141299776514"
+          x="-0.1"
+          y="-0.1">
+         <feGaussianBlur
+             id="filter_1FE49EAE_blur"
+             in="SourceAlpha"
+             stdDeviation="1.1"
+             result="blur"/>
+         <feColorMatrix
+             id="filter_1FE49EAE_ColorMatrix"
+             result="bluralpha"
+             type="matrix"
+             values="0 0 0 0 0      0 0 0 0 0      0 0 0 0 0      0 0 0 0.25 0"/>
+         <feOffset
+             id="filter_1FE49EAE_Offset"
+             in="bluralpha"
+             dx="0"
+             dy="10"
+             result="offsetBlur"/>
+         <feMerge
+             id="filter_1FE49EAE_Merge">
+            <feMergeNode id="filter_1FE49EAE_MergeNode_a" in="offsetBlur"/>
+            <feMergeNode id="filter_1FE49EAE_MergeNode_b" in="SourceGraphic"/>
+         </feMerge>
+      </filter>
+   </defs>
+   <metadata
+       id="metadata7">
+      <rdf:RDF>
+         <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <g
+       id="layer_Paper"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1;stroke-miterlimit:10">
+      <path
+          style="fill:#647FFA;stroke:none;filter:url(#filter_1F897FDE)"
+          id="1F897FDE"
+          d="M359.80836443,10.5618304746 C419.053444126,10.5618304746 478.298523822,10.5618304746 537.543603518,10.5618304746 C546.894421597,10.5618304746 556.245239677,19.9126485543 556.245239677,29.263466634 C556.245239677,78.2072357771 556.245239677,127.15100492 556.245239677,176.094774063
+C556.245239677,184.919480959 547.420532781,193.744187856 538.595825885,193.744187856 C481.361791619,193.744187856 424.127757353,193.744187856 366.893723087,193.744187856 C355.887205034,193.744187856 344.880686982,182.737669803 344.880686982,171.731151751
+C344.880686982,122.983937141 344.880686982,74.2367225317 344.880686982,25.4895079222 C344.880686982,18.0256691984 352.344525706,10.5618304746 359.80836443,10.5618304746 z"/>
+      <path
+          style="fill:#C89FFA;stroke:none;filter:url(#filter_1F897FDE)"
+          id="A2246AEE"
+          d="M363.830339513,208.249622315 C423.075419209,208.249622315 482.320498905,208.249622315 541.565578601,208.249622315 C550.91639668,208.249622315 560.26721476,217.600440395 560.26721476,226.951258475 C560.26721476,275.895027618 560.26721476,324.838796761 560.26721476,373.782565904
+C560.26721476,382.6072728 551.442507864,391.431979696 542.617800968,391.431979696 C485.383766702,391.431979696 428.149732436,391.431979696 370.91569817,391.431979696 C359.909180118,391.431979696 348.902662065,380.425461644 348.902662065,369.418943591
+C348.902662065,320.671728982 348.902662065,271.924514372 348.902662065,223.177299763 C348.902662065,215.713461039 356.366500789,208.249622315 363.830339513,208.249622315 z"/>
+      <path
+          style="fill:#BABCFA;stroke:none;filter:url(#filter_1FE49EAE)"
+          id="1FE49EAE"
+          d="M17.1407897434,0 C117.682793722,0 218.2247977,0 318.766801679,0 C324.337196551,0 329.907591422,5.570394871698 329.907591422,11.1407897434 C329.907591422,134.237788787 329.907591422,257.33478783 329.907591422,380.431786873
+C329.907591422,391.185503941 319.153874355,401.939221008 308.400157287,401.939221008 C211.313701439,401.939221008 114.227245591,401.939221008 17.1407897434,401.939221008 C11.5703948717,401.939221008 6,396.368826137 6,390.798431265
+C6,264.245884091 6,137.693336917 6,11.1407897434 C6,5.570394871698 11.5703948717,-0 17.1407897434,-0 z"/>
+      <text
+          id="E6FE30CE"
+          style="fill:#FFFFFF;stroke:none"
+          font-family=".AppleSystemUIFont"
+          font-size="24"
+          font-weight="bold"
+          font-style="italic">
+         <tspan x="33.0661953348" y="141.456492768">0</tspan>
+      </text>
+      <text
+          id="4C1292CE"
+          style="fill:#FFFFFF;stroke:none"
+          font-family=".AppleSystemUIFont"
+          font-size="24"
+          font-weight="bold"
+          font-style="italic">
+         <tspan x="33.0661953348" y="204.413592425">1</tspan>
+      </text>
+      <text
+          id="B36FD2CE"
+          style="fill:#FFFFFF;stroke:none"
+          font-family=".AppleSystemUIFont"
+          font-size="24"
+          font-weight="bold"
+          font-style="italic">
+         <tspan x="33.0661953348" y="268.288263307">2</tspan>
+      </text>
+      <text
+          id="7D1623CE"
+          style="fill:#FFFFFF;stroke:none"
+          font-family=".AppleSystemUIFont"
+          font-size="24"
+          font-weight="bold"
+          font-style="italic">
+         <tspan x="33.0661953348" y="329.207183478">3</tspan>
+      </text>
+      <text
+          id="0BB4F4CE"
+          style="stroke:none"
+          font-family=".AppleSystemUIFont"
+          font-size="36"
+          font-weight="bold"
+          font-style="italic">
+         <tspan x="102.115307369" y="57.2013190678">Objects</tspan>
+      </text>
+      <text
+          id="9FF572EE"
+          style="fill:#FFFFFF;stroke:none"
+          font-family=".AppleSystemUIFont"
+          font-size="24"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="401.459588801" y="104.82392585">Properties</tspan>
+      </text>
+      <text
+          id="90427BEE"
+          style="fill:#FFFFFF;stroke:none"
+          font-family=".AppleSystemUIFont"
+          font-size="24"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="403.716580644" y="300.774189203">Properties</tspan>
+      </text>
+      <path
+          style="fill:#E34234;stroke:#FFFFFF;stroke-width:2.809900522232;stroke-miterlimit:9"
+          id="ABEC614E"
+          d="M86.2636347391,108.765378817 C149.503841136,108.765378817 212.744047533,108.765378817 275.984253929,108.765378817 C280.984253929,108.765378817 285.984253929,113.765378817 285.984253929,118.765378817 C285.984253929,128.955992287 285.984253929,139.146605757 285.984253929,149.337219226
+C285.984253929,154.337219226 280.984253929,159.337219226 275.984253929,159.337219226 C212.744047533,159.337219226 149.503841136,159.337219226 86.2636347391,159.337219226 C81.2636347391,159.337219226 76.2636347391,154.337219226 76.2636347391,149.337219226
+C76.2636347391,139.146605757 76.2636347391,128.955992287 76.2636347391,118.765378817 C76.2636347391,113.765378817 81.2636347391,108.765378817 86.2636347391,108.765378817 z"/>
+      <text
+          id="75BEA44E"
+          style="fill:#F4F0EA;stroke:none"
+          font-family=".AppleSystemUIFont"
+          font-size="18"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="129.29044824" y="140.551299022">Object_1 {az}</tspan>
+      </text>
+      <path
+          style="fill:#E34234;stroke:#FFFFFF;stroke-width:2.809900522232;stroke-miterlimit:9"
+          id="905F0DBE"
+          d="M86.2636347391,171.689940487 C149.281265816,171.689940487 212.298896892,171.689940487 275.316527969,171.689940487 C280.316527969,171.689940487 285.316527969,176.689940487 285.316527969,181.689940487 C285.316527969,191.880553957 285.316527969,202.071167427 285.316527969,212.261780897
+C285.316527969,217.261780897 280.316527969,222.261780897 275.316527969,222.261780897 C212.298896892,222.261780897 149.281265816,222.261780897 86.2636347391,222.261780897 C81.2636347391,222.261780897 76.2636347391,217.261780897 76.2636347391,212.261780897
+C76.2636347391,202.071167427 76.2636347391,191.880553957 76.2636347391,181.689940487 C76.2636347391,176.689940487 81.2636347391,171.689940487 86.2636347391,171.689940487 z"/>
+      <text
+          id="B05F0DBE"
+          style="fill:#F4F0EA;stroke:none"
+          font-family=".AppleSystemUIFont"
+          font-size="18"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="144.798870417" y="203.475860692">Object_2</tspan>
+      </text>
+      <path
+          style="fill:#E34234;stroke:#FFFFFF;stroke-width:2.809900522232;stroke-miterlimit:9"
+          id="08213DBE"
+          d="M86.2636347391,234.614502158 C149.755051877,234.614502158 213.246469015,234.614502158 276.737886154,234.614502158 C281.737886154,234.614502158 286.737886154,239.614502158 286.737886154,244.614502158 C286.737886154,254.805115628 286.737886154,264.995729097 286.737886154,275.186342567
+C286.737886154,280.186342567 281.737886154,285.186342567 276.737886154,285.186342567 C213.246469015,285.186342567 149.755051877,285.186342567 86.2636347391,285.186342567 C81.2636347391,285.186342567 76.2636347391,280.186342567 76.2636347391,275.186342567
+C76.2636347391,264.995729097 76.2636347391,254.805115628 76.2636347391,244.614502158 C76.2636347391,239.614502158 81.2636347391,234.614502158 86.2636347391,234.614502158 z"/>
+      <text
+          id="28213DBE"
+          style="fill:#F4F0EA;stroke:none"
+          font-family=".AppleSystemUIFont"
+          font-size="18"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="145.698514353" y="266.400422362">Object_3</tspan>
+      </text>
+      <path
+          style="fill:#E34234;stroke:#FFFFFF;stroke-width:2.809900522232;stroke-miterlimit:9"
+          id="BCE15DBE"
+          d="M86.2636347391,297.539063828 C150.04140609,297.539063828 213.819177442,297.539063828 277.596948793,297.539063828 C282.596948793,297.539063828 287.596948793,302.539063828 287.596948793,307.539063828 C287.596948793,317.729677298 287.596948793,327.920290768 287.596948793,338.110904237
+C287.596948793,343.110904237 282.596948793,348.110904237 277.596948793,348.110904237 C213.819177442,348.110904237 150.04140609,348.110904237 86.2636347391,348.110904237 C81.2636347391,348.110904237 76.2636347391,343.110904237 76.2636347391,338.110904237
+C76.2636347391,327.920290768 76.2636347391,317.729677298 76.2636347391,307.539063828 C76.2636347391,302.539063828 81.2636347391,297.539063828 86.2636347391,297.539063828 z"/>
+      <text
+          id="CCE15DBE"
+          style="fill:#F4F0EA;stroke:none"
+          font-family=".AppleSystemUIFont"
+          font-size="18"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="146.066522235" y="329.324984033">Object_4</tspan>
+      </text>
+      <polyline
+          style="fill:#2C43FA;stroke:#647FFA;stroke-width:6.024499893188;stroke-miterlimit:9"
+          id="7F2667EE"
+          points="285.316527969,196.975860692 344.880686982,98.6103298364"/>
+      <polyline
+          style="fill:#2C43FA;stroke:#647FFA;stroke-width:4.847282886505;stroke-miterlimit:9"
+          id="835AF8EE"
+          points="286.737886154,259.900422362 344.880686982,98.6103298364"/>
+      <polyline
+          style="fill:#2C43FA;stroke:#C89FFA;stroke-width:5.735882759094;stroke-miterlimit:9"
+          id="C3CFADEE"
+          points="285.984253929,134.051299022 348.902662065,296.298121677"/>
+      <polyline
+          style="fill:#2C43FA;stroke:#C89FFA;stroke-width:6.381361961365;stroke-miterlimit:9"
+          id="AA83EDEE"
+          points="287.596948793,322.824984033 348.902662065,296.298121677"/>
+   </g>
+</svg>

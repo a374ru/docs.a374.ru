@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with EazyDraw for Mac ( https://www.eazydraw.com/ ) -->
+
+<svg
+    version="1.1"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    width="52.3283841074"
+    height="65.3820649481"
+    viewBox="0, 0, 52.3283841074, 65.3820649481"
+    preserveAspectRatio="none"
+    id="svg2">
+   <defs
+       id="defs_5ECF506D"/>
+   <metadata
+       id="metadata7">
+      <rdf:RDF>
+         <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <g
+       id="layer_Paper"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1;stroke-miterlimit:10">
+      <path
+          style="fill:#FFD479;fill-opacity:0.46054;stroke:#FFFFFF;stroke-width:1.979592561722"
+          id="EA7AEFFC"
+          d="M38.7966352693,1.157921970951 L1.336837116304,1.157921970951 L1.336837116304,64.3922686673 L51.3385878265,64.3922686673 L51.3385878265,13.6998745282 L38.7966352693,1.157921970951 L36.8170427075,1.157921970951
+L37.8068389884,1.157921970951 L37.8068389884,13.6998745282 L50.3487915457,13.6998745282"/>
+      <circle
+          style="fill:#FFFFFF;fill-opacity:0.5;stroke:none"
+          id="0E79170D"
+          cx="25.8227956128"
+          cy="31.9563004077"
+          r="19.3944229431"/>
+      <path
+          style="fill:none;stroke:#5E5E5E;stroke-width:0.837919354439"
+          id="29CAAB1D"
+          d="M8.639043666669,36.6898620375 L8.694168455339,44.4254318593 M13.0375400121,36.6585177168 L13.0651024065,40.5263026277 M17.4360363576,36.6271733961 L17.4911611463,44.3627432179 M21.8345327031,36.5958290753
+L21.8620950974,40.4636139862 M26.2330290485,36.5644847546 L26.380028485,57.1926709461 M30.631525394,36.5331404339 L30.6590877883,40.4009253448 M35.0300217395,36.5017961131 L35.0851465281,44.237365935 M39.4285180849,36.4704517924
+L39.4560804792,40.3382367033 M43.8270144304,36.4391074717 L43.882139219,44.1746772935"/>
+      <polygon
+          style="fill:#FFD479;stroke:#FFFFFF"
+          id="6316C04D"
+          points="34.5352291879,27.994105299 51.6925649441,27.994105299 51.6925649441,31.5179959138 34.5352291879,31.5179959138 32.7732838805,29.7560506064"/>
+      <polygon
+          style="fill:#FFD479;stroke:#FFFFFF"
+          id="E4B2614D"
+          points="0.5,27.903321881 17.0222020503,27.903321881 18.9514551631,29.8394900205 17.0222020503,31.7618281067 0.5,31.7618281067"/>
+      <polygon
+          style="fill:#FFD479;stroke:#FFFFFF"
+          id="C2E0744D"
+          points="24.787547054,0.5 28.6020076476,0.5 28.6020076476,23.2745687471 26.6947773508,25.1817990439 24.787547054,23.2745687471"/>
+   </g>
+</svg>
