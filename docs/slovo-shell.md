@@ -1,8 +1,7 @@
 ---
 
 title: Документация по SHELL
-description: Документация по SHELL
-published: false
+description: Документация по SHELL на сайте developer.apple.com
 
 ---
 
