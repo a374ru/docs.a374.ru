@@ -2,7 +2,7 @@
 
 title: Документация по SHELL
 description: Документация по SHELL
-draft: true
+published: false
 
 ---
 
