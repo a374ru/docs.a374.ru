@@ -15,7 +15,7 @@
 
 <br>
 
-## <span style="text-align: center">[далее…](az.md)</span>
+###### [далее…](az.md)
 
 <!-- <span id="page-name-img" class="img" onclick="imgResize(100, 0.33)">![img](assets/img/contacts-ystm.png)</span> -->
 
