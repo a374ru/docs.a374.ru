@@ -269,8 +269,13 @@ h2::first-letter {
 
 h3 {
 	font-size: 1.4em;
-	transform: rotate(359deg);
-	color: #696969;
+	transform: rotate(0deg);
+	color: #a04877;
+}
+
+h3:before{
+content: "√ ";
+color: #e34234;
 }
 
 a:link {
