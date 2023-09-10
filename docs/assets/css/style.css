@@ -235,6 +235,15 @@ h1::first-letter {
 	font-size: 1.7em;
 }
 
+h2 code{
+	font-size: larger;
+
+}
+h3 code{
+	font-size: smaller;
+
+}
+
 p {
 	font-size: 1.2em;
 }
