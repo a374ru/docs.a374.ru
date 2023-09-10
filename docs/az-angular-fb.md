@@ -150,7 +150,7 @@ export const environment = {
 
 ><span style="color: #e34234;">После изменения кода в методе `provideFirestore()` появятся ошибки, тогда обновите импорты, добавив нужные классы и методы вверху страницы.
 
-## Отредактируйте строку запуска в файле проекта `package.json`
+### Отредактируйте строку запуска в файле проекта `package.json`
 
 ```json
 "start": "firebase emulators:exec --project=ascript --ui 'ng s -o'"
