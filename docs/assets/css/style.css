@@ -264,7 +264,7 @@ p::first-letter {
 }
 
 h2 {
-	font-size: 1.4em;
+	font-size: larger;
 	text-transform: uppercase;
 	overflow-wrap: break-word;
 }
