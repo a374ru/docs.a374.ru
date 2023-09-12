@@ -4,7 +4,7 @@
 
 
 <a onclick="imgResize(100, 0)">
-<img style="width: 99%; filter: drop-shadow(0px 0px 0px #0000);" src='https://img.a374.ru/planet-3-yaflag.webp'>
+<img style="width: 99%; filter: drop-shadow(0px 0px 0px #0000);" src='https://img.a374.ru/planet-4-yaflag.png'>
 </a>
 
 >После перерывов в работе всегда требуется восстановить былое…
