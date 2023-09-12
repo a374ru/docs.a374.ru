@@ -20,6 +20,10 @@
 	--borderCode-var: 0.5px #ce6c6c42 solid;
 }
 
+h2,h3{
+scroll-margin-top: 3dvw ;
+}
+
 /* @font-face {
 	font-family: "Fontics";
 	font-display: auto;
