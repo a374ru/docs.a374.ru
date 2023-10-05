@@ -203,7 +203,13 @@ function toNavi() {
 
 	cday = new Date().getDate();
 
-	htmlString += `<div class="navi-item" id="navi-day"><a href="dobro-day"><span id="navi-dobro-day">День </span></a><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html"><span class="${folderProjectOfGitHub}number-day" id="number-day">${cday}</span></a></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="${folderProjectOfGitHub}navi-page#navi"><span class="material-icons-two-tone">manage_search</span></a></div><div class="navi-item" title="Цветность" id="colorScheme"><a onclick="switchColorScheme()"><span class="material-icons-two-tone">nightlight</span></a></div>`
+	htmlString += `<div class="navi-item" id="navi-day"><a href="dobro-day"><span id="navi-dobro-day">День </span></a><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html"><span class="${folderProjectOfGitHub}number-day" id="number-day">${cday}</span></a></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="${folderProjectOfGitHub}navi-page#navi"><span class="material-icons-two-tone">manage_search</span></a></div><div class="navi-item" title="Цветность" id="colorScheme"><a onclick="switchColorScheme()"><span class="material-icons-two-tone"><svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 48 48" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Слой-1" vectornator:layerName="Слой 1">
+<path d="M45.7029 24.8744C45.2689 36.2913 34.9855 45.155 22.7342 44.6721C10.4829 44.1892 0.902991 34.5425 1.33693 23.1256C1.77086 11.7087 12.0543 2.84495 24.3056 3.32789C36.5569 3.81082 46.1368 13.4575 45.7029 24.8744Z" fill="#484a4a" fill-rule="nonzero" opacity="0.570926" stroke="#484a4a" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.28681" vectornator:blendMode="exclusion" vectornator:layerName="Овал 1"/>
+<path d="M46.6535 23.4767C47.1707 34.615 39.1736 44.0497 28.7915 44.5497C18.4094 45.0496 9.57374 36.4256 9.05655 25.2873C8.53935 14.149 16.5365 4.71431 26.9186 4.21433C37.3007 3.71436 46.1363 12.3384 46.6535 23.4767Z" fill="#e9f179" fill-rule="nonzero" opacity="1" stroke="none" vectornator:blendMode="screen" vectornator:layerName="Овал 2"/>
+</g>
+</svg></span></a></div>`
 	return htmlString;
 
 }
