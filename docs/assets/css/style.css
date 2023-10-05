@@ -391,6 +391,7 @@ li {
 .gsc-above-wrapper-area-container {
 	/* width: 90% !important; */
 	transform: rotate(0deg);
+	display: none;
 }
 
 .gs-snippet .gs-title {
