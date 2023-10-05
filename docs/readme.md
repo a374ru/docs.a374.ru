@@ -1,3 +1,9 @@
+---
+
+link: link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+
+---
+
 <div class="navi"> <nav id="navi"> <!-- js --> </nav></div>
 
 #  Точка Входа
@@ -24,12 +30,12 @@
 <script src="assets/js/navi.js"></script>
 
 <!-- Блок Анимации CSS -->
-<ul class="background">
+<!-- <ul class="background">
    <li></li>
    <li></li>
    <li></li>
    <li></li>
    <li></li>
    <li></li>
-</ul>
+</ul> -->
 <!-- end animation -->
