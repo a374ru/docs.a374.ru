@@ -4,9 +4,8 @@
  * @format
  */
 
-/* среда,  24 августа 2022 v2  */
+/* четверг, 5 октября 2023 г v2  */
 
-@import 'https://fonts.googleapis.com/icon?family=Material+Icons+Two+Tone';
 
 :root {
 	--kino-var: #e34234;
@@ -32,6 +31,33 @@ scroll-margin-top: 3dvw ;
 	font-weight: normal;
 	font-style: normal;
 } */
+
+@font-face {
+  font-family: 'Material Icons Two Tone';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/materialiconstwotone/v112/hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNCu0NjbrHg.woff2) format('woff2');
+}
+
+body {
+  --google-font-color-materialiconstwotone:none;
+}
+
+.material-icons-two-tone {
+  font-family: 'Material Icons Two Tone';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
 
 @font-face {
 	font-family: 'Fontics';
