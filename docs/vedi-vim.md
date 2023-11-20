@@ -14,7 +14,7 @@ description: VIM и его использование нужно знать хо
     VIM installation
 
 <details>
-<summary>Необходимые команды</summary>
+<summary>Необходимые команды после установки</summary>
 
 <p>Проводник:  <code>Space + \</code></p>
 <p>Справка проводника: <code>?</code></p>
