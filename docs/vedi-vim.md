@@ -16,14 +16,14 @@ description: VIM и его использование нужно знать хо
 <details>
 <summary>Необходимые команды</summary>
 
-<p><code>Space + \</code> - проводник</p>
-<p><code>?</code> - справка проводника</p>
-<p><code>ls</code> - список буферов</p>
-<p><code>C + ^</code> - переход между буферами
-<p><code>za, zi, zM, zc</code> - складка блоков кода</p>
-<p><code>Cmd + T</code> - новая вкладка</p>
-<p><code>C + WW</code> - переход между буферами в обшей вкладки</p>
-<p><code>C + WQ</code> - закрытие буфера </p>
+<p>Проводник:  <code>Space + \</code></p>
+<p>Справка проводника: <code>?</code></p>
+<p>Список буферов: <code>ls</code></p>
+<p>Переход между буферами <code>C + ^</code></p>
+<p>Складка блоков кода: <code>za, zi, zM, zc</code></p>
+<p>Новая вкладка <code>Cmd + T</code></p>
+<p>Переход между буферами в обшей вкладки <code>C + WW</code></p>
+<p>Закрытие буфера <<code>C + WQ</code></p>
 
 </details>
 
