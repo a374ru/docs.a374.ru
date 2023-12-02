@@ -19,6 +19,8 @@ root {
 	--borderCode-var: 0.5px #ce6c6c42 solid;
 }
 
+h1{font-size:revert}
+
 h2,h3{
 scroll-margin-top: 3dvw ;
 }
