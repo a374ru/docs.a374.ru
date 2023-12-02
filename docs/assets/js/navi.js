@@ -28,6 +28,7 @@ pageDict = {
 	"kakw-cal": "NCAL утилита Shell",
 	"search-result": "Поиск 🔍",
 	"nash-ncal": "NCAL",
+	"nash-nvim-nvchad": "NvChad",
 	"navi-page": "Оглавление",
 	"nash-nvm": "NVM",
 	// "expenses": "Затраты",
