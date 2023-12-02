@@ -1,8 +1,8 @@
 ---
 
-title: Пакетный менеджер NVM (NODE JS)
-description: Управление и настройка пакетного менеджера NVM
-# permalink: nvm
+title: "Пакетный менеджер NVM (NODE JS)"
+description: "Управление и настройка пакетного менеджера NVM"
+# permalink: "nvm"
 
 ---
 

@@ -1,9 +1,8 @@
-
 ---
 
-title: "Редактор кода NvChad"
+title: Редактор кода NvChad
 # permalink: nvchad
-description: "Страница описание установки редактора кода NeoVim и NvChad"
+description: Страница описание установки редактора кода NeoVim и NvChad
 
 ---
 
