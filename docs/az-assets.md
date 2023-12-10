@@ -26,11 +26,11 @@ description: Изображения используются на разных �
 /--assets
 	|__js
 	|__css
-	|__sv
+	|__other
 	|
 	|__img
-	|	|__calendar
-	|	|__bgr
+	|  |__calendar
+	|  |__bgr
 	|
 	|__external
 ```

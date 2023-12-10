@@ -28,7 +28,9 @@ pageDict = {
 	"kakw-cal": "NCAL утилита Shell",
 	"search-result": "Поиск 🔍",
 	"nash-ncal": "NCAL",
+	"nash-nvim-nvchad": "NvChad",
 	"navi-page": "Оглавление",
+	"nash-nvm": "NVM",
 	// "expenses": "Затраты",
 };
 // ========== to local Storage ======================
@@ -51,7 +53,7 @@ if (localStorage.getItem("az") != 1) {
 function switchColorScheme() {
 
 	whiteBG = '#ffffff';
-	darkBG = '#1C0005';
+	darkBG = '#070000';
 	naviLight = `box-shadow: 0px 10 22 #fffaf5; background:linear-gradient(180deg, ${whiteBG} 98%, #b36c71 1%)`;
 	naviDark = `box-shadow: 0px 20px 52px #611816; background:linear-gradient(180deg, ${darkBG} 98%, red 1%)`;
 
@@ -172,8 +174,7 @@ function namePage() {
 function toNavi() {
 
 	counter = 1;
-	htmlString = `<div class="navi-item" id="navi-icon-home"><a href="/#navi"><span class="material-icons-two-tone">
-home</span></a></div>`;
+	htmlString = '<div class="navi-item" id="navi-icon-home"><a href="/#navi"><span class="icons">🏠</span></a></div>';
 
 	for (const key of keyPageDict) {
 
@@ -191,7 +192,7 @@ home</span></a></div>`;
 				element = element.slice(0, element.length - 3) + "…";
 			}
 
-			htmlString += `<div class="navi-item"><a title="${pageDict[key]}" href="/${folderProjectOfGitHub}${key}#navi">${element}</a> </div>`;
+			htmlString += `<div class="navi-item"><a title="${pageDict[key]}" href="/${folderProjectOfGitHub}${key}#navi">${element}</a></div>`;
 			counter += 1;
 
 		}
@@ -203,10 +204,7 @@ home</span></a></div>`;
 
 	cday = new Date().getDate();
 
-	htmlString += `<div class="navi-item" id="navi-day"><a href="dobro-day"><span id="navi-dobro-day">День </span></a><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html"><span class="${folderProjectOfGitHub}number-day" id="number-day">${cday}</span></a></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="${folderProjectOfGitHub}navi-page#navi"><span class="material-icons-two-tone">manage_search</span></a></div><div class="navi-item" title="Цветность" id="colorScheme"><a onclick="switchColorScheme()">
-<span class="material-icons-two-tone">
-invert_colors
-</span></a></div>`
+	htmlString += `<div class="navi-item" id="navi-day"><a href="dobro-day"><span id="navi-dobro-day">День </span></a><a href="https://a374ru.github.io/aprakos.ru/currentday/APRAKOS/index.html"><span class="${folderProjectOfGitHub}number-day" id="number-day">${cday}</span></a></div><div class="navi-item" title="ПОИСК И НАВИГАЦИЯ" id="navi-page-search"><a href="${folderProjectOfGitHub}navi-page#navi"><span class="icons">🔍</span></a></div><div class="navi-item" title="Цветность" id="colorScheme"><a onclick="switchColorScheme()"><span class="icons">🔘</span></a></div>`
 	return htmlString;
 
 }
