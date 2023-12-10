@@ -1,6 +1,6 @@
 # Вторая буква – `B` (би)
 
-![img](https://2.bp.blogspot.com/-0IVjlIw5BlQ/YHb2qobTLpI/AAAAAAAAGew/ITPUNXanRho4j1gvNt1ZypKJCm4V1uqwQCK4BGAYYCw/s800/listia-730502.png)
+<!-- ![img](http://2.bp.blogspot.com/-0IVjlIw5BlQ/YHb2qobTLpI/AAAAAAAAGew/ITPUNXanRho4j1gvNt1ZypKJCm4V1uqwQCK4BGAYYCw/s800/listia-730502.png) -->
 
 - Юникод `B`: `U+0042`
 - Юникод `b`: `U+0062`
@@ -61,4 +61,4 @@
 
 <br>
 
-<span id="comp-end-img" class="img" onclick="imgResize()">![image-bottom](assets/svg/comp-end.svg)</span>
+<span id="comp-end-img" class="img" onclick="imgResize()">![image-bottom](../assets/svg/comp-end.svg)</span>
