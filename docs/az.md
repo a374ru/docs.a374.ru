@@ -29,9 +29,9 @@ permalink: az
 <!--ystm_start-->
 <br>
 
- |назад||вперед| 
+ |назад||| 
  |:---|:---:|---:| 
- [←——](az-peremennaya.md)|[ 🔝 ](#)|[——→](buki-bukmarki.md) 
+ [← назад](az-peremennaya.md)|[ 🔝 ](#)|[далее →](buki-bukmarki.md) 
 
  <br>
 <!--ystm_end-->

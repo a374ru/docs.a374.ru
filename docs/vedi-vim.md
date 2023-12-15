@@ -95,9 +95,9 @@ PlugInstall
 <!--ystm_start-->
 <br>
 
- |назад||вперед| 
+ |назад||| 
  |:---|:---:|---:| 
- [←——](vedi-documents.md)|[ 🔝 ](#)|[——→](vedi-vsce.md) 
+ [← назад](vedi-documents.md)|[ 🔝 ](#)|[далее →](vedi-vsce.md) 
 
  <br>
 <!--ystm_end-->

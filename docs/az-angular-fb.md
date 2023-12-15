@@ -179,9 +179,9 @@ export const environment = {
 <!--ystm_start-->
 <br>
 
- |назад||вперед| 
+ |назад||| 
  |:---|:---:|---:| 
- [←——](readme.md)|[ 🔝 ](#)|[——→](az-angular.md) 
+ [← назад](readme.md)|[ 🔝 ](#)|[далее →](az-angular.md) 
 
  <br>
 <!--ystm_end-->
