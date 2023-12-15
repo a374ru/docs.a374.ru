@@ -11,7 +11,7 @@ description: "страница описание установки редакт�
 
 # редактор nvchad
 
-<span id="buki-img" class="img" onclick="imgresize()">![comp and vim](https://img.a374.ru/nvchad.png)</span>
+<span id="buki-img" class="img" onclick="imgResize()">![comp and vim](https://img.a374.ru/nvchad.png)</span>
 
 	documentation
 
