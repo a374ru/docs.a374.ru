@@ -6,6 +6,7 @@ description: Windows маркет расширений для VSCode. Настр
 ---
 
 <div class="navi"><nav id="navi"><!-- js --></nav></div>
+<script src="assets/js/navi.js"></script>
 
 # Тема для VSCode
 
@@ -67,6 +68,9 @@ description: Windows маркет расширений для VSCode. Настр
 
 
 <br>
+
+<br>
+
 <!--ystm_start-->
 <br>
 

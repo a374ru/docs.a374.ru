@@ -62,6 +62,7 @@ nvim
 
 
 <br>
+<br>
 
 
 <span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
