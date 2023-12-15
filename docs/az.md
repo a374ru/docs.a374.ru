@@ -29,7 +29,7 @@ permalink: az
 <!--ystm_start-->
 <br>
 
- |назад||| 
+ |||| 
  |:---|:---:|---:| 
  [← назад](az-peremennaya.md)|[ 🔝 ](#)|[далее →](buki-bukmarki.md) 
 

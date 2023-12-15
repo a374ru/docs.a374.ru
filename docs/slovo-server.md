@@ -233,7 +233,7 @@ chmod a+x server-loc
 <!--ystm_start-->
 <br>
 
- |назад||| 
+ |||| 
  |:---|:---:|---:| 
  [← назад](pokoy-proval.md)|[ 🔝 ](#)|[далее →](slovo-shell.md) 
 

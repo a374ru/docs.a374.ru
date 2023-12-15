@@ -179,7 +179,7 @@ export const environment = {
 <!--ystm_start-->
 <br>
 
- |назад||| 
+ |||| 
  |:---|:---:|---:| 
  [← назад](readme.md)|[ 🔝 ](#)|[далее →](az-angular.md) 
 

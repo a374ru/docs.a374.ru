@@ -119,7 +119,7 @@ for index, namePage in ipairs(table_md) do
     -- Шаблон пагинации для файлов `markdown`
 
     ---[[
-    Template = "<!--ystm_start-->\n<br>\n\n |назад||| \n |:---|:---:|---:| \n [← назад](" .. Backward ..
+    Template = "<!--ystm_start-->\n<br>\n\n |||| \n |:---|:---:|---:| \n [← назад](" .. Backward ..
         ")|[ 🔝 ](#)|[далее →](" .. Forward .. ") \n\n <br>\n<!--ystm_end-->\n"
     --]]
     -- Template = ""
