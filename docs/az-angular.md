@@ -138,14 +138,18 @@ nvm use 16.20.2
 <br>
 
 
-|<-------——|••••••|——------->|
-|:---|:---:|---:|
-[…назад](az-angular-fb.md)|[вверх](#)|[далее…](az-apr-ts.md)
-
-
 <br>
 
 <span id="comp-end-img" class="img" onclick="imgResize()">![image-bottom](assets/svg/comp-end.svg)</span>
 
 
 <script src="assets/js/navi.js"></script>
+<!--ystm_start-->
+<br>
+
+ |назад||вперед| 
+ |:---|:---:|---:| 
+ [←——](az-angular-fb.md)|[ 🔝 ](#)|[——→](az-apr-ts.md) 
+
+ <br>
+<!--ystm_end-->

@@ -19,13 +19,17 @@ description: Тестирование кернинга шрифта и вооб�
 
 <br>
 
-
-|<-------——|••••••|——------->|
-|:---|:---:|---:|
-[…назад](tako-type.md)|[вверх](#)|[далее…](vedi-documents.md)
-
 <br>
 
 <span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>
+<!--ystm_start-->
+<br>
+
+ |назад||вперед| 
+ |:---|:---:|---:| 
+ [←——](tverdo-type.md)|[ 🔝 ](#)|[——→](vedi-documents.md) 
+
+ <br>
+<!--ystm_end-->

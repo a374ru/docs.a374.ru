@@ -49,12 +49,15 @@ description:  Заимствованный способ буквенных за�
 
 <br>
 
-|<-------——|••••••|——------->|
-|:---|:---:|---:|
-[…назад](billing.md)|[вверх](#)|[далее…](buki-install-ts.md)
-
-<br>
-
 <span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>
+<!--ystm_start-->
+<br>
+
+ |назад||вперед| 
+ |:---|:---:|---:| 
+ [←——](az.md)|[ 🔝 ](#)|[——→](buki-install-ts.md) 
+
+ <br>
+<!--ystm_end-->

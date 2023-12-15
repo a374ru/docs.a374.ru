@@ -23,14 +23,18 @@ description: API скрипта по вычислению дат правосл�
 <br>
 
 
-|<-------——|••••••|——------->|
-|:---|:---:|---:|
-[…назад](az-angular.md)|[вверх](#)|[далее…](az-assets.md)
-
-
 <br>
 
 <span id="comp-end-img" class="img" onclick="imgResize()">![image-bottom](assets/svg/comp-end.svg)</span>
 
 
 <script src="assets/js/navi.js"></script>
+<!--ystm_start-->
+<br>
+
+ |назад||вперед| 
+ |:---|:---:|---:| 
+ [←——](az-angular.md)|[ 🔝 ](#)|[——→](az-assets.md) 
+
+ <br>
+<!--ystm_end-->

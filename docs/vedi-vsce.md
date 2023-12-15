@@ -67,14 +67,12 @@ description: Windows маркет расширений для VSCode. Настр
 
 
 <br>
-
-|<-------——|••••••|——------->|
-|:---|:---:|---:|
-[…назад](vedi-vim.md)|[вверх](#)|[далее…](navi-page.md)
-
+<!--ystm_start-->
 <br>
 
-<span id="comp-end-img" class="img" onclick="imgResize()">![image-bottom](assets/svg/comp-end.svg)</span>
+ |назад||вперед| 
+ |:---|:---:|---:| 
+ [←——](vedi-vim.md)|[ 🔝 ](#)|[——→](navi-page.md) 
 
-
-<script src="assets/js/navi.js"></script>
+ <br>
+<!--ystm_end-->

@@ -33,13 +33,16 @@ description: Страница настроек и тестирования
 
 <br>
 
-|<-------——|••••••|——------->|
-|:---|:---:|---:|
-[…назад](buki-set.md)|[вверх](#)|[далее…](dobro-day.md)
-
-<br>
-
 
 <span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>
+<!--ystm_start-->
+<br>
+
+ |назад||вперед| 
+ |:---|:---:|---:| 
+ [←——](buki-set.md)|[ 🔝 ](#)|[——→](dobro-day.md) 
+
+ <br>
+<!--ystm_end-->

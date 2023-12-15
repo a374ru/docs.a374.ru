@@ -224,14 +224,18 @@ chmod a+x server-loc
 
 
 <br>
-
-|<-------——|••••••|——------->|
-|:---|:---:|---:|
-[…назад](pokoy-proval.md)|[вверх](#)|[далее…](slovo-shell.md)
-
 <br>
 
 <span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>
 
+<!--ystm_start-->
+<br>
+
+ |назад||вперед| 
+ |:---|:---:|---:| 
+ [←——](pokoy-proval.md)|[ 🔝 ](#)|[——→](slovo-shell.md) 
+
+ <br>
+<!--ystm_end-->

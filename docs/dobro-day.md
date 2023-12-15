@@ -63,14 +63,17 @@ description: Повествование о том как…
 
 <br>
 
-|<-------——|••••••|——------->|
-|:---|:---:|---:|
-[…назад](buki.md)|[вверх](#)|[далее…](dobro-django.md)
-
-<br>
-
 
 <span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 
 <script src="assets/js/navi.js"></script>
+<!--ystm_start-->
+<br>
+
+ |назад||вперед| 
+ |:---|:---:|---:| 
+ [←——](buki.md)|[ 🔝 ](#)|[——→](dobro-django.md) 
+
+ <br>
+<!--ystm_end-->

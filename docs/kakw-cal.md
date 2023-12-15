@@ -104,14 +104,18 @@ ncal -eJ # что и ранее, т.к. не бывает Григорианск
 ```
 
 <br>
-
-|<-------——|••••••|——------->|
-|:---|:---:|---:|
-[…назад](glagol-git.md)|[вверх](#)|[далее…](kakw-colors.md)
-
 <br>
 
 <span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>
 
+<!--ystm_start-->
+<br>
+
+ |назад||вперед| 
+ |:---|:---:|---:| 
+ [←——](glagol-git.md)|[ 🔝 ](#)|[——→](kakw-colors.md) 
+
+ <br>
+<!--ystm_end-->

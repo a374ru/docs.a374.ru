@@ -44,13 +44,18 @@ description:  Последовательность установки Typescript
 
 <br>
 
-|<-------——|••••••|——------->|
-|:---|:---:|---:|
-[…назад](buki-bukmarki.md)|[вверх](#)|[далее…](buki-set.md)
-
-<br>
-
 
 <span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>
+
+
+<!--ystm_start-->
+<br>
+
+ |назад||вперед| 
+ |:---|:---:|---:| 
+ [←——](buki-bukmarki.md)|[ 🔝 ](#)|[——→](buki-problems-ts.md) 
+
+ <br>
+<!--ystm_end-->

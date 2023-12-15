@@ -34,12 +34,15 @@ description: "Управление и настройка пакетного ме
 
 <br>
 
-|<-------——|••••••|——------->|
-|:---|:---:|---:|
-[…назад](nash-ncal.md)|[вверх](#)|[далее…](pokoy-proval.md)
-
-<br>
-
 <span id="az2-img-2" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>
+<!--ystm_start-->
+<br>
+
+ |назад||вперед| 
+ |:---|:---:|---:| 
+ [←——](nash-nvim-nvchad.md)|[ 🔝 ](#)|[——→](pokoy-proval.md) 
+
+ <br>
+<!--ystm_end-->

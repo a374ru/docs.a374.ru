@@ -21,12 +21,15 @@
 
 <br>
 
-|<-------——|••••••|——------->|
-|:---|:---:|---:|
-[…назад](kakw-cal.md)|[вверх](#)|[далее…](nash-ncal.md)
-
-<br>
-
 <span id="page-name-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>
+<!--ystm_start-->
+<br>
+
+ |назад||вперед| 
+ |:---|:---:|---:| 
+ [←——](kakw-cal.md)|[ 🔝 ](#)|[——→](nash-ncal.md) 
+
+ <br>
+<!--ystm_end-->

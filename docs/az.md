@@ -21,14 +21,17 @@ permalink: az
 
 <br>
 
-|<-------——||——------->|
-|:---|:---:|---:|
-[…на главную](/)|  |[далее…](az-angular-fb)
-
-<br>
-
 
 <span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>
 
+<!--ystm_start-->
+<br>
+
+ |назад||вперед| 
+ |:---|:---:|---:| 
+ [←——](az-peremennaya.md)|[ 🔝 ](#)|[——→](buki-bukmarki.md) 
+
+ <br>
+<!--ystm_end-->

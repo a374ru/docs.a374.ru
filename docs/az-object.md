@@ -49,19 +49,18 @@ description: Свойства – это как чувства у человек
 […возврат](az-peremennaya)
 
 
-
-<br>
-
-|<-------——|••••••|——------->|
-|:---|:---:|---:|
-[…назад](az-assets.md)|[вверх](#)|[далее…](az-peremennaya.md)
-
-
 <br>
 
 
 <span id="page-name-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>
+<!--ystm_start-->
+<br>
 
+ |назад||вперед| 
+ |:---|:---:|---:| 
+ [←——](az-assets.md)|[ 🔝 ](#)|[——→](az-peremennaya.md) 
 
+ <br>
+<!--ystm_end-->

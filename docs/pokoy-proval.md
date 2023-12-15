@@ -39,12 +39,14 @@ description: Провал - временная задержка во време�
 
 <br>
 
-|<-------——|••••••|——------->|
-|:---|:---:|---:|
-[…назад](nash-nvm.md)|[вверх](#)|[далее…](slovo-server.md)
-
-<br>
-
 <span id="comp-end-img" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
-<script src="assets/js/navi.js"></script>
+<!--ystm_start-->
+<br>
+
+ |назад||вперед| 
+ |:---|:---:|---:| 
+ [←——](nash-nvm.md)|[ 🔝 ](#)|[——→](slovo-server.md) 
+
+ <br>
+<!--ystm_end-->
