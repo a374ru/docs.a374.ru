@@ -2,21 +2,21 @@
 --[[
 Программа выбирает все файлы markdown в директори и вставляет в конец
 пагинацию по доступным файлам.
---]]
-PathToFolder = "/Users/ibo7/web/docs.a374.ru/docs/"
+--]] PathToFolder = "/Users/ibo7/web/docs.a374.ru/docs/"
 Fpath = PathToFolder
 Backward = "readme.md"
 Forward = "readme.md"
-Azbuka = { "az", "buki", "vedi", "glagol", "dobro", "esty", "givite", "zemlya", "zelo", "ige", "-i", "kakw", "ludie",
-    "mislete", "nash", "on", "omega", "pokoy", "rci", "slovo", "tverdo", "uk", "fert", "her", "ot", "cii",
-    "cherv", "sha", "shy", "er", "eri", "ery", "you", "ya", "us", "ksi", "psi", "w", "fita", "igica" }
+Azbuka = {"az", "buki", "vedi", "glagol", "dobro", "esty", "givite", "zemlya", "zelo", "ige", "-i", "kakw", "ludie",
+          "mislete", "nash", "on", "omega", "pokoy", "rci", "slovo", "tverdo", "uk", "fert", "her", "ot", "cii",
+          "cherv", "sha", "shy", "er", "eri", "ery", "you", "ya", "us", "ksi", "psi", "w", "fita", "igica"}
+
 Tbl = {}
 Ys = 0;
 Ye = 0
 
+-- Функция отбирает файлы по условию префикса в имени файла в соответствии с азбукой-цс
 function Fazbuka(np)
     for _, value in pairs(Azbuka) do
-        -- S:S ????? не работае условие
         if string.find(np, value) ~= nil then
             return true
         elseif np == "README.md" or np == "readme.md" then
@@ -28,7 +28,6 @@ end
 local table_md = {}
 for line in io.popen("ls " .. PathToFolder, "r"):lines() do
     if string.sub(line, -3) == ".md" then
-        -- print(#t + 1 .. " – " .. line)
         if Fazbuka(line) then
             table_md[#table_md + 1] = line -- создание таюлицы имен файлов markdown
         end
@@ -39,7 +38,6 @@ for index, namePage in ipairs(table_md) do
     print("ФАЙЛ ==-----------------=-> " .. namePage)
 
     -- S:S Требуется добавить удобное добавление исключаемых страниц для разных случаев
-
 
     Fpath = PathToFolder .. namePage
 
@@ -56,7 +54,7 @@ for index, namePage in ipairs(table_md) do
         Forward = table_md[index + 2]
     end
     if table_md[index - 1] == "readme.md" then
-        Backward = table_md[index-2]
+        Backward = table_md[index - 2]
     end
     ---[[
     if namePage == "README.md" or namePage == "readme.md" then
@@ -76,6 +74,10 @@ for index, namePage in ipairs(table_md) do
         if lf ~= nil then
             table.insert(Tbl, lf)
         end
+
+
+
+
     end
 
     File:close()
@@ -120,8 +122,8 @@ for index, namePage in ipairs(table_md) do
 
     ---[[
     Template = "<!--ystm_start-->\n<br>\n\n |||| \n |:---|:---:|---:| \n [← назад](" .. Backward ..
-        ")|[ 🔝 ](#)|[далее →](" .. Forward .. ") \n\n <br>\n<!--ystm_end-->\n"
-    --]]
+                   ")|[ 🔝 ](#)|[далее →](" .. Forward .. ") \n\n <br>\n<!--ystm_end-->\n"
+    -- ]]
     -- Template = ""
 
     -- ===================================
