@@ -5,32 +5,32 @@ pageDict = {
 	"az-apr-ts": "APR-TS",
 	"az-angular-fb": "A+FB",
 	"twerdo-test-fontics": "Кернинг тест",
-	"fert-font": "О шрифте",
+	"fert-font": "Шрифты и их использование",
 	"glagol-git": "GIT",
-	"buki-set": "Настройки",
-	"az-assets": "Вложения",
-	"az-angular": "Angular",
-	"vedi-documents": "Docs",
-	"billing": "Билинг",
+	"buki-set": "Настройки приложений",
+	"az-assets": "Вложения и остальное",
+	"az-angular": "Angular CLI",
+	"vedi-documents": "Документация проектов",
+	"billing": "Билинг контролируемый",
 	"vedi-vim": "VIM",
-	"pokoy-proval": "Провал",
+	"pokoy-proval": "Провал может быть",
 	"vedi-vsce": "VSCE",
-	"az-peremennaya": "Переменная",
-	"az-object": "Объект",
-	"buki": "Соглашение",
-	"buki-bukmarki": "Букмарки",
-	"dobro-django": "Джанго",
+	"az-peremennaya": "Переменная всякая",
+	"az-object": "Объект будет",
+	"buki": "Соглашения и обязательства",
+	"buki-bukmarki": "Букмарки или просто закладки",
+	"dobro-django": "Джанго python",
 	// "buki-problems-ts": "Проблемы",
 	// "slovo-shell": "Шелл",
-	"slovo-server": "Сервер",
+	"slovo-server": "Серверы и их настройка",
 	"tako-type": "Типы данных",
-	"kakw-colors": "Цветы",
+	"kakw-colors": "Цветы проекта",
 	"kakw-cal": "NCAL утилита Shell",
 	"search-result": "Поиск 🔍",
-	"nash-ncal": "NCAL",
-	"nash-nvim-nvchad": "NvChad",
-	"navi-page": "Оглавление",
-	"nash-nvm": "NVM",
+	"nash-ncal": "NCAL консольный",
+	"nash-nvim-nvchad": "NvChad редактор",
+	"navi-page": "Оглавление сайта",
+	"nash-nvm": "NVM-менеджер",
 	// "expenses": "Затраты",
 };
 // ========== to local Storage ======================
@@ -184,12 +184,12 @@ function toNavi() {
 				var element = pageDict[key];
 
 			} else if (pageDict[key].split(' ').length > 1) {
-				var element = pageDict[key].slice(0, 6);
+				var element = pageDict[key].slice(0, 4)+"…";
 
 			}
 
 			if (element.length >= 7 || element.split(' ').length > 1) {
-				element = element.slice(0, element.length - 3) + "…";
+				element = element.slice(0, element.length - 2) + "…";
 			}
 
 			htmlString += `<div class="navi-item"><a title="${pageDict[key]}" href="/${folderProjectOfGitHub}${key}#navi">${element}</a></div>`;
