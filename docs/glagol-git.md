@@ -40,6 +40,9 @@ ssh-add -K ~/.ssh/id_rsa   # где `id_rsa` замените на имя фай
 ```
 
 После выполнения команды `VSCode` должен начать отправлять все изменения исправно.
+
+<script src="assets/js/navi.js"></script>
+
 <!--ystm_start-->
 <br>
 

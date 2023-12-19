@@ -4,7 +4,7 @@ pageDict = {
 	"az": "Азъ",
 	"az-apr-ts": "APR-TS",
 	"az-angular-fb": "A+FB",
-	"test-fontics": "Кернинг тест",
+	"twerdo-test-fontics": "Кернинг тест",
 	"fert-font": "О шрифте",
 	"glagol-git": "GIT",
 	"buki-set": "Настройки",
@@ -184,11 +184,11 @@ function toNavi() {
 				var element = pageDict[key];
 
 			} else if (pageDict[key].split(' ').length > 1) {
-				var element = pageDict[key].slice(0, 7);
+				var element = pageDict[key].slice(0, 6);
 
 			}
 
-			if (element.length > 8 || element.split(' ').length > 1) {
+			if (element.length >= 7 || element.split(' ').length > 1) {
 				element = element.slice(0, element.length - 3) + "…";
 			}
 

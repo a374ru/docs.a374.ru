@@ -7,6 +7,7 @@ description: Angular + Firebase и их настройка. Запуск, уст
 ---
 
 
+<div class="navi"><nav id="navi"><!-- js --></nav></div>
 
 # <span style="color: #e34234;">Энгуларъ + Огонёкъ
 
@@ -161,21 +162,12 @@ export const environment = {
 Должно сработать. Конечно не с первого раза! Как обычно. Не поленитесь потратьте время на изучение документации настройки проектов `Firebase`.
 
 
-
-<br>
-
-
-|<-------——|••••••|——------->|
-|:---|:---:|---:|
-|[…назад](az)|[вверх](#)|[далее…](az-angular)|
-
-
-
 <br>
 
 <span id="az2-img-2" class="img" onclick="imgResize()">![img](assets/svg/comp-end.svg)</span>
 
 <script src="assets/js/navi.js"></script>
+
 <!--ystm_start-->
 <br>
 
