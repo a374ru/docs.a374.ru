@@ -536,8 +536,8 @@ details {
 	blockquote {
 		margin-right: 2px;
 		margin-left: 2px;
-		border-left: 0.2em solid #e9e2da;
-		border-right: 0.2em solid #e9e2da;
+		/* border-left: 0.2em solid #e9e2da; */
+		/* border-right: 0.2em solid #e9e2da; */
 		padding: 0em 1.5em 0em 1.5em;
 		border-radius: 15%;
 		background-color: #fffdfa14;
@@ -589,8 +589,8 @@ details {
 	blockquote {
 		margin-right: 2px;
 		margin-left: 2px;
-		border-left: 1em solid #e9e2da;
-		border-right: 0.2em solid #e9e2da;
+		/* border-left: 1em solid #e9e2da; */
+		/* border-right: 0.2em solid #e9e2da; */
 		padding: 0em 1.5em 0em 1.5em;
 		border-radius: 15%;
 		background-color: #fffdfa14;
