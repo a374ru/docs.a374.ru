@@ -300,11 +300,7 @@ window.addEventListener("scroll", function () {
 // ------end: Скрытие меню ------
 
 
-window.addEventListener("click", (rrr)=>{
-const cp = document.getElementsByTagName('pre').  
-  
-} )
-// Копирование кода по клику
+// -----Копирование кода по клику -------
 const preElement = document.querySelectorAll('pre');
 preElement.forEach((el)=>{el.addEventListener("click", ()=>{
    navigator.clipboard.writeText(el.textContent);
