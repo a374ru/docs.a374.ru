@@ -175,14 +175,13 @@ nav {
 
 pre::before {
   display: flex;
-    content: "copy";
-    text-align: right;
-    color: #a8a8a8;
+    content: "cp";
+    /* text-align: right; */
+    color: #8c8c8c;
     font-size: 0.4em;
     padding: 0.3em;
-    float: right;
     width: fit-content;
-    background-color: #ce61ff1f;
+    background-color: #7d7d7d1f;
     border-radius: 17%;
     cursor: copy;
   }
