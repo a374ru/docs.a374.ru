@@ -173,14 +173,9 @@ nav {
 	padding: 15px 2px 22px 0px;
 }
 
-  pre::before {
+pre::before {
   display: flex;
-    /* height: 39px; */
-    background-color: #ff6afd;
     content: "copy";
-    position: absolute;
-    bottom: -2px;
-    left: 11%;
     text-align: right;
     color: #a8a8a8;
     font-size: 0.4em;
