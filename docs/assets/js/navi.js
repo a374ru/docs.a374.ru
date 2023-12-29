@@ -30,7 +30,7 @@ pageDict = {
 	"nash-ncal": "NCAL консольный",
 	"nash-nvim-nvchad": "NvChad редактор",
 	"navi-page": "Оглавление сайта",
-	"nash-nvm": "NVM-менеджер",
+	"nash-nvm": "NVM менеджер",
 	// "expenses": "Затраты",
 };
 // ========== to local Storage ======================
