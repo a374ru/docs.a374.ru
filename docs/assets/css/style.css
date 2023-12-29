@@ -173,9 +173,9 @@ nav {
 	padding: 15px 2px 22px 0px;
 }
 
-pre::before {
+  pre::before {
   display: flex;
-    height: 39px;
+    /* height: 39px; */
     background-color: #ff6afd;
     content: "copy";
     position: absolute;
@@ -191,6 +191,7 @@ pre::before {
     border-radius: 17%;
     cursor: copy;
   }
+
 
 pre {
 	overflow: auto;
