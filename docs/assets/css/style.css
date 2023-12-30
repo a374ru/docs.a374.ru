@@ -176,7 +176,7 @@ nav {
   pre::before {
   display: flex;
     /* height: 39px; */
-    background-color: #ff6afd;
+    /* background-color: #ff6afd; */
     content: "copy";
     position: absolute;
     bottom: -2px;
