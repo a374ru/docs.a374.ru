@@ -310,7 +310,7 @@ preElement.forEach((el)=>{el.addEventListener("click", ()=>{
   setTimeout(()=>{
   el.borderLeft = "1em lavender solid";
   el.style.backgroundColor = "#ffc8bf19";
-  el.style.borderLeft = "1em solid #159";
+  el.style.borderLeft = "1em solid #39285354";
   },333)
   
 })});
