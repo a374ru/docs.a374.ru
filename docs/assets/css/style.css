@@ -175,16 +175,16 @@ nav {
 
 pre::before {
   display: flex;
-    content: "cp";
-    /* text-align: right; */
-    color: #8c8c8c;
-    font-size: 0.4em;
-    padding: 0.3em;
-    width: fit-content;
-    background-color: #7d7d7d1f;
-    border-radius: 17%;
-    cursor: copy;
-  }
+  content: "cp";
+  /* text-align: right; */
+  color: #8c8c8c;
+  font-size: 0.4em;
+  padding: 0.3em;
+  width: fit-content;
+  /* background-color: #7d7d7d1f; */
+  border-radius: 17%;
+  cursor: copy;
+}
 
 
 pre {
@@ -194,6 +194,7 @@ pre {
 	font-size: 1.1em;
 	border: var(--borderCode-var);
 	text-indent: -0.6%;
+    cursor: copy;
 }
 
 pre code {

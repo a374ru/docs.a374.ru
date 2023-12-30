@@ -304,8 +304,13 @@ window.addEventListener("scroll", function () {
 const preElement = document.querySelectorAll('pre');
 preElement.forEach((el)=>{el.addEventListener("click", ()=>{
    navigator.clipboard.writeText(el.textContent);
-  el.style.textShadow = "rgb(183, 173, 255) 0px 0px 3px";
-  el.style.backgroundColor = "#ffc8bf29";
+  // el.style.textShadow = "rgb(183, 173, 255) 0px 0px 3px";
+  el.style.backgroundColor = "#ffa3";
+
+  setTimeout(()=>{
+  el.borderLeft = "1em lavender solid";
+  el.style.backgroundColor = "#ffc8bf19";
+  },333)
   
 })});
 
