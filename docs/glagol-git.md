@@ -53,7 +53,7 @@ git remote -v
 ```
 
 ```ssh
-git remote set-url origin git@github.com:---UserName---/---reponame.git
+git remote set-url origin git@github.com:---UserName---/---reponame---.git
 ```
 
 <script src="assets/js/navi.js"></script>
