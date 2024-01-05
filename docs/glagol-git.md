@@ -51,6 +51,7 @@ ssh-add -K ~/.ssh/id_rsa   # где `id_rsa` замените на имя фай
 ```ssh
 git remote -v
 ```
+Установите правильные `URL` для `SSH` соединения командой указанной ниже, предварительно заменив `---UserName--` и `---repoName---` на свой ЛОГИН и СВОЙ репозиторий: 
 
 ```ssh
 git remote set-url origin git@github.com:---UserName---/---reponame---.git
