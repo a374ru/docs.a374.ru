@@ -10,7 +10,7 @@ description: "Управление и настройка пакетного ме
 
 # Менеджер `NVM`
 
-<span id="az1-img" class="img" onclick="imgResize()">![img](https://img.a374.ru/nvm.png)</span>
+<span id="az1-img" class="img" onclick="imgResize(33)">![img](https://img.a374.ru/nvm.png)</span>
 
 <details>
   <summary>Нужные команды</summary>
