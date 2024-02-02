@@ -1,6 +1,5 @@
 pageDict = {
   "dobro-day": "Сий День",
-  // "404": "Страница не найдена",
   "az": "Азъ",
   "az-apr-ts": "APR-TS",
   "az-angular-fb": "A+FB",
@@ -31,6 +30,7 @@ pageDict = {
   "nash-nvim-nvchad": "NvChad редактор",
   "navi-page": "Оглавление сайта",
   "nash-nvm": "NVM менеджер",
+  // "404": "Страница не найдена",
   // "expenses": "Затраты",
 };
 // ========== to local Storage ======================

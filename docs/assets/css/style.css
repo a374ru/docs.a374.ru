@@ -25,12 +25,15 @@ root {
 .green {
   color: #7c9655;
 }
+
 .orange {
   color: #f29849;
 }
+
 .red {
   color: #e34234;
 }
+
 .brown {
   color: #8f7161;
 }
@@ -115,6 +118,11 @@ details {
 }
 summary {
   cursor: pointer;
+}
+details>p
+{
+  font-size: 22px;
+  padding-left: 4dvw;
 }
 
 .navi-hidden {
