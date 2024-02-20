@@ -26,7 +26,7 @@ pageDict = {
   "kakw-colors": "Цветы проекта",
   "kakw-cal": "NCAL утилита Shell",
   "search-result": "Поиск 🔍",
-  "nash-ncal": "NCAL консольный",
+  "nash-ncal": "Календарь системный",
   "nash-nvim-nvchad": "NvChad редактор",
   "navi-page": "Оглавление сайта",
   "nash-nvm": "NVM менеджер",
@@ -314,4 +314,4 @@ preElement.forEach((el)=>{el.addEventListener("click", ()=>{
   },333)
   
 })});
-
+c
