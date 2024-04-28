@@ -26,7 +26,7 @@ description: Документация по SHELL на сайте developer.apple
 
  |||| 
  |:---|:---:|---:| 
- [← назад](slovo-server.md)|[ 🔝 ](#)|[далее →](tverdo-type.md) 
+ [← назад](slovo-server.md)|[ 🔝 ](#)|[далее →](slovo-swift.md) 
 
  <br>
 <!--ystm_end-->

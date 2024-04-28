@@ -85,7 +85,7 @@ man; /// [ 0, 'Adam', 'Eva' ]
 
  |||| 
  |:---|:---:|---:| 
- [← назад](slovo-shell.md)|[ 🔝 ](#)|[далее →](twerdo-test-fontics.md) 
+ [← назад](slovo-swift.md)|[ 🔝 ](#)|[далее →](twerdo-test-fontics.md) 
 
  <br>
 <!--ystm_end-->

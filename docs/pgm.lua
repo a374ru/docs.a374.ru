@@ -2,7 +2,9 @@
 --[[
 Программа выбирает все файлы markdown в директори и вставляет в конец
 пагинацию по доступным файлам.
---]] PathToFolder = "/Users/ibo7/web/docs.a374.ru/docs/"
+--]]
+
+PathToFolder = "/Users/a374/web/docs.a374.ru/docs/"
 Fpath = PathToFolder
 Backward = "readme.md"
 Forward = "readme.md"
