@@ -22,6 +22,7 @@ pageDict = {
   // "buki-problems-ts": "Проблемы",
   // "slovo-shell": "Шелл",
   "slovo-server": "Серверы и их настройка",
+  "slovo-swift": "Swift календарь",
   "tako-type": "Типы данных",
   "kakw-colors": "Цветы проекта",
   "kakw-cal": "NCAL утилита Shell",
