@@ -12,6 +12,7 @@ description: Свойства – это как чувства у человек
 
 <span id="az-object-img" class="img" onclick="imgResize()">![Кого подключать](assets/svg/objects.svg)</span>
 
+
 	Программирование
 
 ### Первый объект
