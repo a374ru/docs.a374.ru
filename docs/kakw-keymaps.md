@@ -66,8 +66,8 @@ hidutil property --set '{"UserKeyMapping":[{"HIDKeyboardModifierMappingSrc": 0x7
 <key>Label</key>
     <string>com.local.KeyRemapping</string>
  ```
- Далее скопировать содержимое этого файла, создать файл, внести в него содержимое с этого сайта и разместить этот файл с именем в библиотеке в папке автозагрузки 
- `~/Library/LaunchAgents/` — это папка запускаемых агентов при загрузке. Справка [здесь](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html).
+ Далее скопировать содержимое сгенерированного кода, создать файл, внести в него содержимое с этого сайта и разместить этот файл в библиотеке в папке автозагрузки по адресу:
+ `~/Library/LaunchAgents/` — это папка запускаемых пользовательских агентов при загрузке. Справка [здесь](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html).
 
 
 <br>
