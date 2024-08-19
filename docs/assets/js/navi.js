@@ -31,6 +31,7 @@ pageDict = {
   "nash-nvim-nvchad": "NvChad редактор",
   "navi-page": "Оглавление сайта",
   "nash-nvm": "NVM менеджер",
+  "rci-raskladka": "Горячие клавиши RU",
   // "404": "Страница не найдена",
   // "expenses": "Затраты",
 };

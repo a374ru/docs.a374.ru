@@ -235,7 +235,7 @@ chmod a+x server-loc
 
  |||| 
  |:---|:---:|---:| 
- [← назад](pokoy-proval.md)|[ 🔝 ](#)|[далее →](slovo-shell.md) 
+ [← назад](rci-raskladka.md)|[ 🔝 ](#)|[далее →](slovo-shell.md) 
 
  <br>
 <!--ystm_end-->
