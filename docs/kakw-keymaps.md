@@ -13,7 +13,6 @@ description:  Переназначение (переопределение) кл
 
 <span id="buki-img" class="img" onclick="imgResize()">![remaping](assets/svg/key-remaps.svg)</span>
 
->DOCUMENTATION
 
 <details>
   <summary>Полезные ссылки</summary>
