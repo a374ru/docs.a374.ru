@@ -2,8 +2,8 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   height="100%"
-   width="100%"
+   width="800"
+   height="200"
    viewBox="0 0 211.66668 52.916666"
    version="1.1"
    id="svg1"
@@ -244,6 +244,17 @@
          id="g142"
          transform="matrix(0.22081284,0,0,0.19409157,169.39682,123.56565)"
          style="display:inline;fill:#ff0007;fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.6605px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.76678;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           x="33.278397"
+           y="224.81258"
+           id="text150"
+           transform="scale(1.1664919,0.85727128)"><tspan
+             id="tspan150"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.6605px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.76678;stroke-dasharray:none;stroke-opacity:1"
+             x="33.278397"
+             y="224.81258">command</tspan></text>
         <rect
            style="opacity:1;fill:#ff0007;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:11.7099;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.221239;paint-order:stroke fill markers;filter:url(#filter11)"
            id="rect70"
@@ -253,17 +264,6 @@
            y="-220.3138"
            ry="28.982283"
            transform="matrix(1,0,0,-1,-122.53003,-6.9189189)" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.6605px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0007;fill-opacity:1;fill-rule:nonzero;stroke:#ff0007;stroke-width:1.76724;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.380392;paint-order:stroke markers fill"
-           x="33.278397"
-           y="224.81258"
-           id="text150"
-           transform="scale(1.1664919,0.85727128)"><tspan
-             id="tspan150"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.6605px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0007;fill-opacity:1;stroke:#ff0007;stroke-width:1.76724;stroke-dasharray:none;stroke-opacity:0.380392"
-             x="33.278397"
-             y="224.81258">command</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.7947px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#ff0007;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:58.1463;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
@@ -281,14 +281,25 @@
          style="display:inline;fill:#ff0007;fill-opacity:1">
         <text
            xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.69121px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.365761;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           x="246.68478"
+           y="200.90237"
+           id="text149"
+           transform="matrix(1.244201,0,0,0.80372865,-5.7156589e-7,1.1995531e-6)"><tspan
+             id="tspan149"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.69121px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.365761;stroke-dasharray:none;stroke-opacity:1"
+             x="246.68478"
+             y="200.90237">command</tspan></text>
+        <text
+           xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.035px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0007;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:12.0375;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-           x="293.56039"
+           x="284.29639"
            y="165.79678"
            id="text142"
            transform="scale(1.0846669,0.92194203)"><tspan
              id="tspan142"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.035px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0007;fill-opacity:1;stroke:none;stroke-width:12.0375;stroke-opacity:1"
-             x="293.56039"
+             x="284.29639"
              y="165.79678">⌘ </tspan></text>
         <rect
            style="display:inline;fill:#ff0007;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:11.7099;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter8)"
@@ -299,17 +310,6 @@
            y="-220.3138"
            ry="28.982283"
            transform="matrix(0.22081284,0,0,-0.19409157,271.35043,122.22275)" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.69121px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0007;fill-opacity:1;fill-rule:nonzero;stroke:#ff0006;stroke-width:0.365857;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.643137;paint-order:stroke markers fill"
-           x="246.68478"
-           y="200.90237"
-           id="text149"
-           transform="scale(1.244201,0.80372865)"><tspan
-             id="tspan149"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.69121px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0007;fill-opacity:1;stroke:#ff0006;stroke-width:0.365857;stroke-dasharray:none;stroke-opacity:0.643137"
-             x="246.68478"
-             y="200.90237">command</tspan></text>
       </g>
       <rect
          style="display:inline;opacity:1;fill:#ff0007;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:11.7099;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter16)"
@@ -326,13 +326,13 @@
          transform="translate(1.0577196)">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.69121px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#ff0007;fill-opacity:1;fill-rule:nonzero;stroke:#ff0007;stroke-width:0.365857;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.69121px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.365761;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
            x="286.65225"
            y="200.83986"
            id="text151"
            transform="scale(1.244201,0.80372865)"><tspan
              id="tspan151"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.69121px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ff0007;fill-opacity:1;stroke:#ff0007;stroke-width:0.365857;stroke-dasharray:none;stroke-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.69121px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.365761;stroke-dasharray:none;stroke-opacity:1"
              x="286.65225"
              y="200.83986">option</tspan></text>
         <rect
