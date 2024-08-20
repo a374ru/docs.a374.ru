@@ -11,9 +11,9 @@ description:  Переназначение (переопределение) кл
 
 # Переопределение клавиш
 
-<span id="buki-img" class="img" onclick="imgResize()">![comp and vim ](assets/svg/shortcuts-r.svg)</span>
+<span id="buki-img" class="img" onclick="imgResize()">![remaping](assets/svg/key-remaps.svg)</span>
 
-	DOCUMENTATION
+>DOCUMENTATION
 
 <details>
   <summary>Полезные ссылки</summary>

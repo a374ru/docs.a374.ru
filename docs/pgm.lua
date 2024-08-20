@@ -15,6 +15,7 @@ Azbuka = {"az", "buki", "vedi", "glagol", "dobro", "esty", "givite", "zemlya", "
 Tbl = {}
 Ys = 0;
 Ye = 0
+count = 0
 
 -- Функция отбирает файлы по условию префикса в имени файла в соответствии с азбукой-цс
 function Fazbuka(np)
@@ -38,7 +39,7 @@ end
 
 for index, namePage in ipairs(table_md) do
     print("ФАЙЛ ==-----------------=-> " .. namePage)
-
+    count = count + 1
     -- S:S Требуется добавить удобное добавление исключаемых страниц для разных случаев
 
     Fpath = PathToFolder .. namePage
@@ -148,4 +149,4 @@ for _, value in pairs(table_md) do
     print(value)
 end
 
-print("\n\t THE END !!!\n\n")
+print(string.format('\n\t ГОТОВО !!!\n\t Количество файлов в пагинации: %i', count), "\n\n")

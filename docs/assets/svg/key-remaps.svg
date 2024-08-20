@@ -7,58 +7,13 @@
    viewBox="0 0 211.66668 52.916666"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
-   sodipodi:docname="keys.svg"
-   inkscape:export-filename="../../web/docs.a374.ru/docs/assets/svg/keys-remap.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="px"
-     inkscape:zoom="3.5500133"
-     inkscape:cx="587.18089"
-     inkscape:cy="70.42227"
-     inkscape:window-width="1496"
-     inkscape:window-height="905"
-     inkscape:window-x="0"
-     inkscape:window-y="34"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g145"
-     showgrid="false">
-    <inkscape:grid
-       id="grid70"
-       units="mm"
-       originx="-160.24927"
-       originy="-121.5704"
-       spacingx="0.99999999"
-       spacingy="0.99999999"
-       empcolor="#0099e5"
-       empopacity="0.30196078"
-       color="#0099e5"
-       opacity="0.14901961"
-       empspacing="5"
-       dotted="false"
-       gridanglex="30"
-       gridanglez="30"
-       visible="false" />
-  </sodipodi:namedview>
   <defs
      id="defs1">
     <linearGradient
-       id="linearGradient17"
-       inkscape:collect="always">
+       id="linearGradient17">
       <stop
          style="stop-color:#ffffff;stop-opacity:0;"
          offset="0.01354402"
@@ -74,12 +29,11 @@
     </linearGradient>
     <filter
        style="color-interpolation-filters:sRGB"
-       inkscape:label="Drop Shadow"
        id="filter141"
-       x="-0.15335095"
-       y="-0.17121673"
-       width="1.3067019"
-       height="1.3424335">
+       x="-0.12873673"
+       y="-0.13637"
+       width="1.2574735"
+       height="1.27274">
       <feFlood
          result="flood"
          in="SourceGraphic"
@@ -89,7 +43,7 @@
       <feGaussianBlur
          result="blur"
          in="SourceGraphic"
-         stdDeviation="6.700000"
+         stdDeviation="5.3428085"
          id="feGaussianBlur140" />
       <feOffset
          result="offset"
@@ -111,9 +65,6 @@
          id="feComposite141" />
     </filter>
     <filter
-       inkscape:label="Soft Focus Lens"
-       inkscape:menu="Image Effects"
-       inkscape:menu-tooltip="Glowing image content without blurring it"
        style="color-interpolation-filters:sRGB"
        id="filter15"
        x="-0.030216726"
@@ -162,7 +113,6 @@
          id="feComposite15" />
     </filter>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient17"
        id="linearGradient18"
        x1="192.30225"
@@ -170,10 +120,119 @@
        x2="616.89148"
        y2="152.34561"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter8"
+       x="-0.1161776"
+       y="-0.12306619"
+       width="1.2323552"
+       height="1.2461324">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         id="feFlood7" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="4.4845052"
+         id="feGaussianBlur7" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="0.000000"
+         dy="0.000000"
+         id="feOffset7" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite7" />
+      <feComposite
+         result="comp2"
+         operator="out"
+         in="comp1"
+         in2="SourceGraphic"
+         id="feComposite8" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter11"
+       x="-0.063959378"
+       y="-0.067751762"
+       width="1.1279188"
+       height="1.1355035">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         id="feFlood10" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="1.372352"
+         id="feGaussianBlur10" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="0.000000"
+         dy="0.000000"
+         id="feOffset10" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite10" />
+      <feComposite
+         result="comp2"
+         operator="out"
+         in="comp1"
+         in2="SourceGraphic"
+         id="feComposite11" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter16"
+       x="-0.031268749"
+       y="-0.095125263"
+       width="1.0625375"
+       height="1.1902505">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         id="feFlood11" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="2.6382312"
+         id="feGaussianBlur11" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="0.000000"
+         dy="0.000000"
+         id="feOffset11" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite12" />
+      <feComposite
+         result="comp2"
+         operator="out"
+         in="comp1"
+         in2="SourceGraphic"
+         id="feComposite16" />
+    </filter>
   </defs>
   <g
-     inkscape:label="Слой 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-160.24927,-121.5704)"
      style="display:inline">
@@ -186,24 +245,21 @@
          transform="matrix(0.22081284,0,0,0.19409157,169.39682,123.56565)"
          style="display:inline;fill:#ff0007;fill-opacity:1">
         <rect
-           style="opacity:1;fill:#ff0007;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:11.7099;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter141)"
+           style="opacity:1;fill:#ff0007;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:11.7099;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.221239;paint-order:stroke fill markers;filter:url(#filter11)"
            id="rect70"
            width="143.03758"
            height="135.0311"
            x="144.46498"
            y="-220.3138"
            ry="28.982283"
-           transform="matrix(1,0,0,-1,-122.53003,-6.9189189)"
-           inkscape:label="121212" />
+           transform="matrix(1,0,0,-1,-122.53003,-6.9189189)" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.69121px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Thin';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ff0007;fill-opacity:1;fill-rule:nonzero;stroke:#8e8e8e;stroke-width:0.365857;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
            x="144.73866"
            y="198.94003"
            id="text150"
-           transform="matrix(5.6346406,0,0,4.1409766,-771.94125,-636.63584)"
-           inkscape:label="12"><tspan
-             sodipodi:role="line"
+           transform="matrix(5.6346406,0,0,4.1409766,-771.94125,-636.63584)"><tspan
              id="tspan150"
              style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.69121px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Thin';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0007;fill-opacity:1;stroke-width:0.365857;stroke-dasharray:none"
              x="144.73866"
@@ -214,9 +270,7 @@
            x="89.105606"
            y="156.01379"
            id="text141"
-           transform="scale(1.0169218,0.98335978)"
-           inkscape:label="1212"><tspan
-             sodipodi:role="line"
+           transform="scale(1.0169218,0.98335978)"><tspan
              id="tspan141"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:67.7947px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0007;fill-opacity:1;stroke:none;stroke-width:58.1463;stroke-opacity:1"
              x="89.105606"
@@ -232,13 +286,12 @@
            y="165.79678"
            id="text142"
            transform="scale(1.0846669,0.92194203)"><tspan
-             sodipodi:role="line"
              id="tspan142"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.035px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0007;fill-opacity:1;stroke:none;stroke-width:12.0375;stroke-opacity:1"
              x="293.56039"
              y="165.79678">⌘ </tspan></text>
         <rect
-           style="display:inline;fill:#ff0007;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:11.7099;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter141)"
+           style="display:inline;fill:#ff0007;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:11.7099;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter8)"
            id="rect142"
            width="143.03758"
            height="135.0311"
@@ -253,14 +306,13 @@
            y="199.56085"
            id="text149"
            transform="matrix(1.244201,0,0,0.80372865,-5.7156583e-7,1.1995531e-6)"><tspan
-             sodipodi:role="line"
              id="tspan149"
              style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.69121px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Thin';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0007;fill-opacity:1;stroke-width:0.365857;stroke-dasharray:none"
              x="247.53491"
              y="199.56085">command</tspan></text>
       </g>
       <rect
-         style="display:inline;opacity:1;fill:#ff0007;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:11.7099;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter141)"
+         style="display:inline;opacity:1;fill:#ff0007;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:11.7099;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter16)"
          id="rect143"
          width="389.74072"
          height="128.11218"
@@ -271,7 +323,6 @@
       <g
          id="g17"
          style="opacity:1;fill:#ff0007;fill-opacity:1"
-         inkscape:label="g17"
          transform="translate(1.0577196)">
         <text
            xml:space="preserve"
@@ -280,13 +331,12 @@
            y="199.49834"
            id="text151"
            transform="matrix(1.244201,0,0,0.80372865,-5.7156583e-7,1.1995531e-6)"><tspan
-             sodipodi:role="line"
              id="tspan151"
              style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:4.69121px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Thin';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ff0007;fill-opacity:1;stroke-width:0.365857;stroke-dasharray:none"
              x="286.65225"
              y="199.49834">option</tspan></text>
         <rect
-           style="fill:#ff0007;fill-opacity:1;fill-rule:nonzero;stroke:#dadada;stroke-width:11.1829;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter141)"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:11.1829;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0.985251;paint-order:stroke fill markers;filter:url(#filter141)"
            id="rect146"
            width="143.03758"
            height="135.0311"
@@ -301,7 +351,6 @@
            y="128.11688"
            id="text146"
            transform="scale(0.84668972,1.1810702)"><tspan
-             sodipodi:role="line"
              id="tspan146"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.4829px;font-family:'.Apple SD Gothic NeoI';-inkscape-font-specification:'.Apple SD Gothic NeoI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0007;fill-opacity:1;stroke:none;stroke-width:0.895531;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
              x="419.94608"
@@ -311,7 +360,6 @@
          style="display:inline;opacity:1;mix-blend-mode:normal;fill:url(#linearGradient18);fill-opacity:1;stroke:none;stroke-width:1.44037;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter15)"
          id="path1"
          d="m 233.85634,168.87796 c 0,0 35.38058,-29.69738 62.74732,-29.91395 35.84294,-1.71244 68.75153,9.34628 104.18692,13.86466 44.14897,5.62945 85.39864,-9.57945 133.22905,-8.79894 15.29426,0.68862 30.82117,-1.76754 50.09371,10.64248 2.40788,1.53512 4.74397,3.60269 8.16683,6.8572 1.02388,0.97353 -8.13994,2.07947 -7.05143,3.10791 1.28337,1.21251 15.14757,12.19641 16.60296,13.44586 -0.66829,-1.43542 -3.32637,-25.22034 -4.29689,-26.60509 -0.88142,-1.25763 -2.81388,10.2417 -4.01017,9.18394 -3.39817,-3.00466 -5.54028,-5.50162 -10.07278,-8.3134 -21.1879,-14.01445 -66.00392,-13.79279 -90.42826,-11.42498 -99.74391,11.6375 -92.02172,4.80066 -129.92118,-2.63113 -42.5729,-8.34821 -61.45192,-9.72224 -91.16017,-3.24585 -24.49946,5.34087 -67.2416,33.72393 -67.2416,33.72393 z"
-         sodipodi:nodetypes="ccsccsscssccsacc"
          transform="matrix(0.40887397,0,0,0.27263629,102.14854,86.33743)" />
     </g>
   </g>
