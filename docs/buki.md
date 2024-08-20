@@ -11,7 +11,7 @@ description: Страница настроек и тестирования
 
 # Буки
 
-<span id="buki-img" class="img" onclick="imgResize()">![comp and vim ](assets/svg/comp-start.svg)</span>
+<span id="buki-img" class="img" onclick="imgResize()">![comp and vim ](assets/svg/comp.svg)</span>
 
 	DOCUMENTATION
 

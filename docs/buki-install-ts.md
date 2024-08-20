@@ -9,7 +9,7 @@ description:  Последовательность установки Typescript
 
 # Развертывание Typescript
 
-<span id="typescript-img" class="img" onclick="imgResize()">![Кого подключать](assets/svg/comp-start.svg)</span>
+<span id="typescript-img" class="img" onclick="imgResize()">![Кого подключать](assets/svg/comp.svg)</span>
 
     MAC OS
 

@@ -1,6 +1,6 @@
 # Материалы и документация **А374.ru**
 
-![img](docs/assets/svg/comp-start.svg)
+![img](docs/assets/svg/comp.svg)
 
 [Ознакомиться и посмотреть здесь …](https://docs.a374.ru/a374.ru/navi)
 

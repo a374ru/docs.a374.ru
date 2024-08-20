@@ -11,7 +11,7 @@ description: Повествование о том как…
 
 # Сий день
 
-<span id="comp-start-img" class="img" onclick="imgResize()">![img](assets/svg/comp-start.svg)</span>
+<span id="comp-start-img" class="img" onclick="imgResize()">![img](assets/svg/comp.svg)</span>
 
 	DAY, NOW
 

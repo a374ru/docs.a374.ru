@@ -9,7 +9,7 @@ description: Общие понятие о переменной в програм
 
 # Aзъ переменная
 
-<span id="start-img" class="img" onclick="imgResize()">![img](assets/svg/comp-start.svg)</span>
+<span id="start-img" class="img" onclick="imgResize()">![img](assets/svg/comp.svg)</span>
 
 	CONSOLE APPLICATION
 

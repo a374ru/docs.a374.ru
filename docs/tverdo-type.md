@@ -9,7 +9,7 @@ description: Кое что о типах данных простыми слов�
 
 # ТИПЫ человеков и не только
 
-<span id="page-name-img" class="img" onclick="imgResize()">![img](assets/svg/comp-start.svg)</span>
+<span id="page-name-img" class="img" onclick="imgResize()">![img](assets/svg/comp.svg)</span>
 
 	Программирование
 

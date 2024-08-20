@@ -9,7 +9,7 @@ description:  Вариант начала ведения документаци�
 
 # Настройки проектов
 
-<span id="comp-start-img" class="img" onclick="imgResize()">![image-top](assets/svg/comp-start.svg)</span>
+<span id="comp-start-img" class="img" onclick="imgResize()">![image-top](assets/svg/comp.svg)</span>
 
 	DOCUMENTATION
 
