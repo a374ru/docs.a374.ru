@@ -4,8 +4,8 @@
 <svg
    version="1.1"
    id="svg1"
-   width="853.33331"
-   height="266.66666"
+   width="100%"
+   height="100%"
    viewBox="0 0 853.33331 266.66666"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
@@ -188,7 +188,7 @@
        style="fill:#828282;stroke-width:5.43316;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke fill markers"
        d="m 259.77484,173.34072 9.75449,1.0355 c 1.86455,0.19794 3.15295,1.32235 2.8736,2.58475 0,0 0.062,2.24289 -0.70607,3.19072 -1.02925,1.27019 -1.15738,-0.56969 -4.84524,2.87132 -0.72116,0.67291 -7.48401,-9.82953 -7.07677,-9.68234 z" />
     <ellipse
-       style="fill:#ff9400;fill-opacity:1;stroke-width:4.7103;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke fill markers"
+       style="fill:#ffe900;fill-opacity:1;stroke-width:4.7103;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke fill markers"
        id="path1"
        cx="267.71274"
        cy="176.56549"
@@ -241,7 +241,7 @@
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.9808px;font-family:'.PingFang SC';-inkscape-font-specification:'.PingFang SC, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d6d6d6;fill-opacity:1;stroke:none;stroke-width:0.898446;stroke-opacity:1">The end</tspan></text>
     <path
        id="rect200119"
-       style="opacity:0.697479;mix-blend-mode:normal;fill:#ededed;fill-opacity:0.864865;stroke:none;stroke-width:1.14632;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:stroke fill markers"
+       style="display:inline;opacity:0.37605;mix-blend-mode:normal;fill:#ededed;fill-opacity:0.864865;stroke:none;stroke-width:1.14632;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 251.78694,36.522835 c 7.72926,-0.03756 8.53302,7.464599 7.80819,13.980607 -2.71992,24.451547 -4.70966,67.249598 -4.71108,67.246628 C 233.87388,73.578395 69.085143,37.834919 71.542111,36.281703 91.04967,33.476154 183.82837,36.85316 251.78694,36.522835 Z" />
     <path
        id="rect200126"
