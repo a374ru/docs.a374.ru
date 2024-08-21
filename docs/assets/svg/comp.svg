@@ -304,13 +304,16 @@
        x="819.70148"
        y="131.64359"
        ry="2.0490596" />
-    <rect
-       style="opacity:1;fill:#828282;fill-opacity:1;stroke:none;stroke-width:4.507;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+    <path
        id="rect200214"
-       width="9.0325251"
-       height="7.9034595"
-       x="260.24963"
-       y="173.87611"
-       ry="2.3243868" />
+       style="opacity:1;fill:#828282;stroke-width:5.43316;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke fill markers"
+       d="m 259.65269,172.90515 9.75449,1.0355 c 1.86455,0.19794 3.15295,1.32235 2.8736,2.58475 0,0 0.062,2.24289 -0.70607,3.19072 -1.02925,1.27019 -1.15738,-0.56969 -4.84524,2.87132 -0.72116,0.67291 -7.48401,-9.82953 -7.07677,-9.68234 z" />
+    <ellipse
+       style="fill:#5eff00;fill-opacity:1;stroke-width:4.7103;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke fill markers"
+       id="path1"
+       cx="267.59061"
+       cy="176.12991"
+       rx="2.5221326"
+       ry="1.3228703" />
   </g>
 </svg>
