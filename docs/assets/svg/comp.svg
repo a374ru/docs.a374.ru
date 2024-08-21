@@ -216,7 +216,7 @@
        id="path200117" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.9808px;font-family:'.PingFang SC';-inkscape-font-specification:'.PingFang SC, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.271008;fill:#fffafa;fill-opacity:0.555263;stroke:none;stroke-width:0.898446;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.9808px;font-family:'.PingFang SC';-inkscape-font-specification:'.PingFang SC, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;fill:#cbc4c4;fill-opacity:0.555263;stroke:none;stroke-width:0.898446;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:stroke fill markers"
        x="107.36153"
        y="134.40103"
        id="text200106"
@@ -224,7 +224,7 @@
          id="tspan200106"
          x="107.36153"
          y="134.40103"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.9808px;font-family:'.PingFang SC';-inkscape-font-specification:'.PingFang SC, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fffafa;fill-opacity:0.555263;stroke:none;stroke-width:0.898446;stroke-opacity:1">00000001</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.9808px;font-family:'.PingFang SC';-inkscape-font-specification:'.PingFang SC, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#cbc4c4;fill-opacity:0.555263;stroke:none;stroke-width:0.898446;stroke-opacity:1">00000001</tspan></text>
     <path
        id="rect200119"
        style="opacity:0.697479;mix-blend-mode:normal;fill:#ededed;fill-opacity:0.864865;stroke:none;stroke-width:1.14632;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1;paint-order:stroke fill markers"
@@ -288,12 +288,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16.5284px;font-family:'.PingFang SC';-inkscape-font-specification:'.PingFang SC, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:1;mix-blend-mode:normal;fill:#5f5f5f;fill-opacity:1;stroke:none;stroke-width:2.00067;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       x="811.51776"
+       x="812.65717"
        y="143.43022"
        id="text200207"
        transform="scale(0.98629639,1.013894)"><tspan
          id="tspan200207"
-         x="811.51776"
+         x="812.65717"
          y="143.43022"
          style="fill:#5f5f5f;fill-opacity:1;stroke-width:2.00067"></tspan></text>
     <rect
@@ -304,9 +304,13 @@
        x="819.70148"
        y="131.64359"
        ry="2.0490596" />
-    <path
+    <rect
+       style="opacity:1;fill:#828282;fill-opacity:1;stroke:none;stroke-width:4.507;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect200214"
-       style="opacity:1;fill:#828282;stroke-width:4.46928;stroke-linecap:round;stroke-linejoin:bevel;paint-order:stroke fill markers"
-       d="m 262.26241,173.31158 h 4.3107 c 1.26625,0 2.28565,1.03668 2.28565,2.32439 v 3.25469 c 0,1.28771 -1.2267,3.44789 -2.42443,3.03005 -1.94109,-0.67718 -3.70797,-4.16021 -5.90244,-7.13154 0,-1.28771 0.46428,-1.47759 1.73052,-1.47759 z" />
+       width="9.0325251"
+       height="7.9034595"
+       x="260.24963"
+       y="173.87611"
+       ry="2.3243868" />
   </g>
 </svg>
