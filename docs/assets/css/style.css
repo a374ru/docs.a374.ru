@@ -38,6 +38,9 @@ root {
   color: #8f7161;
 }
 
+ body h1:first-child {
+    display: none;
+  }
 /* h1 {
   font-size: var(--fontSize-H1);
 } */
