@@ -4,7 +4,7 @@
  * @format
  */
 
-/* четверг, 5 октября 2023 г v2  */
+/* четверг, 5 ября 2023 г v2  */
 
 root {
   --kino-var: #e34234;
@@ -14,7 +14,7 @@ root {
   --fontIrmUCS-var: Irmologion;
   --font-var: Fontics;
   --fontEvng-var: Evangeliecs;
-  --fontSize-H1: 1.9em;
+  --fontSize-H1: 2.3em;
   --borderCode-var: 0.5px #ce6c6c42 solid;
 }
 
@@ -284,13 +284,13 @@ thead {
 
 h6 {
   font-size: 1.7vw;
-  text-align: center;
+  text-align: left;
   color: #b7b7b7;
   background-position-x: left;
   background-color: #ffdbdb38;
   padding: 1vw 1vw;
   border-radius: 5px;
-  border-bottom: 2px #9d9d9d solid;
+  /* border-bottom: 2px #9d9d9d solid; */
 }
 
 h1 {
