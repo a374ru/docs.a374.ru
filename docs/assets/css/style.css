@@ -14,7 +14,7 @@ root {
   --fontIrmUCS-var: Irmologion;
   --font-var: Fontics;
   --fontEvng-var: Evangeliecs;
-  --fontSize-H1: 1.9em;
+  --fontSize-H1: 1.4em;
   --borderCode-var: 0.5px #ce6c6c42 solid;
 }
 
@@ -38,9 +38,9 @@ root {
   color: #8f7161;
 }
 
-h1 {
+/* h1 {
   font-size: var(--fontSize-H1);
-}
+} */
 
 h2,
 h3 {
