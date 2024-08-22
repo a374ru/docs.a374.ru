@@ -14,7 +14,7 @@ root {
   --fontIrmUCS-var: Irmologion;
   --font-var: Fontics;
   --fontEvng-var: Evangeliecs;
-  --fontSize-H1: 1.4em;
+  /* --fontSize-H1: 1.4em; */
   --borderCode-var: 0.5px #ce6c6c42 solid;
 }
 
@@ -297,7 +297,7 @@ h6 {
 }
 
 h1 {
-  font-size: var(--fontSize-H1);
+  /* font-size: var(--fontSize-H1); */
   text-transform: uppercase;
   overflow-wrap: break-word;
   transform: rotate(0deg);
