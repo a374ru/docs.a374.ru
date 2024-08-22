@@ -12,7 +12,7 @@ description: Windows маркет расширений для VSCode. Настр
 
 <span id="comp-start-img" class="img" onclick="imgResize()">![image-top](assets/svg/comp-package.svg)</span>
 
-	Editor, Marketplace VSCode
+###### Editor, Marketplace VSCode
 
 <details>
   <summary>Нужные команды</summary>

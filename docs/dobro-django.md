@@ -12,7 +12,7 @@ description:  Джанго и его запуск, установка окруж
 <span id="page-name-img" class="img" onclick="imgResize(88)">![image-top](assets/svg/django.svg)</span>
 
 
-    MAC OS
+###### MAC OS
 
 Должен быть установлен язык `Python` и менеджер пакетов `pip`. Подробнее на сайте https://www.python.org/ .
 

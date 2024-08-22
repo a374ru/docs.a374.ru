@@ -11,7 +11,7 @@ description: УСТАНОВКА И НАСТРОЙКА GOOGLE CLOUD
 
 <span id="az1-img" class="img" onclick="imgResize(33)">![img](assets/svg/comp.svg)</span>
 
-      Для Mac, Linux
+###### Для Mac, Linux
 
 <details>
 <summary>Полезные ссылки</summary>

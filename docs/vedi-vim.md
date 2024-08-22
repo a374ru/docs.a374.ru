@@ -11,7 +11,7 @@ description: VIM и его использование нужно знать хо
 
 <span id="az-object-img" class="img" onclick="imgResize()">![comp and vim ](assets/svg/comp-vim.svg)</span>
 
-    VIM installation
+###### VIM installation
 
 <details>
 <summary>Необходимые команды после установки</summary>

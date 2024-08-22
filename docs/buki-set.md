@@ -11,7 +11,7 @@ description:  Вариант начала ведения документаци�
 
 <span id="comp-start-img" class="img" onclick="imgResize()">![image-top](assets/svg/comp.svg)</span>
 
-	DOCUMENTATION
+###### DOCUMENTATION
 
 ### Точка входа в ПП
 

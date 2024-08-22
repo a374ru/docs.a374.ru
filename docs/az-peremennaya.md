@@ -11,7 +11,7 @@ description: Общие понятие о переменной в програм
 
 <span id="start-img" class="img" onclick="imgResize()">![img](assets/svg/comp.svg)</span>
 
-	CONSOLE APPLICATION
+###### CONSOLE APPLICATION
 
 **Что требуется:**
 

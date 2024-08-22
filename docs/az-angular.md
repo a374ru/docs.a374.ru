@@ -13,7 +13,7 @@ description: Памятка по обновлению Angular, или как л�
 
 <span id="comp-start-img" class="img" onclick="imgResize(77)">![image-top](assets/svg/comp-angular.svg)</span>
 
-	MAC OS, Terminal
+###### MAC OS, Terminal
 
 <details>
   <summary>Необходимые удобства</summary>

@@ -11,7 +11,7 @@ description:  Последовательность установки Typescript
 
 <span id="typescript-img" class="img" onclick="imgResize()">![Кого подключать](assets/svg/comp.svg)</span>
 
-    MAC OS
+###### MAC OS
 
 Проверяем в терминале присутствие NPM командой: 
 

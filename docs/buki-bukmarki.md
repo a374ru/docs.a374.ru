@@ -9,7 +9,7 @@ description:  Заимствованный способ буквенных за�
 
 <span id="buki-bookmarks-img" class="img" onclick="imgResize()">![img](assets/svg/buki-bookmarks.svg)</span>
 
-	DOCUMENTATION
+###### DOCUMENTATION
 
 ## Места отмеченные закладками константами
 

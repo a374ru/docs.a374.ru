@@ -11,9 +11,9 @@ description: SWift  – язык программирования. Послед�
 
 <span id="comp-start-img" class="img" onclick="imgResize()">![image-top](assets/svg/comp-swift.svg)</span>
 
-```swift
-Development
-```
+
+###### Development
+
 
 ### Последовательность программирования
 

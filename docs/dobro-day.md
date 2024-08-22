@@ -13,7 +13,7 @@ description: Повествование о том как…
 
 <span id="comp-start-img" class="img" onclick="imgResize()">![img](assets/svg/comp.svg)</span>
 
-	DAY, NOW
+###### DAY, NOW
 
 
 ## У каждого

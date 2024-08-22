@@ -12,7 +12,7 @@ description: Пример шрифта Фонтикс
 
 <span id="fert-font-img" class="img" onclick="imgResize()">![img](assets/svg/fert-font.svg)</span>
 
-	FONTS
+###### FONTS
 
 Шрифт является графическим отображением звуков исходящих из уст человека умеющего извлекать эти звуки.
 

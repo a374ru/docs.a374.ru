@@ -14,7 +14,7 @@ root {
   --fontIrmUCS-var: Irmologion;
   --font-var: Fontics;
   --fontEvng-var: Evangeliecs;
-  --fontSize-H1: 1.7em;
+  --fontSize-H1: 1.9em;
   --borderCode-var: 0.5px #ce6c6c42 solid;
 }
 
@@ -283,8 +283,14 @@ thead {
 }
 
 h6 {
-  font-size: 2rem;
+  font-size: 1.7vw;
   text-align: center;
+  color: #b7b7b7;
+  background-position-x: left;
+  background-color: #ffdbdb38;
+  padding: 1vw 1vw;
+  border-radius: 5px;
+  border-bottom: 2px #9d9d9d solid;
 }
 
 h1 {

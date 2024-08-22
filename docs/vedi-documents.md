@@ -11,7 +11,7 @@ description: Ведение документации проекта, управ�
 
 <span id="page-name-img" class="img" onclick="imgResize()">![img](assets/svg/documents.svg)</span>
 
-	Markdown files
+###### Markdown files
 
 ### MARKDOWN ДОКУМЕНТАЦИЯ
 

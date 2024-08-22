@@ -13,7 +13,7 @@ description: Angular + Firebase и их настройка. Запуск, уст
 
 <span id="az1-img" class="img" onclick="imgResize()">![img](assets/svg/comp-angular-fb.svg)</span>
 
-	Development
+###### Development
 
 <details>
   <summary>Нужные команды для директории проекта</summary>

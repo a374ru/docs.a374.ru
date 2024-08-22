@@ -12,7 +12,7 @@ description: Изображения используются на разных �
 
 <span id="az-assets-img" class="img" onclick="imgResize()">![img](assets/svg/comp-4.svg)</span>	
 
-	DOCUMENTATION
+###### DOCUMENTATION
 
 ## Картинки по именам директорий
    

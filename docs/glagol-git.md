@@ -4,7 +4,7 @@
 
 <span id="buki-bookmarks-img" class="img" onclick="imgResize(55)">![image](assets/img/key-hub.png)</span>
 
-	GIT, GITHUB
+###### GIT, GITHUB
 
 ### Глобальный `.gitignore`
 

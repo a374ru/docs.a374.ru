@@ -13,7 +13,7 @@ description: API скрипта по вычислению дат правосл�
 <span id="page-name-img" class="img" onclick="imgResize()">![image-top](assets/img/apr_docs.png)</span>
 
 
-	Typescript
+###### Typescript
 
 [Здесь…](https://apr.a374.ru/generated/index.html) можно ознакомиться с документацией скрипта написанного на языке `Typescript`.
 

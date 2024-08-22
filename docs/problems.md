@@ -4,7 +4,7 @@
 
 <span id="az1-img" class="img" onclick="imgResize()">![img](assets/svg/comp-problems.svg)</span>
 
-	PROBLEMS
+###### PROBLEMS
 
 ## Некорректное поведение шрифта
 

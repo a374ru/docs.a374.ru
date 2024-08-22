@@ -13,7 +13,7 @@ description:  При русской раскладке клавиатуры не
 
 <span id="buki-img" class="img" onclick="imgResize()">![shortcuts](assets/img/shortcuts-ru.png)</span>
 
-	MAC OS
+###### MAC OS
 
 <details>
 <summary>Полезные ссылки</summary>
