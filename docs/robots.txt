@@ -1,2 +1,2 @@
 user-agent: *
-Disallow: home.a374.ru
+Disallow: /home.a374.ru
