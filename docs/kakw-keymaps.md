@@ -16,7 +16,9 @@ description:  Переназначение (переопределение) кл
 
 <details>
   <summary>Полезные ссылки</summary>
+
   <p>Коды клавиш можно узнать <a href="https://developer.apple.com/library/archive/technotes/tn2450/_index.html#//apple_ref/doc/uid/DTS40017618-CH1-TNTAG8">здесь.</a></p>
+  <p>Коды клавиш и составить список можно <a href="https://hidutil-generator.netlify.app/">здесь.</a></p>
  
   <p></p>
 
@@ -65,9 +67,9 @@ hidutil property --set '{"UserKeyMapping":[{"HIDKeyboardModifierMappingSrc": 0x7
 
 <span style="color: #e34234;"> Если вам это не подходит удалите из объектов входа нашу программу.
 
-# Вариант 2
+## Вариант 2
 
- На данном [ресурсе](https://developer.apple.com/library/archive/technotes/tn2450/_index.html#//apple_ref/doc/uid/DTS40017618-CH1-KEY_TABLE_USAGES) вы можете выбрать нужные вам клавиши и создать список свойств в виде `XML` файла расширением `.plist` и именем указанным в строке ключа `label` сгенерированного файла.
+На данном [ресурсе](https://hidutil-generator.netlify.app/) вы можете выбрать нужные вам клавиши и создать список свойств в виде `XML` файла расширением `.plist` и именем указанным в строке ключа `label` сгенерированного файла.
 
  ```plist
 <key>Label</key>
