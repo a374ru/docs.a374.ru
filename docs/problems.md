@@ -25,3 +25,12 @@
 <span id="comp-end-img" class="img" onclick="imgResize(99)">![img](assets/svg/comp-problems.svg)</span>
 
 <script src="assets/js/navi.js"></script>
+<!--ystm_start-->
+<br>
+
+ |||| 
+ |:---|:---:|---:| 
+ [← назад](pokoy-proval.md)|[ 🔝 ](#)|[далее →](rci-raskladka.md) 
+
+ <br>
+<!--ystm_end-->

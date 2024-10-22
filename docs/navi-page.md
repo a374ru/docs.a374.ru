@@ -27,3 +27,12 @@ description: Навигация по сайту, ссылки сайта в са
 <span> <script src="assets/js/navi.js"></script></span>
 
 
+<!--ystm_start-->
+<br>
+
+ |||| 
+ |:---|:---:|---:| 
+ [← назад](nash-nvm.md)|[ 🔝 ](#)|[далее →](navi.md) 
+
+ <br>
+<!--ystm_end-->

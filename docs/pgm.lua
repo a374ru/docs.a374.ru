@@ -10,7 +10,7 @@ Backward = "readme.md"
 Forward = "readme.md"
 Azbuka = {"az", "buki", "vedi", "glagol", "dobro", "esty", "givite", "zemlya", "zelo", "ige", "-i", "kakw", "ludie",
           "mislete", "nash", "on", "omega", "pokoy", "rci", "slovo", "tverdo", "uk", "fert", "her", "ot", "cii",
-          "cherv", "sha", "shy", "er", "eri", "ery", "you", "ya", "us", "ksi", "psi", "w", "fita", "igica"}
+          "cherv", "sha", "shy", "er", "eri", "ery", "you", "ya", "us", "ksi", "psi", "fita", "igica"}
 
 Tbl = {}
 Ys = 0;
@@ -32,7 +32,7 @@ local table_md = {}
 for line in io.popen("ls " .. PathToFolder, "r"):lines() do
     if string.sub(line, -3) == ".md" then
         if Fazbuka(line) then
-            table_md[#table_md + 1] = line -- создание таюлицы имен файлов markdown
+            table_md[#table_md + 1] = line -- создание таблицы имен файлов markdown
         end
     end
 end

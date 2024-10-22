@@ -33,6 +33,7 @@ pageDict = {
   "nash-nvm": "NVM менеджер",
   "rci-raskladka": "Горячие клавиши RU",
   "kakw-keymaps": "Переопределение клавиш",
+  "twerdo-time-machine": "Time Machine",
   // "404": "Страница не найдена",
   // "expenses": "Затраты",
 };
