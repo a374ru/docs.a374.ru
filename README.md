@@ -2,7 +2,7 @@
 
 ![img](docs/assets/svg/comp.svg)
 
-[Ознакомиться и посмотреть здесь …](https://docs.a374.ru/a374.ru/navi)
+[Ознакомиться и посмотреть здесь …](https://docs.a374.ru/navi-page)
 
 <!--ystm_start-->
 <br>
