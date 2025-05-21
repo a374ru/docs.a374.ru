@@ -18,9 +18,10 @@ description: Angular + Firebase и их настройка. Запуск, уст
 <details>
   <summary>Нужные команды для директории проекта</summary>
   <p>Запуск проекта ангуляр: <code>ng s -o</code></p>
-  <p>Выбор проекта для fdb: <code>firebase use --add</code></p>
-  <p>Запуск эмулятора fdb: <code>firebase emulators:start --only firestore</code></p>
-  <p>Аутенцификация fdb: <code>firebase login</code></p>
+  <p>Выбор проекта: <code>firebase use --add</code></p>
+  <p>Запуск эмулятора Firestore: <code>firebase emulators:start --only firestore</code></p>
+  <p>Сохранение данных базы Firestore: <code>firebase emulators:export your-name</code></p>
+  <p>Аутенцификация Firebase: <code>firebase login</code></p>
   <p>Порт интерфейса: <code> 4000 </code></p>
   <p></p>
 
@@ -158,6 +159,19 @@ export const environment = {
 ```
 
 Запустите проект с эмулятором `Firebase` командой: `npm start`.
+
+### отредактируйте параметр сборки файле проекта `package.json`
+
+Добавьте  в файл `package.json` в раздел `production` строки кода указанные ниже. Этот код нужен для того, чтобы при сборке  приложения `ng build` проект конектился не к эмулятору, а к настоящей базе данных `Firestore`.
+
+```sh
+"fileReplacements": [
+  { 
+  "replace": "src/environments/environment.ts",
+  "with": "src/environments/environment.prod.ts"
+  }
+]
+```
 
 Должно сработать. Конечно не с первого раза! Как обычно. Не поленитесь потратьте время на изучение документации настройки проектов `Firebase`.
 
