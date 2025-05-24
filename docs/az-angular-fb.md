@@ -23,6 +23,7 @@ description: Angular + Firebase и их настройка. Запуск, уст
   <p>Сохранение данных базы Firestore: <code>firebase emulators:export your-name</code></p>
   <p>Аутенцификация Firebase: <code>firebase login</code></p>
   <p>Порт интерфейса: <code> 4000 </code></p>
+  <p>Сборка проекта: <code>ng build --output-path docs --base-href /your-name/</code></p>
   <p></p>
 
 
@@ -174,6 +175,14 @@ export const environment = {
 ```
 
 Должно сработать. Конечно не с первого раза! Как обычно. Не поленитесь потратьте время на изучение документации настройки проектов `Firebase`.
+
+
+## <span style="color: #e34234;">Сборка проекта для публикации
+
+```sh
+ng build --output-path docs --base-href /your-name/
+```
+
 
 
 <br>
