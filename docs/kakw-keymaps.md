@@ -15,8 +15,8 @@ description:  Переназначение (переопределение) кл
 
 
 <details>
-  <summary>Полезные ссылки</summary>
 
+  <summary>Полезные ссылки</summary>
   <p>Коды клавиш можно узнать <a href="https://developer.apple.com/library/archive/technotes/tn2450/_index.html#//apple_ref/doc/uid/DTS40017618-CH1-TNTAG8">здесь.</a></p>
   <p>Коды клавиш и составить список можно <a href="https://hidutil-generator.netlify.app/">здесь.</a></p>
  
