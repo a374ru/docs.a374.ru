@@ -20,7 +20,8 @@ description: Angular + Firebase и их настройка. Запуск, уст
   <p>Запуск проекта ангуляр: <code>ng s -o</code></p>
   <p>Выбор проекта: <code>firebase use --add</code></p>
   <p>Запуск эмулятора Firestore: <code>firebase emulators:start --only firestore</code></p>
-  <p>Сохранение данных базы Firestore: <code>firebase emulators:export your-name</code></p>
+  <p>Сохранение данных эммулятора базы Firestore: <code>firebase emulators:export your-name</code></p>
+  <p>Загрузка данных из эммулятора базы Firestore: <code>firebase emulators:start --import your-name</code></p>
   <p>Аутенцификация Firebase: <code>firebase login</code></p>
   <p>Порт интерфейса: <code> 4000 </code></p>
   <p>Сборка проекта: <code>ng build --output-path docs --base-href /your-name/</code></p>
