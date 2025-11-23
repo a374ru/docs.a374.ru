@@ -187,7 +187,29 @@ ng build --output-path docs --base-href /your-name/
 
 ## <span style="color: #bf2c2cff;"> Команда публикации на дополнительном хостинге проекта.
 
-Сначала вы выполните сборку проектасборку проекта командой:
+Первым шагом добавьте файл `firebase.json` такие строки кода:
+
+```json
+ "hosting": {
+  "target": "HOSTING_NAME",
+    "public": "dist/browser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+```
+
+… далее выполните в терминале команду:
+
+Сначала вы выполните сборку проекта командой:
 
 ```sh
 ng build
