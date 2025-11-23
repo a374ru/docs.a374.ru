@@ -9,7 +9,7 @@ description: Angular + Firebase и их настройка. Запуск, уст
 
 <div class="navi"><nav id="navi"><!-- js --></nav></div>
 
-# <span style="color: #e34234;">Энгуларъ + Огонёкъ
+# <span style="color: #e34234;">`Angular` + `Firebase`
 
 <span id="az1-img" class="img" onclick="imgResize()">![img](assets/svg/comp-angular-fb.svg)</span>
 
@@ -178,12 +178,57 @@ export const environment = {
 Должно сработать. Конечно не с первого раза! Как обычно. Не поленитесь потратьте время на изучение документации настройки проектов `Firebase`.
 
 
-## <span style="color: #e34234;">Сборка проекта для публикации
+## Сборка проекта для публикации
 
 ```sh
 ng build --output-path docs --base-href /your-name/
 ```
 
+
+## <span style="color: #bf2c2cff;"> Команда публикации на дополнительном хостинге проекта.
+
+Сначала вы выполните сборку проектасборку проекта командой:
+
+```sh
+ng build
+```
+
+… далее прсмотрите и ваберете проект `firebase`, на котором был создан хостинг:
+
+команда просмотра проектов:
+
+```sh
+firebase projects:list
+```
+
+команда выбора проекта:
+
+```sh
+firebase use PROJECT_ID
+```
+
+### Добавление имени проекта и цели в файл `.firebasers`
+
+```json
+{
+	"projects": {
+		"default": "PROJECT_ID"
+	},
+	"targets": {
+		"PROJECT_ID": {
+			"hosting": {
+				"HOSTING_NAME": ["HOSTING_NAME"]
+			}
+		}
+	}
+}
+```
+
+… если выполнены все вышеупомянутые условия, тогда можно запустить команду:
+
+```sh
+firebase deploy
+```
 
 
 <br>
