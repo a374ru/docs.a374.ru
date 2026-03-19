@@ -15,6 +15,7 @@ description: Windows маркет расширений для VSCode. Настр
 ###### Editor, Marketplace VSCode
 
 <details>
+
   <summary>Нужные команды</summary>
   <p>Добавить токен: <code>vsce login <yourename></code></p>
   <p>Публикация: <code>vsce publish</code></p>
